@@ -17,4 +17,11 @@ The plethora of closed and/or paid tools is a barrier to open science that doesn
 * Researchers: Get an idea of tools you could use
 * Educators: What/how to teach digital research skills
 
+## Classes to cover all the stuff
+
+* Discipline specific (e.g. MRI analysis)
+* Research statistics
+* Data visualisation best practices
+* Programming best practices
+* Spreadsheet best practices
 
