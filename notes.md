@@ -1,3 +1,14 @@
+### Author list
+
+Damien Irving (Melbourne 2015 poster session coordinator, lead author)  
+Kim Doyle (Melbourne 2016 poster session coordinator)
+Tim Rice (Melbourne 2017 poster session coordinator)
+Stephanie Bradbury (Brisbane 2016 poster session coordinator)
+Amanda Miotto (Brisbane 2017 poster session coordinator)
+Heidi Perrett (Brisbane 2017 poster session coordinator)
+Belinda Weaver (ResBaz Brisbane coordinator)
+David Flanders (ResBaz Melbourne coordinator)
+
 ### Scope of analysis
 
 * Primary interest: Computer software for analysing and visualising data 
