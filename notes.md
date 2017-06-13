@@ -27,4 +27,4 @@ We do programming best practices well (e.g. Software Carpentry),
 spreadsheet best practices well (e.g. Data Carpentry),
 but there seems to be a gap in what we offer for data visualisation best practices.
 
-The plethora of closed and/or paid tools and/or no scripting option is a barrier to open science that doesn't get much attention.
+The plethora of closed and/or paid and/or no scripting tools is a barrier to open science that doesn't get much attention.
