@@ -3,7 +3,7 @@
 * Primary interest: Computer software for analysing and visualising data 
 * Side interest: Digital tools that help with research (e.g. referencing, document editing, graphics editing) 
 * Out: Computer models (e.g. climate models, biological models, economic models)
-* Out: Physical hardware (e.g. microscopes)
+* Out: Physical hardware (e.g. microscopes, scanners)
 
 ### Reasons to read paper
 
