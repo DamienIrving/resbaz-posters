@@ -21,6 +21,10 @@
 * Researchers: Get an idea of tools you could use
 * Educators: What/how to teach digital research skills
 
+### Relevant literature
+
+* Around 18% of all researchers use LaTeX [(Pepe, 2016)](https://www.authorea.com/users/3/articles/107393-how-many-scholarly-articles-are-written-in-latex/_show_article)  
+
 ### Take away message/s
 
 There are so many tools you couldn't possibly provide support and training for all of them.
