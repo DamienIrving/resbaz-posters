@@ -1,11 +1,35 @@
 # Support tools
 
-1. [Information management](#information_management)  
-2. [Data collection](#data_collection)   
-3. [3D design, simulation and visualisation](#3d)    
-4. [Code development](#code_development)    
-5. [File management](#file_management)    
-6. [Research presentation](#research_presentation)   
+[Information management](#information_management)
+* Reference management
+* PDF reading/annotation
+* Project management
+* Time management
+* Online information
+* Note taking
+  
+[Data collection](#data_collection)   
+* Survey tools
+* Video editing
+* Audio editing/transcribing
+
+[3D design, simulation and visualisation](#3d)    
+
+[Code development](#code_development)
+* Editors
+* Interactive development environments
+
+[File management](#file_management)    
+* Storage/sharing
+* Backup
+* Organisation
+* Search
+* Version control
+
+[Research presentation](#research_presentation)   
+* Document editing
+* Graphics editing
+* Visual presentations
 
 
 <a id="information_management"></a>
@@ -80,10 +104,8 @@
 * [REDCap](https://www.project-redcap.org/software/)
 * [Qualtrics](http://get.qualtrics.com/survey/)
 * [Quadrant](http://www.quadrant.edu.au/)
-
-### Psychological testing
-
-* [Inquisit](https://www.scienceplus.com/inquisit)
+* Psychological testing:
+  * [Inquisit](https://www.scienceplus.com/inquisit)
 
 ### Video editing
 
@@ -146,7 +168,7 @@
 <a id="file_management"></a>
 ## 5. File Management Tools
 
-### Storage / sharing
+### Storage/sharing
 
 * Dropbox
 * SpiderOak
