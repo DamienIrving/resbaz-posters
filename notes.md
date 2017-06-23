@@ -1,4 +1,4 @@
-### Author list
+## Author list
 
 * Damien Irving (Melbourne 2015 poster session coordinator, lead author)  
 * Kim Doyle (Melbourne 2016 poster session coordinator)  
@@ -9,6 +9,24 @@
 * Belinda Weaver (ResBaz Brisbane coordinator)  
 * David Flanders (ResBaz Melbourne coordinator)  
 
+## Introduction
+
+### Relevant literature
+
+* Around 18% of all researchers use LaTeX [(Pepe, 2016)](https://www.authorea.com/users/3/articles/107393-how-many-scholarly-articles-are-written-in-latex/_show_article)  
+
+### Reasons to read paper
+
+* Researchers: Get an idea of tools you could use
+* Educators: What/how to teach digital research skills
+
+
+## Methodology
+
+The ResBaz poster sessions are explained at [this post](http://melbourne.resbaz.edu.au/post/108054124634/the-resbaz-poster-session-with-a-difference).
+
+Research disciplines were taken from the [Australian and New Zealand Standard Research Classification (ANZSRC), 2008](http://www.abs.gov.au/ausstats/abs@.nsf/Products/6BB427AB9696C225CA2574180004463E?opendocument).
+
 ### Scope of analysis
 
 * Primary interest: Computer software for analysing and visualising data 
@@ -17,16 +35,8 @@
 * Out: Physical hardware (e.g. microscopes, scanners)
 * Out: Data search tools (e.g. Trove)
 
-### Reasons to read paper
 
-* Researchers: Get an idea of tools you could use
-* Educators: What/how to teach digital research skills
-
-### Relevant literature
-
-* Around 18% of all researchers use LaTeX [(Pepe, 2016)](https://www.authorea.com/users/3/articles/107393-how-many-scholarly-articles-are-written-in-latex/_show_article)  
-
-### Take away message/s
+## Discussion / conclusions
 
 There are so many tools you couldn't possibly provide support and training for all of them.
 The aim should therefore be to teach generic skills / best practices that people can use to teach themselves different tools.
