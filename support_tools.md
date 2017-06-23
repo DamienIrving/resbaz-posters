@@ -9,9 +9,9 @@
 
 
 <a id="information_management"></a>
-# 1. Information Management Tools
+## 1. Information Management Tools
 
-## Reference management
+### Reference management
 
 * Mendeley
 * Zotero
@@ -25,19 +25,19 @@
 * RefWorks
 * citethisforme.com
 
-## PDF reading/annotation
+### PDF reading/annotation
 
 * Skim
 * GoodReader
 
-## Project management
+### Project management
 
 * Gantt project
 * Wunderlist	
 * Trello 
 *	Asana
 
-## Time management
+### Time management
 
 * Rescue time
 * Tomighty
@@ -45,12 +45,12 @@
 * Handle
 * Time Out
 
-## Online information
+### Online information
 
 * Padlet	
 * Feedly
 
-## Note taking
+### Note taking
 
 * OneNote
 * Audio Memos
@@ -61,18 +61,18 @@
 * DayOne
 * Dragon Speech Recognition
 
-## Concept mapping
+### Concept mapping
 
 * CmapTools
 * MindMup	
 
 
 <a id="data_collection"></a>
-# 2. Data Collection Tools
+## 2. Data Collection Tools
 
 (We aren't counting physical data collection tools like digital microscopes, sensors, etc)
 
-## Survey tools
+### Survey tools
 
 * Limesurvey
 * Survey Monkey
@@ -81,11 +81,11 @@
 * [Qualtrics](http://get.qualtrics.com/survey/)
 * [Quadrant](http://www.quadrant.edu.au/)
 
-## Psychological testing
+### Psychological testing
 
 * [Inquisit](https://www.scienceplus.com/inquisit)
 
-## Video editing
+### Video editing
 
 * Stop Motion Studio	
 * iMovie	
@@ -97,14 +97,14 @@
 * WIPster
 * VLC
 
-## Audio editing / transcribing
+### Audio editing / transcribing
 
 * Audacity	
 * Express Scribe
 
 
 <a id="3d"></a>
-# 3. 3D Design, Simulation and Visualisation Tools
+## 3. 3D Design, Simulation and Visualisation Tools
 
 * SketchUp
 * Abaqus
@@ -124,9 +124,9 @@
 
 
 <a id="code_development"></a>
-# 4. Code Development
+## 4. Code Development
 
-## Editors
+### Editors
 
 * Vim
 * Emacs
@@ -137,16 +137,16 @@
 * LiveCode	
 * TextWrangler
 
-## Interactive development environments
+### Interactive development environments
 
 * RStudio
 * Jupyter notebook
 
 
 <a id="file_management"></a>
-# 5. File Management Tools
+## 5. File Management Tools
 
-## Storage / sharing
+### Storage / sharing
 
 * Dropbox
 * SpiderOak
@@ -155,43 +155,43 @@
 * OneDrive
 * WeTransfer
 
-## Backup
+### Backup
 
 * Time machine 
 * MS SyncToy
 
-## Organisation
+### Organisation
 
 * [Hazel](https://www.noodlesoft.com/)
 
-## Search
+### Search
 
 * [Alfred](https://www.alfredapp.com/)
 
-## Version control
+### Version control
 
-### Software
+#### Software
 
 * Git
 * Subversion
 * Mercurial
 
-### Client
+#### Client
 
 * Sourcetree
 * Tower
 * TortoiseGit
 
-### Hosting service
+#### Hosting service
 
 * GitHub
 * Bitbucket
 
 
 <a id="research_presentation"></a>
-# 6. Research Presentation Tools
+## 6. Research Presentation Tools
 
-## Document editing
+### Document editing
 
 * Word
 * Pages
@@ -214,7 +214,9 @@
 * Adobe PDF
 * Foxit PDF
 
-## Graphics editing 
+### Graphics editing 
+
+#### Editing software
 
 * Illustrator
 * Photoshop
@@ -225,12 +227,13 @@
 * Paint.NET
 * [SigmaScan](http://www.sigmaplot.co.uk/products/sigmascan/sigmascan.php)
 
-* Icons, colors and simple graphic creation:
-  * [Omnigaffle](https://www.omnigroup.com/omnigraffle)
-  * [Noun Project](https://thenounproject.com/)	
-  * Adobe Kuler
+#### Icons, colors and simple graphic creation
 
-# Visual presentations
+* [Omnigaffle](https://www.omnigroup.com/omnigraffle)
+* [Noun Project](https://thenounproject.com/)	
+* Adobe Kuler
+
+### Visual presentations
 
 * PowerPoint 
 * Keynote
