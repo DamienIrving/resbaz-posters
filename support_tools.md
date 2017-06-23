@@ -34,7 +34,7 @@
 <hr/>
 
 <a id="information_management"></a>
-## 1. Information Management Tools
+## Information Management Tools
 
 ### Reference management
 
@@ -93,7 +93,7 @@
 
 
 <a id="data_collection"></a>
-## 2. Data Collection Tools
+## Data Collection Tools
 
 (We aren't counting physical data collection tools like digital microscopes, sensors, etc)
 
@@ -127,7 +127,7 @@
 
 
 <a id="3d"></a>
-## 3. 3D Design, Simulation and Visualisation Tools
+## 3D Design, Simulation and Visualisation Tools
 
 * SketchUp
 * Abaqus
@@ -147,7 +147,7 @@
 
 
 <a id="code_development"></a>
-## 4. Code Development
+## Code Development
 
 ### Editors
 
@@ -167,7 +167,7 @@
 
 
 <a id="file_management"></a>
-## 5. File Management Tools
+## File Management Tools
 
 ### Storage/sharing
 
@@ -212,7 +212,7 @@
 
 
 <a id="research_presentation"></a>
-## 6. Research Presentation Tools
+## Research Presentation Tools
 
 ### Document editing
 
