@@ -28,7 +28,11 @@
 ### Take away message/s
 
 There are so many tools you couldn't possibly provide support and training for all of them.
-The aim should therefore be to teach generic skills / best practices that people can use to teach themselves.
+The aim should therefore be to teach generic skills / best practices that people can use to teach themselves different tools.
+Having said that, if possible it's nice to deliver training on generic skills using a widely used tool
+(i.e. so people can learn the tool and skills at the same time).
+This paper gives excellent guidance on what tools to focus on for different disciplines/audiences.
+
 The skills / best practices that cover all the tools on the posters can be broadly grouped as follows:
 1. Discipline specific knowledge/skills (e.g. MRI analysis software)
 2. Research statistics
