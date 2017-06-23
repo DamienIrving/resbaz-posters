@@ -32,6 +32,12 @@ Scope of analysis:
 * Out: Physical hardware (e.g. microscopes, scanners)
 * Out: Data search tools (e.g. Trove)
 
+Things to look at:
+* The full list of tools
+* The relative popularity of the tools
+* Profiles for each well-represented research discipline:
+  * Typical researcher (i.e. what is the most popular tool in each tool category)
+  * Open researcher (i.e. is there a free and open option in each tool category)  
 
 ## Discussion / conclusions
 
