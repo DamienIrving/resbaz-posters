@@ -31,6 +31,7 @@
 * Graphics editing
 * Visual presentations
 
+<hr/>
 
 <a id="information_management"></a>
 ## 1. Information Management Tools
