@@ -11,12 +11,10 @@
 
 ## Introduction
 
-### Relevant literature
-
+Relevant literature:  
 * Around 18% of all researchers use LaTeX [(Pepe, 2016)](https://www.authorea.com/users/3/articles/107393-how-many-scholarly-articles-are-written-in-latex/_show_article)  
 
-### Reasons to read paper
-
+Reasons to read paper:  
 * Researchers: Get an idea of tools you could use
 * Educators: What/how to teach digital research skills
 
@@ -27,8 +25,7 @@ The ResBaz poster sessions are explained at [this post](http://melbourne.resbaz.
 
 Research disciplines were taken from the [Australian and New Zealand Standard Research Classification (ANZSRC), 2008](http://www.abs.gov.au/ausstats/abs@.nsf/Products/6BB427AB9696C225CA2574180004463E?opendocument).
 
-### Scope of analysis
-
+Scope of analysis:  
 * Primary interest: Computer software for analysing and visualising data 
 * Side interest: Digital tools that help with research (e.g. referencing, document editing, graphics editing) 
 * Out: Computer models (e.g. climate models, biological models, economic models)
