@@ -61,3 +61,7 @@ spreadsheet best practices well (e.g. Data Carpentry),
 but there seems to be a gap in what we offer for data visualisation best practices.
 
 The plethora of closed and/or paid and/or no scripting tools is a barrier to open science that doesn't get much attention.
+
+Open (and free) tools typically require coding skills (unlike paid/closed, which often have a GUI).
+This means teaching coding best practices empowers researchers to do open science.
+
