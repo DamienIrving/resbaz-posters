@@ -28,7 +28,7 @@ Research disciplines were taken from the [Australian and New Zealand Standard Re
 Scope of analysis:  
 * Primary interest: Computer software for analysing and visualising data 
 * Side interest: Digital tools that help with research (e.g. referencing, document editing, graphics editing) 
-* Out: Computer models (e.g. climate models, biological models, economic models)
+* Out: Computer models (e.g. climate models, biological models, economic models)? This gets tricky with statistical population models and things like that - where is the line? Highly discipline specific models are out but general statistical models are in?? 
 * Out: Physical hardware (e.g. microscopes, scanners)
 * Out: Data search tools (e.g. Trove)
 
