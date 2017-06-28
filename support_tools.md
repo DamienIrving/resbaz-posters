@@ -257,8 +257,9 @@
 * [Omnigaffle](https://www.omnigroup.com/omnigraffle)
 * [Noun Project](https://thenounproject.com/)	
 * Adobe Kuler
+* Piktochart
 
-### Visual presentations
+### Verbal presentations
 
 * PowerPoint 
 * Keynote
