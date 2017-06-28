@@ -86,10 +86,12 @@
 * DayOne
 * Dragon Speech Recognition
 
-### Concept mapping
+### Concept/mind mapping
 
 * CmapTools
 * MindMup	
+* Xmind
+* [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 
 
 <a id="data_collection"></a>
