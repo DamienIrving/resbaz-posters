@@ -178,6 +178,7 @@
 
 * Dropbox
 * SpiderOak
+* Backblaze
 * Google Drive
 * Gcloud
 * OneDrive
