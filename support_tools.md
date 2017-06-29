@@ -249,6 +249,7 @@
 * Photoshop
 * Inkscape
 * GIMP
+* IrfanView
 * Pixelmator
 * Paintbrush
 * Paint.NET
