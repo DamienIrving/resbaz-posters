@@ -169,6 +169,7 @@
 * RStudio
 * Jupyter notebook
 * [IDLE](https://docs.python.org/3/library/idle.html)
+* Spyder
 
 
 <a id="file_management"></a>
