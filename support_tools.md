@@ -55,6 +55,7 @@
 * Skim
 * GoodReader
 * Adobe Acrobat
+* Master PDF Editor
 
 ### Project management
 
@@ -271,6 +272,7 @@
 * Keynote
 * Open Office (Impress Presentation)
 * Prezi	
+* Google Slides
 * R presentations
 * Slidify
 * Haiku Deck
