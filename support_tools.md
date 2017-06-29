@@ -272,6 +272,7 @@
 * Open Office (Impress Presentation)
 * Prezi	
 * R presentations
+* Slidify
 * Haiku Deck
 * LaTeX Powerdot
 * Beamer
