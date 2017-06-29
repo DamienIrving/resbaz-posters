@@ -168,6 +168,7 @@
 
 * RStudio
 * Jupyter notebook
+* [IDLE](https://docs.python.org/3/library/idle.html)
 
 
 <a id="file_management"></a>
