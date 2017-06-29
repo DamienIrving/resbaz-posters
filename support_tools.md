@@ -14,6 +14,8 @@
 * Audio editing/transcribing
 
 [3D design, simulation and visualisation](#3d)    
+* General
+* Molecular visualisation
 
 [Code development](#code_development)
 * Editors
@@ -134,6 +136,8 @@
 <a id="3d"></a>
 ## 3D Design, Simulation and Visualisation Tools
 
+### General 
+
 * SketchUp
 * Abaqus
 * Autodesk Inventor
@@ -149,6 +153,11 @@
 * FreeCAD
 * Geomagic Qualify
 * Geomagic studio
+
+### Molecular visualisation
+
+* [PyMOL](https://www.pymol.org/)
+* [Molsoft ICM-Browser](https://www.molsoft.com/icm_browser.html)
 
 
 <a id="code_development"></a>
