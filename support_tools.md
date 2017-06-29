@@ -54,6 +54,7 @@
 
 * Skim
 * GoodReader
+* Adobe Acrobat
 
 ### Project management
 
