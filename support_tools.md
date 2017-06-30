@@ -1,6 +1,7 @@
 # Support tools
 
 [Information management](#information_management)
+* Finding data
 * Reference management
 * PDF reading/annotation
 * Project management
@@ -37,6 +38,12 @@
 
 <a id="information_management"></a>
 ## Information Management Tools
+
+### Finding data
+
+* [Trove](http://trove.nla.gov.au/)
+* [Trismegistos](http://www.trismegistos.org/)
+
 
 ### Reference management
 
