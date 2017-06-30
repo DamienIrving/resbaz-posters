@@ -33,6 +33,14 @@ Things to look at:
   * Split into separate research disciplines
 * Tools that cross discipline boundaries
 
+Results to produce:
+* Tool list
+* Total usage plot:
+  * For each tool category produce a bar chart with bars broken into colors for each broad discipline (perhaps scaled by number of people from that discipline).
+* Discipline usage plot:
+  * For each tool category produce a bar chart with bars broken into colors for each sub-discipline (perhaps scaled by number of people from that sub-discipline)
+  * Limit this analysis to sub-disciplines with a sufficient number of people
+
 
 ## Discussion / conclusions
 
