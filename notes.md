@@ -14,10 +14,6 @@
 Relevant literature:  
 * Around 18% of all researchers use LaTeX [(Pepe, 2016)](https://www.authorea.com/users/3/articles/107393-how-many-scholarly-articles-are-written-in-latex/_show_article)  
 
-Reasons to read paper:  
-* Researchers: Get an idea of tools you could use
-* Educators: What/how to teach digital research skills
-
 
 ## Methodology
 
@@ -26,26 +22,28 @@ The ResBaz poster sessions are explained at [this post](http://melbourne.resbaz.
 Research disciplines were taken from the [Australian and New Zealand Standard Research Classification (ANZSRC), 2008](http://www.abs.gov.au/ausstats/abs@.nsf/Products/6BB427AB9696C225CA2574180004463E?opendocument).
 
 Scope of analysis:  
-* Primary interest: Computer software for analysing and visualising data 
+* Primary interest: Digital tools for organising, analysing and visualising data 
 * Side interest: Digital tools that help with research (e.g. referencing, document editing, graphics editing) 
-* Out: Computer models (e.g. climate models, biological models, economic models)? This gets tricky with statistical population models and things like that - where is the line? Highly discipline specific models are out but general statistical models are in?? 
+* Out: Complex computer models (e.g. climate models, biological models, economic models)
 * Out: Physical hardware (e.g. microscopes, scanners)
-* Out: Data search tools (e.g. Trove)
 
 Things to look at:
 * The full list of tools
 * The relative popularity of the tools
-* Profiles for each well-represented research discipline:
-  * Typical researcher (i.e. what is the most popular tool in each tool category)
-  * Open researcher (i.e. is there a free and open option in each tool category)  
+  * Split into separate research disciplines
+* Tools that cross discipline boundaries
+
 
 ## Discussion / conclusions
 
-There are so many tools you couldn't possibly provide support and training for all of them.
-The aim should therefore be to teach generic skills / best practices that people can use to teach themselves different tools.
-Having said that, if possible it's nice to deliver training on generic skills using a widely used tool
-(i.e. so people can learn the tool and skills at the same time).
-This paper gives excellent guidance on what tools to focus on for different disciplines/audiences.
+There are so many tools that you couldn't possibly provide support and training for all of them.
+
+What we can do with this dataset is identify the most popular tools (i.e. the ones to focus our training efforts on).
+When teaching these tools, we need to recognise that researchers use a wide variety of tools
+and that the specific tools they use will change over time.
+If we can incorporate a strong emphasis on generic skills / best practices into our training,
+people walk out with skills in that specific tool *and* 
+generic skills that empower them to learn and use other tools more effectively.
 
 The skills / best practices that cover all the tools on the posters can be broadly grouped as follows:
 1. Discipline specific knowledge/skills (e.g. MRI analysis software)
@@ -59,6 +57,10 @@ which leaves (3), (4) and (5) to departments like Research Platform Services.
 We do programming best practices well (e.g. Software Carpentry),
 spreadsheet best practices well (e.g. Data Carpentry),
 but there seems to be a gap in what we offer for data visualisation best practices.
+
+The usage patterns of the various digital research tools cross many discipline boundaries.
+In other words, researchers from completely separate research fields can often have a lot in common
+when it comes to the digital research tools that they use.
 
 The plethora of closed and/or paid and/or no scripting tools is a barrier to open science that doesn't get much attention.
 
