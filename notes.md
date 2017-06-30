@@ -36,10 +36,11 @@ Things to look at:
 Results to produce:
 * Tool list
 * Total usage plot:
-  * For each tool category produce a bar chart with bars broken into colors for each broad discipline (perhaps scaled by number of people from that discipline).
+  * For each tool category produce a bar chart with bars broken into colors for each broad discipline
+  * Produce an alternative plot scaled by number of people from each discipline (e.g. the bar chunks would represent the number of users per hypothetical sample of 100 researchers - in other words, had we sampled evenly this is what the results would look like)
+  * Perhaps some sub-disciplines are so large and/or distinct that they could form their own group on the plot? (e.g. atmospheric scientists and geologists are very different and probably shouldn't be groups as earth sciences)
 * Discipline usage plot:
-  * For each tool category produce a bar chart with bars broken into colors for each sub-discipline (perhaps scaled by number of people from that sub-discipline)
-  * Limit this analysis to sub-disciplines with a sufficient number of people
+  * Same as total usage plot but for each broad discipline (i.e. bars broken down by sub-discipline)
 
 
 ## Discussion / conclusions
