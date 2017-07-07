@@ -1,6 +1,6 @@
-# Support tools
+# Support tool categories
 
-[Information management](#information_management)
+Information management
 * Finding data
 * Reference management
 * PDF reading/annotation
@@ -9,290 +9,27 @@
 * Online information
 * Note taking
   
-[Data collection](#data_collection)   
+Data collection   
 * Survey tools
 * Video editing
 * Audio editing/transcribing
 
-[3D design, simulation and visualisation](#3d)    
+3D design, simulation and visualisation
 * General
 * Molecular visualisation
 
-[Code development](#code_development)
+Code development
 * Editors
 * Interactive development environments
 
-[File management](#file_management)    
+File management    
 * Storage/sharing
 * Backup
 * Organisation
 * Search
 * Version control
 
-[Research presentation](#research_presentation)   
+Research presentation 
 * Document editing
 * Graphics editing
-* Visual presentations
-
-<hr/>
-
-<a id="information_management"></a>
-## Information Management Tools
-
-### Finding data
-
-* [Trove](http://trove.nla.gov.au/)
-* [Trismegistos](http://www.trismegistos.org/)
-
-
-### Reference management
-
-* Mendeley
-* Zotero
-* EndNote
-* Qiqqa
-* Bibtex
-* JabRef
-* ReadCube
-* Papers	
-* BibDesk
-* RefWorks
-* citethisforme.com
-
-### PDF reading/annotation
-
-* Skim
-* GoodReader
-* Adobe Acrobat
-* Master PDF Editor
-
-### Project management
-
-* Gantt project
-* Wunderlist	
-* Trello 
-*	Asana
-* Gantter
-
-### Time management
-
-* Rescue time
-* Tomighty
-* Eggscellent
-* Handle
-* Time Out
-
-### Online information
-
-* Padlet	
-* Feedly
-
-### Note taking
-
-* OneNote
-* Audio Memos
-* Evernote
-* GoodNotes
-* Simplenote	
-* Byword	
-* DayOne
-* Dragon Speech Recognition
-
-### Concept/mind mapping
-
-* CmapTools
-* MindMup	
-* Xmind
-* [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
-
-
-<a id="data_collection"></a>
-## Data Collection Tools
-
-(We aren't counting physical data collection tools like digital microscopes, sensors, etc)
-
-### Survey tools
-
-* Limesurvey
-* Survey Monkey
-* Google Forms
-* [REDCap](https://www.project-redcap.org/software/)
-* [Qualtrics](http://get.qualtrics.com/survey/)
-* [Quadrant](http://www.quadrant.edu.au/)
-* Psychological testing:
-  * [Inquisit](https://www.scienceplus.com/inquisit)
-
-### Video editing
-
-* Stop Motion Studio	
-* iMovie	
-* PowerDirector	
-* Adobe Premier	
-* Adobe After Effects	
-* MPEG streamclip	
-* CamStudio	
-* WIPster
-* VLC
-
-### Audio editing / transcribing
-
-* Audacity	
-* Express Scribe
-
-
-<a id="3d"></a>
-## 3D Design, Simulation and Visualisation Tools
-
-### General 
-
-* SketchUp
-* Abaqus
-* Autodesk Inventor
-* Meshmixer
-* REVIT	
-* Solidworks
-* Simpleware
-* Mimics / 3-matic
-* AutoCAD
-* Rhino
-* Blender
-* OpenSCAD	
-* FreeCAD
-* Geomagic Qualify
-* Geomagic studio
-
-### Molecular visualisation
-
-* [PyMOL](https://www.pymol.org/)
-* [Molsoft ICM-Browser](https://www.molsoft.com/icm_browser.html)
-
-
-<a id="code_development"></a>
-## Code Development
-
-### Editors
-
-* Vim
-* Emacs
-* Nedit
-* Sublime
-* Notepad++	
-* Kate	
-* LiveCode	
-* TextWrangler
-
-### Interactive development environments
-
-* RStudio
-* Jupyter notebook
-* [IDLE](https://docs.python.org/3/library/idle.html)
-* Spyder
-
-
-<a id="file_management"></a>
-## File Management Tools
-
-### Storage/sharing
-
-* Dropbox
-* SpiderOak
-* Backblaze
-* Google Drive
-* Gcloud
-* OneDrive
-* WeTransfer
-
-### Backup
-
-* Time machine 
-* MS SyncToy
-
-### Organisation
-
-* [Hazel](https://www.noodlesoft.com/)
-
-### Search
-
-* [Alfred](https://www.alfredapp.com/)
-
-### Version control
-
-#### Software
-
-* Git
-* Subversion
-* Mercurial
-
-#### Client
-
-* Sourcetree
-* Tower
-* TortoiseGit
-
-#### Hosting service
-
-* GitHub
-* Bitbucket
-
-
-<a id="research_presentation"></a>
-## Research Presentation Tools
-
-### Document editing
-
-* Word
-* Pages
-* Scrivener
-* Google Docs
-* OpenOffice Writer	
-* LaTeX
-  * LyX	
-  * TEXnicCenter
-  * Authorea
-  * TeXWorks
-  * TeXPad
-  * TeXShop
-  * TeXMaker
-  * WinEdt
-* Markdown
-  * MultiMarkdown
-  * Marked2
-  * R Markdown
-* Adobe PDF
-* Foxit PDF
-
-### Graphics editing 
-
-#### Editing software
-
-* Illustrator
-* Photoshop
-* Inkscape
-* GIMP
-* IrfanView
-* Pixelmator
-* Paintbrush
-* Paint.NET
-* [SigmaScan](http://www.sigmaplot.co.uk/products/sigmascan/sigmascan.php)
-
-#### Icons, colors and simple graphic creation
-
-* [Omnigaffle](https://www.omnigroup.com/omnigraffle)
-* [Noun Project](https://thenounproject.com/)	
-* Adobe Kuler
-* Piktochart
-
-### Verbal presentations
-
-* PowerPoint 
-* Keynote
-* Open Office (Impress Presentation)
-* Prezi	
-* Google Slides
-* R presentations
-* Slidify
-* Haiku Deck
-* LaTeX Powerdot
-* Beamer
-* InDesign
-* HTML
+* Slides
