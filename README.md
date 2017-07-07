@@ -7,7 +7,8 @@ The repository contains the following:
 * **poster_data.csv** - the raw data from the posters
 * **datasci_tools.md** - overview of the data science tools identified in the posters
 * **datasci_tools.csv** - details of the data science tools identified in the posters
-* **support_tools.md** - details of the support tools identified in the posters
+* **support_tools.md** - overview of the support tools identified in the posters
+* **support_tools.csv** - details of the support tools identified in the posters
 
 
 
