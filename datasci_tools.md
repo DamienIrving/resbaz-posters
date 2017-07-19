@@ -4,31 +4,27 @@ i.e. Tools used for data analysis and/or visualisation.
 
 The hierarchy is as follows:
 
-### 1. General purpose programming languages
+### 1. Programming languages 
 
-* Python, R, C++, MATLAB, etc
-* unix shell, Make (i.e. workflow coordination)
+`programming_languages.csv`
 
-(Technically you could break this down further because Make runs in a shell environment, etc, but I'm trying to keep it simple)
+* Python, R, C++, MATLAB, unix shell, etc
 
 ### 2. General data science tools
 
-* general
-  * matplotlib, xarray, IDL
-* spreadsheets
-  * Excel, etc
-* databases
-  * Microsoft Access, MySQL, etc
-* file manipulation
-  * NCO
-* qualitative data
-  * NVivo, leximancer
-* statistics
-  * SPSS, Stata, SciPy
-* spatial
-  * ArcGIS, CARTO
+`general_datasci_tools.csv`
+
+* general: matplotlib, xarray, IDL
+* spreadsheets: Excel, etc
+* databases: Microsoft Access, MySQL, etc
+* file manipulation: NCO
+* qualitative data: NVivo, leximancer
+* statistics: SPSS, Stata, SciPy
+* spatial: ArcGIS, CARTO
 
 ### 3. Discipline specific tools
+
+`discipline_datasci_tools.csv`
 
 * Astronomy
 * Bioinformatics
