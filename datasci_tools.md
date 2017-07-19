@@ -2,20 +2,18 @@
 
 i.e. Tools used for data analysis and/or visualisation.
 
-The following categories are listed in datasci_tools.csv:
+The hierarchy is as follows:
 
-### General purpose programming languages
+### 1. General purpose programming languages
 
-* general purpose programming language
-  * Python, R, C++, etc
-* workflow coordination
-  * Unix shell, Make, etc
+* Python, R, C++, etc
+* unix shell, Make (i.e. workflow coordination)
 
-### General purpose data science tools
+### 2. General purpose data science tools
 
-Excel, MATLAB, D3.js, etc
+* Excel, MATLAB, D3.js, etc
 
-### Specific purpose data science tools (multi-discipline)
+### 3. Specific purpose data science tools (multi-discipline)
 
 * databases
   * Microsoft Access, MySQL, etc
@@ -28,7 +26,7 @@ Excel, MATLAB, D3.js, etc
 * spatial
   * ArcGIS, CARTO
 
-### Discipline specific tools
+### 4. Discipline specific tools
 
 * Astronomy
 * Bioinformatics
@@ -46,3 +44,6 @@ Excel, MATLAB, D3.js, etc
 * Psychology
 * Social sciences
 * Statistical modelling
+
+A tool in lower category may function as a stand alone application and/or
+provide the ability to operate within a tool/environment in a higher category.
