@@ -6,14 +6,14 @@ The hierarchy is as follows:
 
 ### 1. General purpose programming languages
 
-* Python, R, C++, etc
+* Python, R, C++, MATLAB, etc
 * unix shell, Make (i.e. workflow coordination)
 
 (Technically you could break this down further because Make runs in a shell environment, etc, but I'm trying to keep it simple)
 
 ### 2. General purpose data science tools
 
-* Excel, MATLAB, D3.js, etc
+* Excel, D3.js, etc
 
 ### 3. Specific purpose data science tools (multi-discipline)
 
