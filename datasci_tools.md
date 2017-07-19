@@ -4,14 +4,18 @@ i.e. Tools used for data analysis and/or visualisation.
 
 The following categories are listed in datasci_tools.csv:
 
-### General, multi-purpose tools
+### General purpose programming languages
 
-* general data science
-  * Excel, MATLAB, D3.js, SciPy, etc
 * general purpose programming language
   * Python, R, C++, etc
+* workflow coordination
+  * Unix shell, Make, etc
 
-### General, specific purpose tools
+### General purpose data science tools
+
+Excel, MATLAB, D3.js, etc
+
+### Specific purpose data science tools (multi-discipline)
 
 * databases
   * Microsoft Access, MySQL, etc
@@ -19,10 +23,8 @@ The following categories are listed in datasci_tools.csv:
   * NCO
 * qualitative data
   * NVivo, leximancer
-* workflow coordination
-  * Unix shell, Make, etc
 * statistics
-  * SPSS, Stata, etc
+  * SPSS, Stata, SciPy
 * spatial
   * ArcGIS, CARTO
 
