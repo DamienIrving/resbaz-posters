@@ -1,0 +1,5 @@
+person name or identifier,event,career stage,self-defined field,anzsrc_research_groups,operating system,programming_languages,general_datasci_tools,discipline_datasci_tools,support_tools
+Rita Busuttil,Melbourne 2015,postdoc,cancer genomics,oncology and carcinogenesis,,,GraphPad Prism,"Partek, IGV, ImageJ","Word, Dropbox, PowerPoint"
+Kate Giljohann,Melbourne 2015,phd,ecology,ecology,windows,R,"Microsoft Excel, ArcGIS",,"RStudio, Word, Dropbox, PowerPoint, Scribus, Mendeley, Papers, Inkscape, GIMP"
+Michael Strack,Melbourne 2015,phd,microbial ecology,ecology,windows,R,Microsoft Excel,GeneMapper,"Word, OneDrive, PowerPoint, Prezi, Mendeley, GIMP, OneNote, Gantt project, Asana"
+,,,,,,,,,
