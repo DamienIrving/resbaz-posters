@@ -18,11 +18,13 @@ The following categories are listed in datasci_tools.csv:
 * file manipulation
   * NCO
 * qualitative data
-  * NVivo
+  * NVivo, leximancer
 * workflow coordination
   * Unix shell, Make, etc
 * statistics
   * SPSS, Stata, etc
+* spatial
+  * ArcGIS, CARTO
 
 ### Discipline specific tools
 
@@ -41,6 +43,4 @@ The following categories are listed in datasci_tools.csv:
 * Protein sequencing
 * Psychology
 * Social sciences
-* Spatial
 * Statistical modelling
-* Text analysis
