@@ -11,12 +11,12 @@ The hierarchy is as follows:
 
 (Technically you could break this down further because Make runs in a shell environment, etc, but I'm trying to keep it simple)
 
-### 2. General purpose data science tools
+### 2. General data science tools
 
-* Excel, D3.js, etc
-
-### 3. Specific purpose data science tools (multi-discipline)
-
+* general
+  * matplotlib, xarray, IDL
+* spreadsheets
+  * Excel, etc
 * databases
   * Microsoft Access, MySQL, etc
 * file manipulation
@@ -28,7 +28,7 @@ The hierarchy is as follows:
 * spatial
   * ArcGIS, CARTO
 
-### 4. Discipline specific tools
+### 3. Discipline specific tools
 
 * Astronomy
 * Bioinformatics
