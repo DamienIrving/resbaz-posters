@@ -7,8 +7,8 @@ def create_people_df(research_groups_df):
     
     people_df = pandas.read_csv('people.csv', header=0)
 
-    small_research_groups_df = research_groups_df[['research_group','research_division']].set_index('research_group')
-    joined_df = people_df.join(small_research_groups_df, on=['research_group'])
+    small_research_groups_df = research_groups_df[['research_group','research_division']]
+    joined_df = people_df.join(small_research_groups_df.set_index('research_group'), on=['research_group'])
 
     return joined_df
 
@@ -46,14 +46,44 @@ def expand_tools(people_full_df):
     return people_language_df, people_gen_datasci_df, people_discipline_datasci_df, people_support_tool_df
 
 
+def join_tools(people_df, tool_df, tool_category):
+    """Add extra tool information to a people DataFrame."""
+    
+    #tool_df = tool_df.copy()
+    
+    unwanted_columns = ['people', 'website', 'programming_languages',
+                        'general_datasci_tools', 'discipline_datasci_tools']
+    for column_name in unwanted_columns:
+        try:
+            tool_df.drop(column_name, axis=1, inplace=True)
+        except ValueError:
+            pass
+     
+    #people_df = people_df.rename(columns = {tool_category : 'tool'})
+    #joined_df = people_df.join(tool_df.set_index('tool'), on='tool')
+    joined_df = people_df.merge(tool_df, left_on=tool_category, right_on='tool', how='left', indicator=True)
+
+    pdb.set_trace()
+
+    return joined_df
+
+
 def main():
     """Run the program."""
     
     research_groups_df = pandas.read_csv('anzsrc_research_groups.csv', header=0)
     people_full_df = create_people_df(research_groups_df)
 
+    languages_df = pandas.read_csv('programming_languages.csv', header=0)
+    gen_datasci_df = pandas.read_csv('general_datasci_tools.csv', header=0)
+    discipline_datasci_df = pandas.read_csv('discipline_datasci_tools.csv', header=0)
+    support_tool_df = pandas.read_csv('support_tools.csv', header=0)
+
     people_language_df, people_gen_datasci_df, people_discipline_datasci_df, people_support_tool_df = expand_tools(people_full_df) 
 
-    pdb.set_trace()
+    people_full_language_df = join_tools(people_language_df, languages_df, 'programming_languages')
+    people_full_gen_datasci_df = join_tools(people_gen_datasci_df, gen_datasci_df, 'general_datasci_tools')
+    people_full_discipline_datasci_df = join_tools(people_discipline_datasci_df, discipline_datasci_df, 'discipline_datasci_tools')
+    people_full_support_tool_df = join_tools(people_support_tool_df, support_tool_df, 'support_tools')
 
 main()
