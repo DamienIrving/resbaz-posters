@@ -21,7 +21,7 @@ def expand_row(row, tool_category, df):
     """
     
     if pandas.notnull(row[tool_category]):
-        tool_list = row[tool_category].split(',')
+        tool_list = [x.strip() for x in row[tool_category].split(',')]
         for tool in tool_list:
             new_row = row[['person name or identifier', 'research_group', 'research_division', tool_category]].copy()
             new_row[tool_category] = tool
@@ -49,8 +49,6 @@ def expand_tools(people_full_df):
 def join_tools(people_df, tool_df, tool_category):
     """Add extra tool information to a people DataFrame."""
     
-    #tool_df = tool_df.copy()
-    
     unwanted_columns = ['people', 'website', 'programming_languages',
                         'general_datasci_tools', 'discipline_datasci_tools']
     for column_name in unwanted_columns:
@@ -58,12 +56,9 @@ def join_tools(people_df, tool_df, tool_category):
             tool_df.drop(column_name, axis=1, inplace=True)
         except ValueError:
             pass
-     
-    #people_df = people_df.rename(columns = {tool_category : 'tool'})
-    #joined_df = people_df.join(tool_df.set_index('tool'), on='tool')
-    joined_df = people_df.merge(tool_df, left_on=tool_category, right_on='tool', how='left', indicator=True)
-
-    pdb.set_trace()
+    
+    people_df = people_df.rename(columns = {tool_category : 'tool'})
+    joined_df = people_df.merge(tool_df, left_on='tool', right_on='tool', how='left')
 
     return joined_df
 
@@ -85,5 +80,11 @@ def main():
     people_full_gen_datasci_df = join_tools(people_gen_datasci_df, gen_datasci_df, 'general_datasci_tools')
     people_full_discipline_datasci_df = join_tools(people_discipline_datasci_df, discipline_datasci_df, 'discipline_datasci_tools')
     people_full_support_tool_df = join_tools(people_support_tool_df, support_tool_df, 'support_tools')
+
+    people_full_language_df.to_csv('people_programming_languages.csv', index=False)
+    people_full_gen_datasci_df.to_csv('people_general_datasci_tools.csv', index=False)
+    people_full_discipline_datasci_df.to_csv('people_discipline_datasci_tools.csv', index=False)
+    people_full_support_tool_df.to_csv('people_support_tools.csv', index=False)
+
 
 main()
