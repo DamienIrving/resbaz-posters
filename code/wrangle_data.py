@@ -5,7 +5,7 @@ import pdb
 def create_people_df(research_groups_df):
     """Join the people and research groups sheets."""
     
-    people_df = pandas.read_csv('../data/people.csv', header=0)
+    people_df = pandas.read_csv('../data/people.csv', header=0, encoding='utf-8-sig')
 
     small_research_groups_df = research_groups_df[['research_group','research_division']]
     joined_df = people_df.join(small_research_groups_df.set_index('research_group'), on=['research_group'])
@@ -66,13 +66,13 @@ def join_tools(people_df, tool_df, tool_category):
 def main():
     """Run the program."""
     
-    research_groups_df = pandas.read_csv('../data/anzsrc_research_groups.csv', header=0)
+    research_groups_df = pandas.read_csv('../data/anzsrc_research_groups.csv', header=0, encoding='utf-8-sig')
     people_full_df = create_people_df(research_groups_df)
 
-    languages_df = pandas.read_csv('../data/programming_languages.csv', header=0)
-    gen_datasci_df = pandas.read_csv('../data/general_datasci_tools.csv', header=0)
-    discipline_datasci_df = pandas.read_csv('../data/discipline_datasci_tools.csv', header=0)
-    support_tool_df = pandas.read_csv('../data/support_tools.csv', header=0)
+    languages_df = pandas.read_csv('../data/programming_languages.csv', header=0, encoding='utf-8-sig')
+    gen_datasci_df = pandas.read_csv('../data/general_datasci_tools.csv', header=0, encoding='utf-8-sig')
+    discipline_datasci_df = pandas.read_csv('../data/discipline_datasci_tools.csv', header=0, encoding='utf-8-sig')
+    support_tool_df = pandas.read_csv('../data/support_tools.csv', header=0, encoding='utf-8-sig')
 
     people_language_df, people_gen_datasci_df, people_discipline_datasci_df, people_support_tool_df = expand_tools(people_full_df) 
 
