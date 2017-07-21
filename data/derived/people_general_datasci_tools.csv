@@ -1,6 +1,54 @@
-tool,person name or identifier,research_division,research_group,purpose,cost,source code,user interface,usage
-GraphPad Prism,,medical and health sciences,oncology and carcinogenesis,general,pay,closed,graphical,analysis and visualisation
-ArcGIS,,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
-Microsoft Excel,,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
-Microsoft Excel,,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
-SPSS,,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
+tool,name,research_division,research_group,purpose,cost,source code,user interface,usage
+GraphPad Prism,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,general,pay,closed,graphical,analysis and visualisation
+ArcGIS,Kate Giljohann,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
+Excel,Kate Giljohann,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Michael Strack,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Michele Veldsman,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Marine Chkadua,studies in human society,anthropology,spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Nga Nguyen,environmental sciences,environmental science and management,statistics,pay,closed,graphical,analysis and visualisation
+NVivo,Nga Nguyen,environmental sciences,environmental science and management,qualitative data,pay,closed,graphical,analysis and visualisation
+Excel,Nga Nguyen,environmental sciences,environmental science and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+Visio,Nga Nguyen,environmental sciences,environmental science and management,general,pay,closed,graphical,visualisation
+SPSS,Amy Loughman,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
+Stata,Amy Loughman,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Amy Loughman,psychology and cognitive sciences,psychology,spreadsheets,pay,closed,graphical,analysis and visualisation
+GraphPad Prism,Sharon Pattison,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
+Excel,Sharon Pattison,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Emily Kothe,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
+ggplot,Saras Windecker,biological sciences,ecology,general,free,open,command line,visualisation
+Excel,Saras Windecker,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+ArcGIS,Saras Windecker,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
+NCO,Daniel Pazmino,earth sciences,atmospheric sciences,file manipulation,free,closed,command line,analysis
+Excel,Jane Younger,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+ArcGIS,Rosanna van Hespen,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
+Excel,Janavi Rambhatla,medical and health sciences,medical microbiology,spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Sarah Jelbert,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
+SAS/STAT,Sarah Jelbert,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
+SPSS,Jacquie Tran,medical and health sciences,human movement and sports science,statistics,pay,closed,graphical,analysis and visualisation
+SAS/STAT,Jacquie Tran,medical and health sciences,human movement and sports science,statistics,pay,closed,graphical,analysis and visualisation
+Stata,Jacquie Tran,medical and health sciences,human movement and sports science,statistics,pay,closed,graphical,analysis and visualisation
+GraphPad Prism,Jacquie Tran,medical and health sciences,human movement and sports science,general,pay,closed,graphical,analysis and visualisation
+Excel,Jacquie Tran,medical and health sciences,human movement and sports science,spreadsheets,pay,closed,graphical,analysis and visualisation
+Access,Jacquie Tran,medical and health sciences,human movement and sports science,databases,pay,closed,graphical,analysis
+cartopy,Damien Irving,earth sciences,atmospheric sciences,spatial data,free,open,command line,visualisation
+xarray,Damien Irving,earth sciences,atmospheric sciences,general,free,open,command line,analysis and visualisation
+NCO,Damien Irving,earth sciences,atmospheric sciences,file manipulation,free,closed,command line,analysis
+Diogenes,Fiona Tweedie,history and archaeology,historical studies,qualitative data,free,open,graphical,analysis
+ArcGIS,Amy Whitehead,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
+Excel,Amy Whitehead,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+QGIS,Amy Whitehead,biological sciences,ecology,spatial data,free,open,graphical,visualisation
+GraphPad Prism,Angelina Duan,medical and health sciences,ophthalmology and optometry,general,pay,closed,graphical,analysis and visualisation
+Excel,Angelina Duan,medical and health sciences,ophthalmology and optometry,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Yu Sun,medical and health sciences,oncology and carcinogenesis,spreadsheets,pay,closed,graphical,analysis and visualisation
+MySQL,Alwyn Davidson,studies in human society,human geography,databases,free,,command line,analysis
+Excel,Alwyn Davidson,studies in human society,human geography,spreadsheets,pay,closed,graphical,analysis and visualisation
+ArcGIS,Alwyn Davidson,studies in human society,human geography,spatial data,pay,closed,graphical,visualisation
+QGIS,Alwyn Davidson,studies in human society,human geography,spatial data,free,open,graphical,visualisation
+TileMill,Alwyn Davidson,studies in human society,human geography,spatial data,free,open,graphical,visualisation
+CARTO,Alwyn Davidson,studies in human society,human geography,spatial data,free with advanced pay options,open,graphical,visualisation
+Tableau,Alwyn Davidson,studies in human society,human geography,general,pay,closed,graphical,visualisation
+Gephi,Alwyn Davidson,studies in human society,human geography,general,free,open,graphical,visualisation
+SPSS,Jason Lodge,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Jason Lodge,psychology and cognitive sciences,psychology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Elise Gould,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Netica,Elise Gould,biological sciences,ecology,statistical modelling,free,closed,graphical,analysis and visualisation

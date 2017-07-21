@@ -1,13 +1,32 @@
-tool,person name or identifier,research_division,research_group,discipline,cost,source code,user interface,usage,Website
-Partek,,medical and health sciences,oncology and carcinogenesis,genomics,pay,closed,graphical,analysis and visualisation,http://www.partek.com/
-IGV,,medical and health sciences,oncology and carcinogenesis,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
-ImageJ,,medical and health sciences,oncology and carcinogenesis,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-GeneMapper,,biological sciences,ecology,genomics,pay,closed,graphical,analysis and visualisation,https://www.thermofisher.com/order/catalog/product/4475073
-SPM,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis,http://www.fil.ion.ucl.ac.uk/spm/
-CONN,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://www.nitrc.org/projects/conn/
-REST,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,http://restfmri.net/forum/RESTplusV1.2
-BrainNet,,medical and health sciences,neurosciences,medical image processing,free,open,graphical,visualisation,https://www.nitrc.org/projects/bnv/
-MRIcron,,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://www.nitrc.org/projects/mricron
-FSL,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
-MRIcroGL,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,visualisation,http://www.mccauslandcenter.sc.edu/mricrogl/home
-MRtrix3,,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,http://www.mrtrix.org/
+tool,name,research_division,research_group,discipline,cost,source code,user interface,usage,Website
+Partek,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,genomics,pay,closed,graphical,analysis and visualisation,http://www.partek.com/
+IGV,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
+ImageJ,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+GeneMapper,Michael Strack,biological sciences,ecology,genomics,pay,closed,graphical,analysis and visualisation,https://www.thermofisher.com/order/catalog/product/4475073
+SPM,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis,http://www.fil.ion.ucl.ac.uk/spm/
+CONN,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://www.nitrc.org/projects/conn/
+REST,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,http://restfmri.net/forum/RESTplusV1.2
+BrainNet,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,visualisation,https://www.nitrc.org/projects/bnv/
+MRIcron,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://www.nitrc.org/projects/mricron
+FSL,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
+MRIcroGL,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,visualisation,http://www.mccauslandcenter.sc.edu/mricrogl/home
+MRtrix3,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,http://www.mrtrix.org/
+IGV,Sharon Pattison,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
+ImageJ,Sharon Pattison,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+ePrime,Emily Kothe,psychology and cognitive sciences,psychology,psychology,pay,closed,graphical and command line,collection and analysis and visualisation,https://www.pstnet.com/eprime.cfm
+CDO,Daniel Pazmino,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis,https://code.mpimet.mpg.de/projects/cdo
+PGD Spider,Jane Younger,biological sciences,ecology,genomics,free,closed,graphical,analysis,http://www.cmpg.unibe.ch/software/PGDSpider/
+Arlequin,Jane Younger,biological sciences,ecology,genomics,free,closed,graphical and command line,analysis,http://cmpg.unibe.ch/software/arlequin35/
+MEGA,Jane Younger,biological sciences,ecology,protein sequencing,free,closed,graphical and command line,analysis,http://www.megasoftware.net/
+Structure,Jane Younger,biological sciences,ecology,genomics,free,open,graphical and command line,analysis and visualisation,http://web.stanford.edu/group/pritchardlab/structure.html
+Beast2,Jane Younger,biological sciences,ecology,phylogenetics,free,open,graphical,analysis and visualisation,https://www.beast2.org/
+Bayescan,Jane Younger,biological sciences,ecology,genomics,free,open,graphical and command line,analysis and visualisation,cmpg.unibe.ch/software/BayeScan/
+Mutalin,Janavi Rambhatla,medical and health sciences,medical microbiology,protein sequencing,free,closed,website,analysis and visualisation,http://multalin.toulouse.inra.fr/multalin/
+BLAST,Janavi Rambhatla,medical and health sciences,medical microbiology,protein sequencing,free,closed,graphical and command line,analysis and visualisation,https://blast.ncbi.nlm.nih.gov/Blast.cgi
+iris,Damien Irving,earth sciences,atmospheric sciences,climate,free,open,command line,analysis and visualisation,http://scitools.org.uk/iris/
+CDO,Damien Irving,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis,https://code.mpimet.mpg.de/projects/cdo
+emuR,Rosey Billington,"language, communication and culture",linguistics,phonetics,free,open,command line,analysis,http://ips-lmu.github.io/EMU.html
+Praat,Rosey Billington,"language, communication and culture",linguistics,phonetics,free,open,graphical,analysis and visualisation,http://www.fon.hum.uva.nl/praat/
+EdgeTrak,Rosey Billington,"language, communication and culture",linguistics,medical image processing,free,closed,graphical,visualisation,https://www.dental.umaryland.edu/speech/software/
+iso2mesh,Paul Mignone,engineering,materials engineering,medical image processing,free,open,graphical and command line,visualisation,http://iso2mesh.sourceforge.net/cgi-bin/index.cgi
+ImageJ,Paul Mignone,engineering,materials engineering,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome

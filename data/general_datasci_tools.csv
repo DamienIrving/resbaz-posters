@@ -1,48 +1,48 @@
 ﻿tool,purpose,cost,source code,user interface,usage,website,programming_languages,discipline_datasci_tools,people
-ArcGIS,spatial data,pay,closed,graphical,visualisation,https://www.arcgis.com/features/index.html,,ENVI,Kate Giljohann
-CARTO,spatial data,free with advanced pay options,open,graphical,visualisation,https://carto.com/,,,
-cartopy,spatial data,free,open,command line,visualisation,http://scitools.org.uk/cartopy/,Python,,
+ArcGIS,spatial data,pay,closed,graphical,visualisation,https://www.arcgis.com/features/index.html,,ENVI,"Kate Giljohann,Saras Windecker,Rosanna van Hespen,Amy Whitehead,Alwyn Davidson"
+CARTO,spatial data,free with advanced pay options,open,graphical,visualisation,https://carto.com/,,,Alwyn Davidson
+cartopy,spatial data,free,open,command line,visualisation,http://scitools.org.uk/cartopy/,Python,,Damien Irving
 Google Earth,spatial data,free,closed,graphical,visualisation,,,,
-QGIS,spatial data,free,open,graphical,visualisation,http://www.qgis.org/en/site/,,,
+QGIS,spatial data,free,open,graphical,visualisation,http://www.qgis.org/en/site/,,,"Amy Whitehead,Alwyn Davidson"
 SAGA,spatial data,free,open,graphical,visualisation,http://www.saga-gis.org/en/index.html,,,
-TileMill,spatial data,free,open,graphical,visualisation,https://tilemill-project.github.io/tilemill/,,,
+TileMill,spatial data,free,open,graphical,visualisation,https://tilemill-project.github.io/tilemill/,,,Alwyn Davidson
 Latent GOLD,statistical modelling,pay,closed,graphical,analysis and visualisation,http://www.statisticalinnovations.com/latent-gold-5-1/,,,
-Netica,statistical modelling,free,closed,graphical,analysis and visualisation,https://www.norsys.com/,,,
+Netica,statistical modelling,free,closed,graphical,analysis and visualisation,https://www.norsys.com/,,,Elise Gould
 netlogo,statistical modelling,free,closed,graphical,analysis and visualisation,https://ccl.northwestern.edu/netlogo/,,,
-Diogenes,qualitative data,free,open,graphical,analysis,https://community.dur.ac.uk/p.j.heslin/Software/Diogenes/,,,
+Diogenes,qualitative data,free,open,graphical,analysis,https://community.dur.ac.uk/p.j.heslin/Software/Diogenes/,,,Fiona Tweedie
 Leximancer,qualitative data,pay,closed,graphical,analysis and visualisation,https://info.leximancer.com/,,,
-NCO,file manipulation,free,closed,command line,analysis,http://nco.sourceforge.net/,Unix Shell,,
-NVivo,qualitative data,pay,closed,graphical,analysis and visualisation,http://www.qsrinternational.com/nvivo-product,,,
+NCO,file manipulation,free,closed,command line,analysis,http://nco.sourceforge.net/,Unix Shell,,"Daniel Pazmino,Damien Irving"
+NVivo,qualitative data,pay,closed,graphical,analysis and visualisation,http://www.qsrinternational.com/nvivo-product,,,Nga Nguyen
 PRIMER-E,statistics,pay,closed,graphical,analysis and visualisation,http://www.primer-e.com/index.htm,,,
-SAS/STAT,statistics,pay,closed,graphical,analysis and visualisation,https://www.sas.com/en_au/software/analytics/stat.html,,,
+SAS/STAT,statistics,pay,closed,graphical,analysis and visualisation,https://www.sas.com/en_au/software/analytics/stat.html,,,"Sarah Jelbert,Jacquie Tran"
 SigmaStat,statistics,pay,closed,graphical,analysis and visualisation,https://systatsoftware.com/products/sigmastat/,,,
-SPSS,statistics,pay,closed,graphical,analysis and visualisation,,,,Michele Veldsman
-Stata,statistics,pay,closed,graphical,analysis and visualisation,http://www.stata.com/,,PanelWhiz,
-Microsoft Access,databases,pay,closed,graphical,analysis,,,,
-MySQL,databases,free,,command line,analysis,,,,
+SPSS,statistics,pay,closed,graphical,analysis and visualisation,,,,"Michele Veldsman,Nga Nguyen,Amy Loughman,Emily Kothe,Sarah Jelbert,Jacquie Tran,Jason Lodge"
+Stata,statistics,pay,closed,graphical,analysis and visualisation,http://www.stata.com/,,PanelWhiz,"Amy Loughman,Jacquie Tran"
+Access,databases,pay,closed,graphical,analysis,,,,Jacquie Tran
+MySQL,databases,free,,command line,analysis,,,,Alwyn Davidson
 SQLite,databases,free,,command line,analysis,,,,
 SciPy,statistics,free,open,command line,analysis,https://www.scipy.org/scipylib/index.html,Python,,
 BoxPlotR,general,free,open,"website,command line",visualisation,http://shiny.chemgrid.org/boxplotr/,R,,
 D3.js,general,free,open,command line,visualisation,https://d3js.org/,Javascript,,
 dplyr,general,free,open,command line,analysis,http://dplyr.tidyverse.org/,R,,
-Gephi,general,free,open,graphical,visualisation,https://gephi.org/,,,
-ggplot,general,free,open,command line,visualisation,http://ggplot2.tidyverse.org/reference/,R,,
+Gephi,general,free,open,graphical,visualisation,https://gephi.org/,,,Alwyn Davidson
+ggplot,general,free,open,command line,visualisation,http://ggplot2.tidyverse.org/reference/,R,,Saras Windecker
 Gnumetric,general,free,open,graphical,analysis and visualisation,http://www.gnumeric.org/,,,
 gnuplot,general,free,open,command line,visualisation,http://www.gnuplot.info/,Unix Shell,,
 Google Sheets,spreadsheets,free,closed,graphical,analysis and visualisation,,,,
-GraphPad Prism,general,pay,closed,graphical,analysis and visualisation,https://www.graphpad.com/scientific-software/prism/,,,Rita Busuttil
+GraphPad Prism,general,pay,closed,graphical,analysis and visualisation,https://www.graphpad.com/scientific-software/prism/,,,"Rita Busuttil,Sharon Pattison,Jacquie Tran,Angelina Duan"
 IDL,spatial data,pay,closed,command line,analysis and visualisation,http://www.harrisgeospatial.co.uk/ProductsServices/IDL.aspx,,,
 Igor Pro,general,pay,closed,"graphical,command line",analysis and visualisation,https://www.wavemetrics.com/index.html,,,
 JMP,general,pay,closed,graphical,analysis and visualisation,https://www.jmp.com/en_us/software/data-analysis-software.html,,,
 Mathmatica,general,pay,,"graphical,command line",analysis and visualisation,https://www.wolfram.com/mathematica/,,morpho-tools.net,
 matplotlib,general,free,open,command line,visualisation,https://matplotlib.org/,Python,,
-Microsoft Excel,spreadsheets,pay,closed,graphical,analysis and visualisation,,,,"Kate Giljohann,Michael Strack"
+Excel,spreadsheets,pay,closed,graphical,analysis and visualisation,,,,"Kate Giljohann,Michael Strack,Marine Chkadua,Nga Nguyen,Amy Loughman,Sharon Pattison,Saras Windecker,Jane Younger,Janavi Rambhatla,Jacquie Tran,Amy Whitehead,Angelina Duan,Yu Sun,Alwyn Davidson,Jason Lodge,Elise Gould"
 Minitab,spreadsheets,pay,closed,graphical,analysis and visualisation,http://www.minitab.com/en-us/,,,
-Mircosoft Visio,general,pay,closed,graphical,visualisation,,,,
+Visio,general,pay,closed,graphical,visualisation,,,,Nga Nguyen
 Origin,general,pay,closed,"graphical,command line",analysis and visualisation,http://www.originlab.com/Origin,,,
 Plotly,general,free with advanced pay options,open,command line,visualisation,https://plot.ly/,"Javascript,Python,R,MATLAB",,
 Shiny,general,free,open,command line,visualisation,https://shiny.rstudio.com/,R,,
 SigmaPlot,general,pay,closed,graphical,visualisation,https://systatsoftware.com/products/sigmaplot/,,,
 SM,general,pay,closed,command line,visualisation,http://www.astro.princeton.edu/~rhl/sm/,,,
-Tableau,general,pay,closed,graphical,visualisation,https://www.tableau.com/,,,
-xarray,general,free,open,command line,analysis and visualisation,http://xarray.pydata.org/en/stable/,Python,,
+Tableau,general,pay,closed,graphical,visualisation,https://www.tableau.com/,,,Alwyn Davidson
+xarray,general,free,open,command line,analysis and visualisation,http://xarray.pydata.org/en/stable/,Python,,Damien Irving

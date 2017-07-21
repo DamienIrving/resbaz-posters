@@ -1,30 +1,252 @@
-person name or identifier,research_division,research_group,tool,category,task,sub-task
-,medical and health sciences,oncology and carcinogenesis,Word,research presentation,document editing,
-,medical and health sciences,oncology and carcinogenesis,Dropbox,file management,stoage/sharing,
-,medical and health sciences,oncology and carcinogenesis,PowerPoint,research presentation,slides,
-,biological sciences,ecology,RStudio,code development,interactive development environments,
-,biological sciences,ecology,Word,research presentation,document editing,
-,biological sciences,ecology,Dropbox,file management,stoage/sharing,
-,biological sciences,ecology,PowerPoint,research presentation,slides,
-,biological sciences,ecology,Scribus,research presentation,,
-,biological sciences,ecology,Mendeley,information management,reference management,
-,biological sciences,ecology,Papers,information management,reference management,
-,biological sciences,ecology,Inkscape,research presentation,graphics editing,editing software
-,biological sciences,ecology,GIMP,research presentation,graphics editing,editing software
-,biological sciences,ecology,Word,research presentation,document editing,
-,biological sciences,ecology,OneDrive,file management,stoage/sharing,
-,biological sciences,ecology,PowerPoint,research presentation,slides,
-,biological sciences,ecology,Prezi,research presentation,slides,
-,biological sciences,ecology,Mendeley,information management,reference management,
-,biological sciences,ecology,GIMP,research presentation,graphics editing,editing software
-,biological sciences,ecology,OneNote,information management,note taking,
-,biological sciences,ecology,Gantt project,information management,project management,
-,biological sciences,ecology,Asana,information management,project management,
-,medical and health sciences,neurosciences,OpenOffice Writer,research presentation,document editing,
-,medical and health sciences,neurosciences,Dropbox,file management,stoage/sharing,
-,medical and health sciences,neurosciences,PowerPoint,research presentation,slides,
-,medical and health sciences,neurosciences,Mendeley,information management,reference management,
-,medical and health sciences,neurosciences,Illustrator,research presentation,graphics editing,editing software
-,medical and health sciences,neurosciences,Photoshop,research presentation,graphics editing,editing software
-,medical and health sciences,neurosciences,GIMP,research presentation,graphics editing,editing software
-,medical and health sciences,neurosciences,Evernote,information management,note taking,
+name,research_division,research_group,tool,category,task,sub-task
+Rita Busuttil,medical and health sciences,oncology and carcinogenesis,Word,research presentation,document editing,
+Rita Busuttil,medical and health sciences,oncology and carcinogenesis,Dropbox,file management,storage/sharing,
+Rita Busuttil,medical and health sciences,oncology and carcinogenesis,PowerPoint,research presentation,slides,
+Kate Giljohann,biological sciences,ecology,RStudio,code development,interactive development environments,
+Kate Giljohann,biological sciences,ecology,Word,research presentation,document editing,
+Kate Giljohann,biological sciences,ecology,Dropbox,file management,storage/sharing,
+Kate Giljohann,biological sciences,ecology,PowerPoint,research presentation,slides,
+Kate Giljohann,biological sciences,ecology,Scribus,research presentation,,
+Kate Giljohann,biological sciences,ecology,Mendeley,information management,reference management,
+Kate Giljohann,biological sciences,ecology,Papers,information management,reference management,
+Kate Giljohann,biological sciences,ecology,Inkscape,research presentation,graphics editing,editing software
+Kate Giljohann,biological sciences,ecology,GIMP,research presentation,graphics editing,editing software
+Michael Strack,biological sciences,ecology,Word,research presentation,document editing,
+Michael Strack,biological sciences,ecology,OneDrive,file management,storage/sharing,
+Michael Strack,biological sciences,ecology,PowerPoint,research presentation,slides,
+Michael Strack,biological sciences,ecology,Prezi,research presentation,slides,
+Michael Strack,biological sciences,ecology,Mendeley,information management,reference management,
+Michael Strack,biological sciences,ecology,GIMP,research presentation,graphics editing,editing software
+Michael Strack,biological sciences,ecology,OneNote,information management,note taking,
+Michael Strack,biological sciences,ecology,Gantt project,information management,project management,
+Michael Strack,biological sciences,ecology,Asana,information management,project management,
+Michele Veldsman,medical and health sciences,neurosciences,OpenOffice Writer,research presentation,document editing,
+Michele Veldsman,medical and health sciences,neurosciences,Dropbox,file management,storage/sharing,
+Michele Veldsman,medical and health sciences,neurosciences,PowerPoint,research presentation,slides,
+Michele Veldsman,medical and health sciences,neurosciences,Mendeley,information management,reference management,
+Michele Veldsman,medical and health sciences,neurosciences,Illustrator,research presentation,graphics editing,editing software
+Michele Veldsman,medical and health sciences,neurosciences,Photoshop,research presentation,graphics editing,editing software
+Michele Veldsman,medical and health sciences,neurosciences,GIMP,research presentation,graphics editing,editing software
+Michele Veldsman,medical and health sciences,neurosciences,Evernote,information management,note taking,
+Maria Doyle,,"oncology and carcinogenesis,biochemistry and cell biology",Word,research presentation,document editing,
+Maria Doyle,,"oncology and carcinogenesis,biochemistry and cell biology",Dropbox,file management,storage/sharing,
+Maria Doyle,,"oncology and carcinogenesis,biochemistry and cell biology",PowerPoint,research presentation,slides,
+Maria Doyle,,"oncology and carcinogenesis,biochemistry and cell biology",EndNote,information management,reference management,
+Maria Doyle,,"oncology and carcinogenesis,biochemistry and cell biology",Vim,code development,editors,
+Maria Doyle,,"oncology and carcinogenesis,biochemistry and cell biology",Sublime,code development,editors,
+Maria Doyle,,"oncology and carcinogenesis,biochemistry and cell biology",Git,file management,version control,software
+Marine Chkadua,studies in human society,anthropology,Word,research presentation,document editing,
+Marine Chkadua,studies in human society,anthropology,Dropbox,file management,storage/sharing,
+Marine Chkadua,studies in human society,anthropology,PowerPoint,research presentation,slides,
+Marine Chkadua,studies in human society,anthropology,EndNote,information management,reference management,
+Nga Nguyen,environmental sciences,environmental science and management,Word,research presentation,document editing,
+Nga Nguyen,environmental sciences,environmental science and management,Dropbox,file management,storage/sharing,
+Nga Nguyen,environmental sciences,environmental science and management,Google Drive,file management,storage/sharing,
+Nga Nguyen,environmental sciences,environmental science and management,PowerPoint,research presentation,slides,
+Nga Nguyen,environmental sciences,environmental science and management,Prezi,research presentation,slides,
+Nga Nguyen,environmental sciences,environmental science and management,EndNote,information management,reference management,
+Nga Nguyen,environmental sciences,environmental science and management,Paint.NET,research presentation,graphics editing,editing software
+Amy Loughman,psychology and cognitive sciences,psychology,Word,research presentation,document editing,
+Amy Loughman,psychology and cognitive sciences,psychology,Scrivener,research presentation,document editing,
+Amy Loughman,psychology and cognitive sciences,psychology,PowerPoint,research presentation,slides,
+Amy Loughman,psychology and cognitive sciences,psychology,Prezi,research presentation,slides,
+Amy Loughman,psychology and cognitive sciences,psychology,EndNote,information management,reference management,
+Amy Loughman,psychology and cognitive sciences,psychology,Papers,information management,reference management,
+Sharon Pattison,biological sciences,genetics,Dropbox,file management,storage/sharing,
+Sharon Pattison,biological sciences,genetics,PowerPoint,research presentation,slides,
+Sharon Pattison,biological sciences,genetics,EndNote,information management,reference management,
+Sharon Pattison,biological sciences,genetics,Papers,information management,reference management,
+Bryant Gagliardi,biological sciences,zoology,RStudio,code development,interactive development environments,
+Bryant Gagliardi,biological sciences,zoology,Word,research presentation,document editing,
+Bryant Gagliardi,biological sciences,zoology,PowerPoint,research presentation,slides,
+Bryant Gagliardi,biological sciences,zoology,EndNote,information management,reference management,
+Ruth Pearson,physical sciences,astronomical and space sciences,LaTeX,research presentation,document editing,
+Ruth Pearson,physical sciences,astronomical and space sciences,Google Docs,research presentation,document editing,
+Ruth Pearson,physical sciences,astronomical and space sciences,Dropbox,file management,storage/sharing,
+Ruth Pearson,physical sciences,astronomical and space sciences,Bibtex,information management,reference management,
+Ruth Pearson,physical sciences,astronomical and space sciences,Audio Memos,information management,note taking,
+Ruth Pearson,physical sciences,astronomical and space sciences,Evernote,information management,note taking,
+Ruth Pearson,physical sciences,astronomical and space sciences,Git,file management,version control,software
+Emily Kothe,psychology and cognitive sciences,psychology,Limesurvey,data collection,surveys,
+Emily Kothe,psychology and cognitive sciences,psychology,Inquisit,data collection,surveys,psychological testing
+Emily Kothe,psychology and cognitive sciences,psychology,Dropbox,file management,storage/sharing,
+Emily Kothe,psychology and cognitive sciences,psychology,Google Drive,file management,storage/sharing,
+Emily Kothe,psychology and cognitive sciences,psychology,PowerPoint,research presentation,slides,
+Emily Kothe,psychology and cognitive sciences,psychology,EndNote,information management,reference management,
+Emily Kothe,psychology and cognitive sciences,psychology,Paint.NET,research presentation,graphics editing,editing software
+Saras Windecker,biological sciences,ecology,RStudio,code development,interactive development environments,
+Saras Windecker,biological sciences,ecology,Dropbox,file management,storage/sharing,
+Saras Windecker,biological sciences,ecology,Google Drive,file management,storage/sharing,
+Saras Windecker,biological sciences,ecology,PowerPoint,research presentation,slides,
+Saras Windecker,biological sciences,ecology,Mendeley,information management,reference management,
+Saras Windecker,biological sciences,ecology,Evernote,information management,note taking,
+Daniel Pazmino,earth sciences,atmospheric sciences,Word,research presentation,document editing,
+Daniel Pazmino,earth sciences,atmospheric sciences,LyX,research presentation,document editing,latex editor
+Daniel Pazmino,earth sciences,atmospheric sciences,Scribus,research presentation,,
+Daniel Pazmino,earth sciences,atmospheric sciences,Keynote,research presentation,slides,
+Daniel Pazmino,earth sciences,atmospheric sciences,Mendeley,information management,reference management,
+Daniel Pazmino,earth sciences,atmospheric sciences,EndNote,information management,reference management,
+Daniel Pazmino,earth sciences,atmospheric sciences,GIMP,research presentation,graphics editing,editing software
+Daniel Pazmino,earth sciences,atmospheric sciences,Vim,code development,editors,
+Daniel Pazmino,earth sciences,atmospheric sciences,Nedit,code development,editors,
+Daniel Pazmino,earth sciences,atmospheric sciences,Emacs,code development,editors,
+Jane Younger,biological sciences,ecology,Word,research presentation,document editing,
+Jane Younger,biological sciences,ecology,Dropbox,file management,storage/sharing,
+Jane Younger,biological sciences,ecology,PowerPoint,research presentation,slides,
+Jane Younger,biological sciences,ecology,EndNote,information management,reference management,
+Jane Younger,biological sciences,ecology,Stop Motion Studio,data collection,video editing,
+Jane Younger,biological sciences,ecology,iMovie,data collection,video editing,
+Rosanna van Hespen,biological sciences,ecology,Word,research presentation,document editing,
+Rosanna van Hespen,biological sciences,ecology,Dropbox,file management,storage/sharing,
+Rosanna van Hespen,biological sciences,ecology,Google Drive,file management,storage/sharing,
+Rosanna van Hespen,biological sciences,ecology,OneDrive,file management,storage/sharing,
+Rosanna van Hespen,biological sciences,ecology,PowerPoint,research presentation,slides,
+Rosanna van Hespen,biological sciences,ecology,Mendeley,information management,reference management,
+Rosanna van Hespen,biological sciences,ecology,Photoshop,research presentation,graphics editing,editing software
+Rosanna van Hespen,biological sciences,ecology,Evernote,information management,note taking,
+Janavi Rambhatla,medical and health sciences,medical microbiology,Word,research presentation,document editing,
+Janavi Rambhatla,medical and health sciences,medical microbiology,Dropbox,file management,storage/sharing,
+Janavi Rambhatla,medical and health sciences,medical microbiology,PowerPoint,research presentation,slides,
+Janavi Rambhatla,medical and health sciences,medical microbiology,EndNote,information management,reference management,
+Sarah Jelbert,psychology and cognitive sciences,psychology,Word,research presentation,document editing,
+Sarah Jelbert,psychology and cognitive sciences,psychology,Dropbox,file management,storage/sharing,
+Sarah Jelbert,psychology and cognitive sciences,psychology,Google Drive,file management,storage/sharing,
+Sarah Jelbert,psychology and cognitive sciences,psychology,PowerPoint,research presentation,slides,
+Sarah Jelbert,psychology and cognitive sciences,psychology,EndNote,information management,reference management,
+Sarah Jelbert,psychology and cognitive sciences,psychology,Qiqqa,information management,reference management,
+Sarah Jelbert,psychology and cognitive sciences,psychology,Illustrator,research presentation,graphics editing,editing software
+Sarah Jelbert,psychology and cognitive sciences,psychology,Photoshop,research presentation,graphics editing,editing software
+Sarah Jelbert,psychology and cognitive sciences,psychology,SketchUp,3D design,,
+Sarah Jelbert,psychology and cognitive sciences,psychology,PowerDirector,data collection,video editing,
+Sarah Jelbert,psychology and cognitive sciences,psychology,Adobe Premier,data collection,video editing,
+Jacquie Tran,medical and health sciences,human movement and sports science,Survey Monkey,data collection,surveys,
+Jacquie Tran,medical and health sciences,human movement and sports science,Google Forms,data collection,surveys,
+Jacquie Tran,medical and health sciences,human movement and sports science,Word,research presentation,document editing,
+Jacquie Tran,medical and health sciences,human movement and sports science,Scrivener,research presentation,document editing,
+Jacquie Tran,medical and health sciences,human movement and sports science,Dropbox,file management,storage/sharing,
+Jacquie Tran,medical and health sciences,human movement and sports science,Google Drive,file management,storage/sharing,
+Jacquie Tran,medical and health sciences,human movement and sports science,WeTransfer,file management,storage/sharing,
+Jacquie Tran,medical and health sciences,human movement and sports science,PowerPoint,research presentation,slides,
+Jacquie Tran,medical and health sciences,human movement and sports science,Prezi,research presentation,slides,
+Jacquie Tran,medical and health sciences,human movement and sports science,Haiku Deck,research presentation,slides,
+Jacquie Tran,medical and health sciences,human movement and sports science,EndNote,information management,reference management,
+Jacquie Tran,medical and health sciences,human movement and sports science,Illustrator,research presentation,graphics editing,editing software
+Jacquie Tran,medical and health sciences,human movement and sports science,Photoshop,research presentation,graphics editing,editing software
+Jacquie Tran,medical and health sciences,human movement and sports science,Evernote,information management,note taking,
+Jacquie Tran,medical and health sciences,human movement and sports science,GoodNotes,information management,note taking,
+Jacquie Tran,medical and health sciences,human movement and sports science,Notepad++,code development,editors,
+Jacquie Tran,medical and health sciences,human movement and sports science,CamStudio,data collection,video editing,
+Jacquie Tran,medical and health sciences,human movement and sports science,VLC,data collection,video editing,
+Jacquie Tran,medical and health sciences,human movement and sports science,Audacity,data collection,audio editing/transcribing,
+Damien Irving,earth sciences,atmospheric sciences,Jupyter notebook,code development,interactive development environments,
+Damien Irving,earth sciences,atmospheric sciences,LaTeX,research presentation,document editing,
+Damien Irving,earth sciences,atmospheric sciences,Authorea,research presentation,document editing,
+Damien Irving,earth sciences,atmospheric sciences,OpenOffice Writer,research presentation,document editing,
+Damien Irving,earth sciences,atmospheric sciences,SpiderOak,file management,storage/sharing,
+Damien Irving,earth sciences,atmospheric sciences,PowerPoint,research presentation,slides,
+Damien Irving,earth sciences,atmospheric sciences,Mendeley,information management,reference management,
+Damien Irving,earth sciences,atmospheric sciences,Illustrator,research presentation,graphics editing,editing software
+Damien Irving,earth sciences,atmospheric sciences,Nedit,code development,editors,
+Damien Irving,earth sciences,atmospheric sciences,Kate,code development,editors,
+Damien Irving,earth sciences,atmospheric sciences,Git,file management,version control,software
+Damien Irving,earth sciences,atmospheric sciences,Bitbucket,file management,version control,hosting
+Rosey Billington,"language, communication and culture",linguistics,RStudio,code development,interactive development environments,
+Rosey Billington,"language, communication and culture",linguistics,Word,research presentation,document editing,
+Rosey Billington,"language, communication and culture",linguistics,LaTeX,research presentation,document editing,
+Rosey Billington,"language, communication and culture",linguistics,Google Docs,research presentation,document editing,
+Rosey Billington,"language, communication and culture",linguistics,PowerPoint,research presentation,slides,
+Rosey Billington,"language, communication and culture",linguistics,Zotero,information management,reference management,
+Rosey Billington,"language, communication and culture",linguistics,Bibtex,information management,reference management,
+Rosey Billington,"language, communication and culture",linguistics,Inkscape,research presentation,graphics editing,editing software
+Rosey Billington,"language, communication and culture",linguistics,Notepad++,code development,editors,
+Rosey Billington,"language, communication and culture",linguistics,Subversion,file management,version control,software
+Isabell Kiral-Kornek,engineering,biomedical engineering,TEXnicCenter,research presentation,document editing,latex editor
+Isabell Kiral-Kornek,engineering,biomedical engineering,LaTeX,research presentation,document editing,
+Isabell Kiral-Kornek,engineering,biomedical engineering,PowerPoint,research presentation,slides,
+Isabell Kiral-Kornek,engineering,biomedical engineering,Keynote,research presentation,slides,
+Isabell Kiral-Kornek,engineering,biomedical engineering,Bibtex,information management,reference management,
+Isabell Kiral-Kornek,engineering,biomedical engineering,GIMP,research presentation,graphics editing,editing software
+Isabell Kiral-Kornek,engineering,biomedical engineering,Sublime,code development,editors,
+Isabell Kiral-Kornek,engineering,biomedical engineering,Git,file management,version control,software
+Isabell Kiral-Kornek,engineering,biomedical engineering,GitHub,file management,version control,hosting
+Fiona Tweedie,history and archaeology,historical studies,Scrivener,research presentation,document editing,
+Fiona Tweedie,history and archaeology,historical studies,Google Docs,research presentation,document editing,
+Fiona Tweedie,history and archaeology,historical studies,Zotero,information management,reference management,
+Paul Mignone,engineering,materials engineering,LaTeX,research presentation,document editing,
+Paul Mignone,engineering,materials engineering,TeXWorks,research presentation,document editing,latex editor
+Paul Mignone,engineering,materials engineering,Dropbox,file management,storage/sharing,
+Paul Mignone,engineering,materials engineering,PowerPoint,research presentation,slides,
+Paul Mignone,engineering,materials engineering,Jabref,information management,reference management,
+Paul Mignone,engineering,materials engineering,Photoshop,research presentation,graphics editing,editing software
+Paul Mignone,engineering,materials engineering,Inkscape,research presentation,graphics editing,editing software
+Paul Mignone,engineering,materials engineering,Abaqus,3D design,,
+Paul Mignone,engineering,materials engineering,Autodesk Inventor,3D design,,
+Paul Mignone,engineering,materials engineering,Solidworks,3D design,,
+Paul Mignone,engineering,materials engineering,Simpleware,3D design,,
+Paul Mignone,engineering,materials engineering,Notepad++,code development,editors,
+Amy Whitehead,biological sciences,ecology,RStudio,code development,interactive development environments,
+Amy Whitehead,biological sciences,ecology,Word,research presentation,document editing,
+Amy Whitehead,biological sciences,ecology,Google Docs,research presentation,document editing,
+Amy Whitehead,biological sciences,ecology,R Markdown,research presentation,document editing,markdown editor
+Amy Whitehead,biological sciences,ecology,Foxit PDF,research presentation,document editing,
+Amy Whitehead,biological sciences,ecology,Dropbox,file management,storage/sharing,
+Amy Whitehead,biological sciences,ecology,Google Drive,file management,storage/sharing,
+Amy Whitehead,biological sciences,ecology,PowerPoint,research presentation,slides,
+Amy Whitehead,biological sciences,ecology,Scribus,research presentation,,
+Amy Whitehead,biological sciences,ecology,Mendeley,information management,reference management,
+Amy Whitehead,biological sciences,ecology,Photoshop,research presentation,graphics editing,editing software
+Amy Whitehead,biological sciences,ecology,Inkscape,research presentation,graphics editing,editing software
+Amy Whitehead,biological sciences,ecology,GIMP,research presentation,graphics editing,editing software
+Amy Whitehead,biological sciences,ecology,Evernote,information management,note taking,
+Amy Whitehead,biological sciences,ecology,Rescue time,information management,time management,
+Amy Whitehead,biological sciences,ecology,Tomighty,information management,time management,
+Amy Whitehead,biological sciences,ecology,Feedly,information management,online information,
+Amy Whitehead,biological sciences,ecology,Git,file management,version control,software
+Amy Whitehead,biological sciences,ecology,GitHub,file management,version control,hosting
+Nikki Rubinstein,medical and health sciences,ophthalmology and optometry,RStudio,code development,interactive development environments,
+Nikki Rubinstein,medical and health sciences,ophthalmology and optometry,Word,research presentation,document editing,
+Nikki Rubinstein,medical and health sciences,ophthalmology and optometry,Dropbox,file management,storage/sharing,
+Nikki Rubinstein,medical and health sciences,ophthalmology and optometry,PowerPoint,research presentation,slides,
+Nikki Rubinstein,medical and health sciences,ophthalmology and optometry,EndNote,information management,reference management,
+Angelina Duan,medical and health sciences,ophthalmology and optometry,Word,research presentation,document editing,
+Angelina Duan,medical and health sciences,ophthalmology and optometry,Dropbox,file management,storage/sharing,
+Angelina Duan,medical and health sciences,ophthalmology and optometry,PowerPoint,research presentation,slides,
+Angelina Duan,medical and health sciences,ophthalmology and optometry,EndNote,information management,reference management,
+Angelina Duan,medical and health sciences,ophthalmology and optometry,Photoshop,research presentation,graphics editing,editing software
+Angelina Duan,medical and health sciences,ophthalmology and optometry,Evernote,information management,note taking,
+Angelina Duan,medical and health sciences,ophthalmology and optometry,Sourcetree,file management,version control,client
+Yu Sun,medical and health sciences,oncology and carcinogenesis,Word,research presentation,document editing,
+Yu Sun,medical and health sciences,oncology and carcinogenesis,LaTeX,research presentation,document editing,
+Yu Sun,medical and health sciences,oncology and carcinogenesis,Dropbox,file management,storage/sharing,
+Yu Sun,medical and health sciences,oncology and carcinogenesis,ReadCube,information management,reference management,
+Yu Sun,medical and health sciences,oncology and carcinogenesis,GIMP,research presentation,graphics editing,editing software
+Yu Sun,medical and health sciences,oncology and carcinogenesis,Notepad++,code development,editors,
+Yu Sun,medical and health sciences,oncology and carcinogenesis,Git,file management,version control,software
+Yu Sun,medical and health sciences,oncology and carcinogenesis,Bitbucket,file management,version control,hosting
+Alwyn Davidson,studies in human society,human geography,Piktochart,research presentation,graphics editing,icons/colors/simple graphic creation
+Alwyn Davidson,studies in human society,human geography,Word,research presentation,document editing,
+Alwyn Davidson,studies in human society,human geography,Dropbox,file management,storage/sharing,
+Alwyn Davidson,studies in human society,human geography,PowerPoint,research presentation,slides,
+Alwyn Davidson,studies in human society,human geography,EndNote,information management,reference management,
+Alwyn Davidson,studies in human society,human geography,Illustrator,research presentation,graphics editing,editing software
+Alwyn Davidson,studies in human society,human geography,Evernote,information management,note taking,
+Jason Lodge,psychology and cognitive sciences,psychology,Word,research presentation,document editing,
+Jason Lodge,psychology and cognitive sciences,psychology,Keynote,research presentation,slides,
+Jason Lodge,psychology and cognitive sciences,psychology,Papers,information management,reference management,
+Jason Lodge,psychology and cognitive sciences,psychology,LiveCode,code development,editors,
+Elise Gould,biological sciences,ecology,RStudio,code development,interactive development environments,
+Elise Gould,biological sciences,ecology,Scrivener,research presentation,document editing,
+Elise Gould,biological sciences,ecology,LaTeX,research presentation,document editing,
+Elise Gould,biological sciences,ecology,TeXPad,research presentation,document editing,latex editor
+Elise Gould,biological sciences,ecology,Marked2,research presentation,document editing,markdown editor
+Elise Gould,biological sciences,ecology,Markdown,research presentation,document editing,
+Elise Gould,biological sciences,ecology,MultiMarkdown,research presentation,document editing,markdown editor
+Elise Gould,biological sciences,ecology,Papers,information management,reference management,
+Elise Gould,biological sciences,ecology,Byword,information management,note taking,
+Elise Gould,biological sciences,ecology,Eggscellent,information management,time management,
+Elise Gould,biological sciences,ecology,Git,file management,version control,software
+Elise Gould,biological sciences,ecology,Tower,file management,version control,client
+Elise Gould,biological sciences,ecology,Skim,information management,pdf reading/annotation,
+Elise Gould,biological sciences,ecology,GoodReader,information management,pdf reading/annotation,
+Elise Gould,biological sciences,ecology,Hazel,file management,organisation,
+Elise Gould,biological sciences,ecology,Alfred,file management,search,

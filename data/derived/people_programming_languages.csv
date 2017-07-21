@@ -1,5 +1,46 @@
-person name or identifier,tool,research_division,research_group,cost,source code,user interface,usage
-,R,biological sciences,ecology,free,open,command line,analysis and visualisation
-,R,biological sciences,ecology,free,open,command line,analysis and visualisation
-,MATLAB,medical and health sciences,neurosciences,pay,closed,graphical and command line,analysis and visualisation
-,Unix Shell,medical and health sciences,neurosciences,free,,command line,workflow coordination
+name,tool,research_division,research_group,cost,source code,user interface,usage
+Kate Giljohann,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Michael Strack,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Michele Veldsman,MATLAB,medical and health sciences,neurosciences,pay,closed,graphical and command line,analysis and visualisation
+Michele Veldsman,Unix Shell,medical and health sciences,neurosciences,free,,command line,workflow coordination
+Maria Doyle,Python,,"oncology and carcinogenesis,biochemistry and cell biology",free,open,command line,analysis and visualisation
+Maria Doyle,R,,"oncology and carcinogenesis,biochemistry and cell biology",free,open,command line,analysis and visualisation
+Maria Doyle,Perl,,"oncology and carcinogenesis,biochemistry and cell biology",free,,command line,analysis and visualisation
+Maria Doyle,Unix Shell,,"oncology and carcinogenesis,biochemistry and cell biology",free,,command line,workflow coordination
+Amy Loughman,R,psychology and cognitive sciences,psychology,free,open,command line,analysis and visualisation
+Sharon Pattison,R,biological sciences,genetics,free,open,command line,analysis and visualisation
+Bryant Gagliardi,R,biological sciences,zoology,free,open,command line,analysis and visualisation
+Ruth Pearson,Python,physical sciences,astronomical and space sciences,free,open,command line,analysis and visualisation
+Ruth Pearson,MATLAB,physical sciences,astronomical and space sciences,pay,closed,graphical and command line,analysis and visualisation
+Ruth Pearson,C / C++,physical sciences,astronomical and space sciences,free,,command line,analysis
+Ruth Pearson,Fortran,physical sciences,astronomical and space sciences,free,,command line,analysis
+Ruth Pearson,Unix Shell,physical sciences,astronomical and space sciences,free,,command line,workflow coordination
+Emily Kothe,R,psychology and cognitive sciences,psychology,free,open,command line,analysis and visualisation
+Saras Windecker,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Daniel Pazmino,Python,earth sciences,atmospheric sciences,free,open,command line,analysis and visualisation
+Daniel Pazmino,MATLAB,earth sciences,atmospheric sciences,pay,closed,graphical and command line,analysis and visualisation
+Daniel Pazmino,Unix Shell,earth sciences,atmospheric sciences,free,,command line,workflow coordination
+Jane Younger,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Rosanna van Hespen,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Rosanna van Hespen,MATLAB,biological sciences,ecology,pay,closed,graphical and command line,analysis and visualisation
+Damien Irving,Python,earth sciences,atmospheric sciences,free,open,command line,analysis and visualisation
+Damien Irving,Unix Shell,earth sciences,atmospheric sciences,free,,command line,workflow coordination
+Damien Irving,Make,earth sciences,atmospheric sciences,free,,command line,workflow coordination
+Rosey Billington,R,"language, communication and culture",linguistics,free,open,command line,analysis and visualisation
+Isabell Kiral-Kornek,Python,engineering,biomedical engineering,free,open,command line,analysis and visualisation
+Isabell Kiral-Kornek,MATLAB,engineering,biomedical engineering,pay,closed,graphical and command line,analysis and visualisation
+Isabell Kiral-Kornek,C / C++,engineering,biomedical engineering,free,,command line,analysis
+Paul Mignone,Python,engineering,materials engineering,free,open,command line,analysis and visualisation
+Paul Mignone,MATLAB,engineering,materials engineering,pay,closed,graphical and command line,analysis and visualisation
+Paul Mignone,Windows Shell,engineering,materials engineering,pay,,command line,workflow coordination
+Amy Whitehead,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Nikki Rubinstein,R,medical and health sciences,ophthalmology and optometry,free,open,command line,analysis and visualisation
+Nikki Rubinstein,C / C++,medical and health sciences,ophthalmology and optometry,free,,command line,analysis
+Angelina Duan,MATLAB,medical and health sciences,ophthalmology and optometry,pay,closed,graphical and command line,analysis and visualisation
+Yu Sun,Python,medical and health sciences,oncology and carcinogenesis,free,open,command line,analysis and visualisation
+Yu Sun,R,medical and health sciences,oncology and carcinogenesis,free,open,command line,analysis and visualisation
+Yu Sun,MATLAB,medical and health sciences,oncology and carcinogenesis,pay,closed,graphical and command line,analysis and visualisation
+Yu Sun,HTML,medical and health sciences,oncology and carcinogenesis,free,,command line,visualisation
+Jason Lodge,R,psychology and cognitive sciences,psychology,free,open,command line,analysis and visualisation
+Elise Gould,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Elise Gould,AppleScript,biological sciences,ecology,pay,,command line,workflow coordination

@@ -1,15 +1,15 @@
 ﻿tool,cost,source code,user interface,usage,website,general_datasci_tools,discipline_datasci_tools,people
-C / C++,free,,command line,analysis,,,"S2PLOT,RDKit",
+C / C++,free,,command line,analysis,,,"S2PLOT,RDKit","Ruth Pearson,Isabell Kiral-Kornek,Nikki Rubinstein"
 Clojure,free,,command line,analysis and visualisation,https://clojure.org/,,,
-Fortran,free,,command line,analysis,,,,
-HTML,free,,command line,visualisation,,,,
+Fortran,free,,command line,analysis,,,,Ruth Pearson
+HTML,free,,command line,visualisation,,,,Yu Sun
 Javascript,free,,command line,visualisation,,"D3.js,Plotly",S2PLOT,
-Perl,free,,command line,analysis and visualisation,,,,
-Python,free,open,command line,analysis and visualisation,,"cartopy,SciPy,matplotlib,xarray,Plotly","OpenEye toolkit,RDKit,iris,Easyfig",
-R,free,open,command line,analysis and visualisation,,"BoxPlotR,dplyr,ggplot,Shiny,Plotly","Bioconductor,Arlequin,emuR","Kate Giljohann,Michael Strack"
-MATLAB,pay,closed,graphical and command line,analysis and visualisation,,Plotly,"BrainNet,CONN,iso2mesh,REST,SPM",Michele Veldsman
+Perl,free,,command line,analysis and visualisation,,,,Maria Doyle
+Python,free,open,command line,analysis and visualisation,,"cartopy,SciPy,matplotlib,xarray,Plotly","OpenEye toolkit,RDKit,iris,Easyfig","Maria Doyle,Ruth Pearson,Daniel Pazmino,Damien Irving,Isabell Kiral-Kornek,Paul Mignone,Yu Sun"
+R,free,open,command line,analysis and visualisation,,"BoxPlotR,dplyr,ggplot,Shiny,Plotly","Bioconductor,Arlequin,emuR","Kate Giljohann,Michael Strack,Maria Doyle,Amy Loughman,Sharon Pattison,Bryant Gagliardi,Emily Kothe,Saras Windecker,Jane Younger,Rosanna van Hespen,Rosey Billington,Amy Whitehead,Nikki Rubinstein,Yu Sun,Jason Lodge,Elise Gould"
+MATLAB,pay,closed,graphical and command line,analysis and visualisation,,Plotly,"BrainNet,CONN,iso2mesh,REST,SPM","Michele Veldsman,Ruth Pearson,Daniel Pazmino,Rosanna van Hespen,Isabell Kiral-Kornek,Paul Mignone,Angelina Duan,Yu Sun"
 Visual Basic,pay,closed,graphical and command line,,https://docs.microsoft.com/en-us/dotnet/visual-basic/,,,
-AppleScript,pay,,command line,workflow coordination,,,,
-Make,free,,command line,workflow coordination,https://www.gnu.org/software/make/,,,
-Unix Shell,free,,command line,workflow coordination,,"NCO,gnuplot","CDO,NCL,Arlequin,Bayescan,FASTLINK,plink,Structure,FSL,Beast2,BLAST,MEGA",Michele Veldsman
-Windows Shell,pay,,command line,workflow coordination,,,,
+AppleScript,pay,,command line,workflow coordination,,,,Elise Gould
+Make,free,,command line,workflow coordination,https://www.gnu.org/software/make/,,,Damien Irving
+Unix Shell,free,,command line,workflow coordination,,"NCO,gnuplot","CDO,NCL,Arlequin,Bayescan,FASTLINK,plink,Structure,FSL,Beast2,BLAST,MEGA","Michele Veldsman,Maria Doyle,Ruth Pearson,Daniel Pazmino,Damien Irving"
+Windows Shell,pay,,command line,workflow coordination,,,,Paul Mignone
