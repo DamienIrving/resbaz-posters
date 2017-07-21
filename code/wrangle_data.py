@@ -23,7 +23,7 @@ def expand_row(row, tool_category, df):
     if pandas.notnull(row[tool_category]):
         tool_list = [x.strip() for x in row[tool_category].split(',')]
         for tool in tool_list:
-            new_row = row[['person name or identifier', 'research_group', 'research_division', tool_category]].copy()
+            new_row = row[['name', 'research_group', 'research_division', tool_category]].copy()
             new_row[tool_category] = tool
             df = df.append(new_row, ignore_index=True)
 
