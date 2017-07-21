@@ -1,0 +1,30 @@
+person name or identifier,research_division,research_group,tool,category,task,sub-task
+,medical and health sciences,oncology and carcinogenesis,Word,research presentation,document editing,
+,medical and health sciences,oncology and carcinogenesis,Dropbox,file management,stoage/sharing,
+,medical and health sciences,oncology and carcinogenesis,PowerPoint,research presentation,slides,
+,biological sciences,ecology,RStudio,code development,interactive development environments,
+,biological sciences,ecology,Word,research presentation,document editing,
+,biological sciences,ecology,Dropbox,file management,stoage/sharing,
+,biological sciences,ecology,PowerPoint,research presentation,slides,
+,biological sciences,ecology,Scribus,research presentation,,
+,biological sciences,ecology,Mendeley,information management,reference management,
+,biological sciences,ecology,Papers,information management,reference management,
+,biological sciences,ecology,Inkscape,research presentation,graphics editing,editing software
+,biological sciences,ecology,GIMP,research presentation,graphics editing,editing software
+,biological sciences,ecology,Word,research presentation,document editing,
+,biological sciences,ecology,OneDrive,file management,stoage/sharing,
+,biological sciences,ecology,PowerPoint,research presentation,slides,
+,biological sciences,ecology,Prezi,research presentation,slides,
+,biological sciences,ecology,Mendeley,information management,reference management,
+,biological sciences,ecology,GIMP,research presentation,graphics editing,editing software
+,biological sciences,ecology,OneNote,information management,note taking,
+,biological sciences,ecology,Gantt project,information management,project management,
+,biological sciences,ecology,Asana,information management,project management,
+,medical and health sciences,neurosciences,OpenOffice Writer,research presentation,document editing,
+,medical and health sciences,neurosciences,Dropbox,file management,stoage/sharing,
+,medical and health sciences,neurosciences,PowerPoint,research presentation,slides,
+,medical and health sciences,neurosciences,Mendeley,information management,reference management,
+,medical and health sciences,neurosciences,Illustrator,research presentation,graphics editing,editing software
+,medical and health sciences,neurosciences,Photoshop,research presentation,graphics editing,editing software
+,medical and health sciences,neurosciences,GIMP,research presentation,graphics editing,editing software
+,medical and health sciences,neurosciences,Evernote,information management,note taking,

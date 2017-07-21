@@ -1,0 +1,5 @@
+person name or identifier,tool,research_division,research_group,cost,source code,user interface,usage
+,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+,MATLAB,medical and health sciences,neurosciences,pay,closed,graphical and command line,analysis and visualisation
+,Unix Shell,medical and health sciences,neurosciences,free,,command line,workflow coordination

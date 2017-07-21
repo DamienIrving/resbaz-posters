@@ -1,0 +1,13 @@
+tool,person name or identifier,research_division,research_group,discipline,cost,source code,user interface,usage,Website
+Partek,,medical and health sciences,oncology and carcinogenesis,genomics,pay,closed,graphical,analysis and visualisation,http://www.partek.com/
+IGV,,medical and health sciences,oncology and carcinogenesis,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
+ImageJ,,medical and health sciences,oncology and carcinogenesis,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+GeneMapper,,biological sciences,ecology,genomics,pay,closed,graphical,analysis and visualisation,https://www.thermofisher.com/order/catalog/product/4475073
+SPM,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis,http://www.fil.ion.ucl.ac.uk/spm/
+CONN,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://www.nitrc.org/projects/conn/
+REST,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,http://restfmri.net/forum/RESTplusV1.2
+BrainNet,,medical and health sciences,neurosciences,medical image processing,free,open,graphical,visualisation,https://www.nitrc.org/projects/bnv/
+MRIcron,,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://www.nitrc.org/projects/mricron
+FSL,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
+MRIcroGL,,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,visualisation,http://www.mccauslandcenter.sc.edu/mricrogl/home
+MRtrix3,,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,http://www.mrtrix.org/
