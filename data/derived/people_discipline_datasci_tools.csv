@@ -30,3 +30,22 @@ Praat,Rosey Billington,"language, communication and culture",linguistics,phoneti
 EdgeTrak,Rosey Billington,"language, communication and culture",linguistics,medical image processing,free,closed,graphical,visualisation,https://www.dental.umaryland.edu/speech/software/
 iso2mesh,Paul Mignone,engineering,materials engineering,medical image processing,free,open,graphical and command line,visualisation,http://iso2mesh.sourceforge.net/cgi-bin/index.cgi
 ImageJ,Paul Mignone,engineering,materials engineering,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+Mauve,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation,http://darlinglab.org/mauve/mauve.html
+Easyfig,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,visualisation,http://mjsull.github.io/Easyfig/
+EvolView,Areej Alsheikh-Hussain,biological sciences,genetics,phylogenetics,free,open,website,visualisation,https://evolview.codeplex.com/
+BRIG,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://brig.sourceforge.net/
+Artemis,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://www.sanger.ac.uk/science/tools/artemis
+Contiguity,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,visualisation,http://mjsull.github.io/Contiguity/
+LAStools,Matthew Malishev,biological sciences,zoology,geographic image processing,pay,closed,graphical and command line,analysis and visualisation,https://rapidlasso.com/LAStools/
+ePrime,Cindy Chew,psychology and cognitive sciences,psychology,psychology,pay,closed,graphical and command line,collection and analysis and visualisation,https://www.pstnet.com/eprime.cfm
+GeneHunter,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,pay,closed,graphical,analysis,http://www.wardsystems.com/genehunter.asp
+plink,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,free,open,command line,analysis,http://zzz.bwh.harvard.edu/plink/
+FASTLINK,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,free,closed,command line,analysis,https://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/fastlink.html
+Freesurfer,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://surfer.nmr.mgh.harvard.edu/
+FSL,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
+MRtrix3,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,http://www.mrtrix.org/
+PanelWhiz,David Marks,economics,economic theory,social sciences,pay,closed,graphical,analysis,http://www.panelwhiz.eu/
+Aspen Plus,Guoping Hu,engineering,chemical engineering,chemistry,pay,closed,graphical,analysis and visualisation,http://www.aspentech.com/products/engineering/aspen-plus/
+ChemOffice,Guoping Hu,engineering,chemical engineering,chemistry,pay,closed,graphical,visualisation,http://www.cambridgesoft.com/Ensemble_for_Chemistry/ChemOffice/ChemOfficeProfessional/Default.aspx
+DS Visualizer,Guoping Hu,engineering,chemical engineering,chemistry,free,closed,graphical,visualisation,http://www.marcsaric.de/index.php/DS_Visualizer
+ImageJ,Katherine Drummond,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
