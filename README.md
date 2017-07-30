@@ -21,7 +21,10 @@ and converts it to a one row per tool format (see the `data/derived/` directory 
 
 Finally, the tables in `data/derived/` are used to produce the preliminary results in the `results/` directory.
 
+## Other notes
 
+The research disciplines listed in `data/anzsrc_research_groups.csv` come from the
+[Australian and New Zealand Standard Research Classification (ANZSRC), 2008 ](http://www.abs.gov.au/ausstats/abs@.nsf/Products/6BB427AB9696C225CA2574180004463E?opendocument) 
 
 
 
