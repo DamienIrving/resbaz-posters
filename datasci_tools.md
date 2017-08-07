@@ -14,13 +14,13 @@ The hierarchy is as follows:
 
 `general_datasci_tools.csv`
 
-* general: matplotlib, xarray, IDL
+* general: matplotlib, xarray, etc
 * spreadsheets: Excel, etc
 * databases: Microsoft Access, MySQL, etc
 * file manipulation: NCO
-* qualitative data: NVivo, leximancer
-* statistics: SPSS, Stata, SciPy
-* spatial: ArcGIS, CARTO
+* qualitative data: NVivo, leximancer, etc
+* statistics: SPSS, Stata, SciPy, etc
+* spatial: ArcGIS, CARTO, etc
 
 ### 3. Discipline specific tools
 
@@ -29,10 +29,13 @@ The hierarchy is as follows:
 * Astronomy
 * Bioinformatics
 * Biological image processing
+* Biomedical
 * Chemistry
 * Climate
+* Flow cytometry
 * Genomics
 * Geographic image processing
+* Healthcare reviews
 * Medical image processing
 * Morphometrics
 * Nanoelectronics
@@ -40,8 +43,10 @@ The hierarchy is as follows:
 * Phylogenetics
 * Protein sequencing
 * Psychology
+* Risk analysis
 * Social sciences
 * Statistical modelling
+* Structural equation modeling
 
 A tool in lower category may function as a stand alone application and/or
 provide the ability to operate within a tool/environment in a higher category.
