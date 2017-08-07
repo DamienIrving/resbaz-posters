@@ -22,10 +22,11 @@ The ResBaz poster sessions are explained at [this post](http://melbourne.resbaz.
 Research disciplines were taken from the [Australian and New Zealand Standard Research Classification (ANZSRC), 2008](http://www.abs.gov.au/ausstats/abs@.nsf/Products/6BB427AB9696C225CA2574180004463E?opendocument).
 
 Scope of analysis:  
-* Primary interest: Digital tools for collecting, organising, analysing and visualising data 
-* Side interest: Digital tools that help with research (e.g. referencing, document editing, graphics editing) 
+* Primary interest: Digital tools for collecting, organising, analysing and visualising/presenting data 
+* Side interest: Digital tools that help with these data science tasks (e.g. referencing, document editing, graphics editing) 
 * Out: Software that generates data (e.g. climate models, biological models, economic models)
 * Out: Software for physical hardware (e.g. microscopes, scanners)
+* Out: Online platforms for networking (e.g. twitter, LinkedIn, ResearchGate) or personal websites/blogging (e.g. wordpress, blogger)
 
 Things to look at:
 * The full list of tools
