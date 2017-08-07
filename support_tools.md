@@ -11,6 +11,7 @@ Information management
   
 Data collection   
 * Survey tools
+* Behavioural observation
 * Video editing
 * Audio editing/transcribing
 
