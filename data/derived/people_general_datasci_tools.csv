@@ -151,3 +151,42 @@ ArcGIS,Sonia Hugh,environmental sciences,environmental science and management,sp
 matplotlib,Alex Norton,earth sciences,atmospheric sciences,general,free,open,command line,visualisation
 Mathematica,Tom Kelly,biological sciences,genetics,general,pay,,"graphical,command line",analysis and visualisation
 SciPy,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,statistics,free,open,command line,analysis
+GraphPad Prism,Simon McKenzie,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
+Excel,Simon McKenzie,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+JMP,Bernie Wittwer,biological sciences,evolutionary biology,general,pay,closed,graphical,analysis and visualisation
+SPSS,Nilupa Udawata,"commerce, management, tourism and services",business and management,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Nilupa Udawata,"commerce, management, tourism and services",business and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+NVivo,Nilupa Udawata,"commerce, management, tourism and services",business and management,qualitative data,pay,closed,graphical,analysis and visualisation
+Visio,Nilupa Udawata,"commerce, management, tourism and services",business and management,general,pay,closed,graphical,visualisation
+Stata,Adrienne O'Neil,medical and health sciences,public health and health services,statistics,pay,closed,graphical,analysis and visualisation
+SPSS,Adrienne O'Neil,medical and health sciences,public health and health services,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Kevin Lau,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
+GraphPad Prism,Kevin Lau,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
+Excel,Erandathie Pathiraja,,"""agriculture, land and farm management""",spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Erandathie Pathiraja,,"""agriculture, land and farm management""",statistics,pay,closed,graphical,analysis and visualisation
+Minitab,Erandathie Pathiraja,,"""agriculture, land and farm management""",spreadsheets,pay,closed,graphical,analysis and visualisation
+ArcGIS,Erandathie Pathiraja,,"""agriculture, land and farm management""",spatial data,pay,closed,graphical,visualisation
+Excel,Simone Nuessing,medical and health sciences,immunology,spreadsheets,pay,closed,graphical,analysis and visualisation
+GraphPad Prism,Simone Nuessing,medical and health sciences,immunology,general,pay,closed,graphical,analysis and visualisation
+SPSS,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,statistics,pay,closed,graphical,analysis and visualisation
+NVivo,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,qualitative data,pay,closed,graphical,analysis and visualisation
+Visio,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,general,pay,closed,graphical,visualisation
+Minitab,Naomi Davis,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+PRIMER-E,Naomi Davis,biological sciences,ecology,statistics,pay,closed,graphical,analysis and visualisation
+SigmaStat,Naomi Davis,biological sciences,ecology,statistics,pay,closed,graphical,analysis and visualisation
+Stata,Laura Conway,medical and health sciences,clinical sciences,statistics,pay,closed,graphical,analysis and visualisation
+Minitab,Laura Conway,medical and health sciences,clinical sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Peter Goodin,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
+PRIMER-E,Peter Goodin,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
+SciPy,Peter Goodin,medical and health sciences,neurosciences,statistics,free,open,command line,analysis
+matplotlib,Peter Goodin,medical and health sciences,neurosciences,general,free,open,command line,visualisation
+GraphPad Prism,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",general,pay,closed,graphical,analysis and visualisation
+Excel,Holly Sitters,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+ArcGIS,Holly Sitters,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
+ggplot,Holly Sitters,biological sciences,ecology,general,free,open,command line,visualisation
+dplyr,Holly Sitters,biological sciences,ecology,general,free,open,command line,analysis
+SPSS,Victor Sojo,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Victor Sojo,psychology and cognitive sciences,psychology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Andrew Watt,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Andrew Watt,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
+GraphPad Prism,Andrew Watt,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation

@@ -73,7 +73,7 @@ Andrea Bedini,Melbourne 2015,early-career,Mathematics,applied mathematics,osx,"P
 Sally Yunsun Kim,Melbourne 2015,phd,Pharmaceutics,pharmacology and pharmaceutical sciences,,,"GraphPad Prism,Igor Pro",ImageJ,"Word,PowerPoint,EndNote"
 Ravi Bessabava,Melbourne 2015,masters,3D printing,materials engineering,,,,,Rhino
 Michael Kuiper,Melbourne 2015,research assistant,Molecular scientist,genetics,,Python,,VMD,"GIMP,Blender,OpenSCAD,FreeCAD"
-Gina Kusuma,Melbourne 2015,phd,Stem Cell Biology,biochemistry and cell biology,windows,,GraphPad Prism,,"Word,Dropbox,Google Drive,PowerPoint,EndNote,Photoshop,Evernote"
+Gina Kusuma,Melbourne 2015,phd,Stem Cell Biology,biochemistry and cell biology,windows,,GraphPad Prism,FACSDIVA,"Word,Dropbox,Google Drive,PowerPoint,EndNote,Photoshop,Evernote"
 Varsha Pilbrow,Melbourne 2015,mid-career,Biological Anthropology,zoology,"windows,osx",,Mathematica,"morpho-tools.net,ImageJ","Photoshop,SigmaScan,SketchUp,Meshmixer,Geomagic Qualify"
 Celeste Coltman,Melbourne 2015,phd,Biomechanics,human movement and sports science,windows,,Excel,ImageJ,"EndNote,Illustrator,Geomagic studio"
 Andrea Rassell,Melbourne 2015,phd,Media and Nanoscience,communication and media studies,,,,ImageJ,"Google Docs,Prezi,Photoshop,Evernote,Adobe Premier,Adobe After Effects,MPEG streamclip,WIPster"
@@ -93,3 +93,20 @@ Sonia Hugh,Melbourne 2015,early-career,Environmental science,environmental scien
 Alex Norton,Melbourne 2015,phd,Earth System Science,atmospheric sciences,"osx,linux",Python,matplotlib,,"Spyder,Word,Backblaze,Mendeley,Photoshop,Git"
 Tom Kelly,Melbourne 2015,phd,Genetics,genetics,"windows,linux","Python,R,Unix Shell",Mathematica,Bioconductor,"RStudio,Word,LaTeX,PowerPoint,Slidify,EndNote,Inkscape,GIMP,GitHub,Git"
 Thomas Coudrat,Melbourne 2015,phd,Molecular modelling,theoretical and computational chemistry,linux,Python,SciPy,"OpenEye toolkit,RDKit,Autodock","Google Docs,OpenOffice Writer,Dropbox,Google Drive,Google Slides,Open Office Impress Presentation,Inkscape,GIMP,Molsoft ICM-Browser,PyMOL,Vim,GitHub,Git,Bitbucket,Master PDF Editor"
+Sally Richmond,Melbourne 2016,phd,Psychology,psychology,,R,,Freesurfer,"EndNote,CloudStor,Google Calendar"
+Simon McKenzie,Melbourne 2016,phd,Neuroscience,neurosciences,,R,"GraphPad Prism,Excel",,
+Bernie Wittwer,Melbourne 2016,phd,evolutionary biology,evolutionary biology,,R,JMP,"ImageJ,Beast2","Dropbox,Google Docs,Word,PowerPoint"
+Nilupa Udawata,Melbourne 2016,mid-career,construction,business and management,windows,R,"SPSS,Excel,NVivo,Visio",AMOS,"Word,EndNote,Dropbox,Google Drive,PowerPoint"
+Adrienne O'Neil,Melbourne 2016,mid-career,public health,public health and health services,,,"Stata,SPSS",RevMan,"EndNote,Word,PowerPoint"
+Kevin Lau,Melbourne 2016,postdoc,stem cells,genetics,,,"Excel,GraphPad Prism",ImageJ,
+Jo Keeble,Melbourne 2016,research assistant,,immunology,,R,,,RStudio
+Erandathie Pathiraja,Melbourne 2016,phd,agricultural economics,"""agriculture, land and farm management""",,,"Excel,SPSS,Minitab,ArcGIS",@Risk,"EndNote,PowerPoint"
+Simone Nuessing,Melbourne 2016,phd,immunology,immunology,,,"Excel,GraphPad Prism","ImageJ,FlowJo","Illustrator,CorrelDraw"
+Munyar Nyadzayo,Melbourne 2016,early-career,marketing,marketing,windows,R,"SPSS,NVivo,Visio",AMOS,"Dropbox,Google Drive"
+Naomi Davis,Melbourne 2016,early-career,ecologist,ecology,windows,,"Minitab,PRIMER-E,SigmaStat",,"EndNote,Dropbox,PowerPoint,Word,Photoshop"
+Laura Conway,Melbourne 2016,phd,speech pathology and psychology,clinical sciences,,,"Stata,Minitab",,"Scrivener,Observer XT"
+Peter Goodin,Melbourne 2016,research assistant,cognitive neuroscience,neurosciences,"linux,windows","Python,MATLAB,Unix Shell","SPSS,PRIMER-E,SciPy,matplotlib",PsychoPy,"Dropbox,GIMP"
+Eric Kusnadi,Melbourne 2016,phd,cancer biology,"oncology and carcinogenesis,biochemistry and cell biology",,,GraphPad Prism,"ImageJ,FACSDIVA,GeneGO",
+Holly Sitters,Melbourne 2016,postdoc,ecology,ecology,,R,"Excel,ArcGIS,ggplot,dplyr",,"RStudio,R Markdown,InDesign,Word,LaTeX,Mendeley,knitr"
+Victor Sojo,Melbourne 2016,postdoc,psychology,psychology,windows,,"SPSS,Excel",AMOS,"Qualtrics,Inquisit,Word,EndNote,PowerPoint"
+Andrew Watt,Melbourne 2016,postdoc,neuroscience,neurosciences,,,"Excel,SPSS,GraphPad Prism",XLSTAT-Biomed,

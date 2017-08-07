@@ -62,6 +62,7 @@ NCL,Mitchell Black,earth sciences,atmospheric sciences,climate,free,closed,comma
 ImageJ,Lizzy Lowe,biological sciences,ecology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
 ImageJ,Sally Yunsun Kim,medical and health sciences,pharmacology and pharmaceutical sciences,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
 VMD,Michael Kuiper,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://www.ks.uiuc.edu/Research/vmd/
+FACSDIVA,Gina Kusuma,biological sciences,biochemistry and cell biology,flow cytometry,pay,closed,graphical,analysis and visualisation,http://www.bdbiosciences.com/anz/instruments/software/facsdiva/index.jsp
 morpho-tools.net,Varsha Pilbrow,biological sciences,zoology,morphometrics,free,open,graphical and command line,analysis and visualisation,http://www.morpho-tools.net/index.html
 ImageJ,Varsha Pilbrow,biological sciences,zoology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
 ImageJ,Celeste Coltman,medical and health sciences,human movement and sports science,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
@@ -91,3 +92,19 @@ Bioconductor,Tom Kelly,biological sciences,genetics,bioinformatics,free,open,com
 OpenEye toolkit,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,command line,analysis,https://docs.eyesopen.com/toolkits/python/index.html
 RDKit,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,command line,analysis,http://www.rdkit.org/
 Autodock,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,graphical,visualisation,http://autodock.scripps.edu/
+Freesurfer,Sally Richmond,psychology and cognitive sciences,psychology,medical image processing,free,open,graphical,analysis and visualisation,https://surfer.nmr.mgh.harvard.edu/
+ImageJ,Bernie Wittwer,biological sciences,evolutionary biology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+Beast2,Bernie Wittwer,biological sciences,evolutionary biology,phylogenetics,free,open,graphical,analysis and visualisation,https://www.beast2.org/
+AMOS,Nilupa Udawata,"commerce, management, tourism and services",business and management,structural equation modeling,pay,closed,graphical,analysis and visualisation,
+RevMan,Adrienne O'Neil,medical and health sciences,public health and health services,healthcare reviews,free,closed,graphical,analysis,http://community.cochrane.org/tools/review-production-tools/revman-5
+ImageJ,Kevin Lau,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+@Risk,Erandathie Pathiraja,,"""agriculture, land and farm management""",risk analysis,pay,closed,graphical,analysis and visualisation,http://www.palisade.com/risk/
+ImageJ,Simone Nuessing,medical and health sciences,immunology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+FlowJo,Simone Nuessing,medical and health sciences,immunology,flow cytometry,pay,closed,graphical,analysis and visualisation,https://www.flowjo.com/solutions/flowjo
+AMOS,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,structural equation modeling,pay,closed,graphical,analysis and visualisation,
+PsychoPy,Peter Goodin,medical and health sciences,neurosciences,psychology,free,open,command line,analysis and visualisation,http://www.psychopy.org/
+ImageJ,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+FACSDIVA,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",flow cytometry,pay,closed,graphical,analysis and visualisation,http://www.bdbiosciences.com/anz/instruments/software/facsdiva/index.jsp
+GeneGO,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",genomics,pay,closed,graphical,analysis and visualisation,
+AMOS,Victor Sojo,psychology and cognitive sciences,psychology,structural equation modeling,pay,closed,graphical,analysis and visualisation,
+XLSTAT-Biomed,Andrew Watt,medical and health sciences,neurosciences,biomedical,pay,closed,graphical,analysis and visualisation,https://www.xlstat.com/en/solutions/biomed

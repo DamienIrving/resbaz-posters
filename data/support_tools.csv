@@ -26,15 +26,15 @@ TextWrangler,code development,editors,,,"Areej Alsheikh-Hussain,Alistair Walsh,M
 Vim,code development,editors,,,"Maria Doyle,Daniel Pazmino,Areej Alsheikh-Hussain,Sean Walsh,Andrea Bedini,Thomas Coudrat"
 IDLE,code development,interactive development environments,,https://docs.python.org/3/library/idle.html,Sonia Hugh
 Jupyter notebook,code development,interactive development environments,,,"Damien Irving,Areej Alsheikh-Hussain,Vince Polito,Andrea Bedini,Alistair Walsh"
-RStudio,code development,interactive development environments,,,"Kate Giljohann,Bryant Gagliardi,Saras Windecker,Rosey Billington,Amy Whitehead,Nikki Rubinstein,Elise Gould,Finley Roberts,Fabian Held,Alistair Walsh,Vicki Thomson,Garth Tarr,Sonia Hugh,Tom Kelly"
+RStudio,code development,interactive development environments,,,"Kate Giljohann,Bryant Gagliardi,Saras Windecker,Rosey Billington,Amy Whitehead,Nikki Rubinstein,Elise Gould,Finley Roberts,Fabian Held,Alistair Walsh,Vicki Thomson,Garth Tarr,Sonia Hugh,Tom Kelly,Jo Keeble,Holly Sitters"
 Spyder,code development,interactive development environments,,,Alex Norton
 Audacity,data collection,audio editing/transcribing,,,Jacquie Tran
 Express Scribe,data collection,audio editing/transcribing,,,Kathy Radoslovich
-Inquisit,data collection,surveys,psychological testing,https://www.scienceplus.com/inquisit,Emily Kothe
+Inquisit,data collection,surveys,psychological testing,https://www.scienceplus.com/inquisit,"Emily Kothe,Victor Sojo"
 Google Forms,data collection,surveys,,,"Jacquie Tran,Cuong Hoang,Binh Ta"
 Limesurvey,data collection,surveys,,,Emily Kothe
 Quadrant,data collection,surveys,,,
-Qualtrics,data collection,surveys,,,Cuong Hoang
+Qualtrics,data collection,surveys,,,"Cuong Hoang,Victor Sojo"
 REDCap,data collection,surveys,,,Srujana Sahebjada
 Survey Monkey,data collection,surveys,,,Jacquie Tran
 Adobe After Effects,data collection,video editing,,,Andrea Rassell
@@ -51,9 +51,9 @@ Time machine,file management,backup,,,Richard Hosking
 Hazel,file management,organisation,,https://www.noodlesoft.com/,Elise Gould
 Alfred,file management,search,,https://www.alfredapp.com/,Elise Gould
 Backblaze,file management,storage/sharing,,,Alex Norton
-Dropbox,file management,storage/sharing,,,"Rita Busuttil,Kate Giljohann,Michele Veldsman,Maria Doyle,Marine Chkadua,Nga Nguyen,Sharon Pattison,Ruth Pearson,Emily Kothe,Saras Windecker,Jane Younger,Rosanna van Hespen,Janavi Rambhatla,Sarah Jelbert,Jacquie Tran,Paul Mignone,Amy Whitehead,Nikki Rubinstein,Angelina Duan,Yu Sun,Alwyn Davidson,Areej Alsheikh-Hussain,Finley Roberts,Matthew Malishev,Cindy Chew,Catarina Kordsachia,David Marks,Katherine Drummond,Kim Doyle,Richard Hosking,Amy McKernan,Vince Polito,Cameron McLean,Mark Dean,Cuong Hoang,Yolande McNicoll,Alister Thorpe,Alysia Bennett,Lizzy Lowe,Gina Kusuma,David Norrish,Arna Karick,Camilla Vote,Garth Tarr,Scott Gleason,Thomas Coudrat"
+Dropbox,file management,storage/sharing,,,"Rita Busuttil,Kate Giljohann,Michele Veldsman,Maria Doyle,Marine Chkadua,Nga Nguyen,Sharon Pattison,Ruth Pearson,Emily Kothe,Saras Windecker,Jane Younger,Rosanna van Hespen,Janavi Rambhatla,Sarah Jelbert,Jacquie Tran,Paul Mignone,Amy Whitehead,Nikki Rubinstein,Angelina Duan,Yu Sun,Alwyn Davidson,Areej Alsheikh-Hussain,Finley Roberts,Matthew Malishev,Cindy Chew,Catarina Kordsachia,David Marks,Katherine Drummond,Kim Doyle,Richard Hosking,Amy McKernan,Vince Polito,Cameron McLean,Mark Dean,Cuong Hoang,Yolande McNicoll,Alister Thorpe,Alysia Bennett,Lizzy Lowe,Gina Kusuma,David Norrish,Arna Karick,Camilla Vote,Garth Tarr,Scott Gleason,Thomas Coudrat,Bernie Wittwer,Nilupa Udawata,Munyar Nyadzayo,Naomi Davis,Peter Goodin"
 Gcloud,file management,storage/sharing,,,Camilla Vote
-Google Drive,file management,storage/sharing,,,"Nga Nguyen,Emily Kothe,Saras Windecker,Rosanna van Hespen,Sarah Jelbert,Jacquie Tran,Amy Whitehead,Finley Roberts,Elham Shoorcheh,Katherine Drummond,Amy McKernan,Cuong Hoang,Binh Ta,Joanna Tai,Yolande McNicoll,Alister Thorpe,Alysia Bennett,Sarah Hunter,Gina Kusuma,Maria Carrillo-Rodriguez,David Norrish,Camilla Vote,Scott Gleason,Thomas Coudrat"
+Google Drive,file management,storage/sharing,,,"Nga Nguyen,Emily Kothe,Saras Windecker,Rosanna van Hespen,Sarah Jelbert,Jacquie Tran,Amy Whitehead,Finley Roberts,Elham Shoorcheh,Katherine Drummond,Amy McKernan,Cuong Hoang,Binh Ta,Joanna Tai,Yolande McNicoll,Alister Thorpe,Alysia Bennett,Sarah Hunter,Gina Kusuma,Maria Carrillo-Rodriguez,David Norrish,Camilla Vote,Scott Gleason,Thomas Coudrat,Nilupa Udawata,Munyar Nyadzayo"
 OneDrive,file management,storage/sharing,,,"Michael Strack,Rosanna van Hespen,Sarah Hunter,Camilla Vote"
 SpiderOak,file management,storage/sharing,,,Damien Irving
 WeTransfer,file management,storage/sharing,,,Jacquie Tran
@@ -93,9 +93,9 @@ Wunderlist,information management,project management,,,Sarah Webber
 BibDesk,information management,reference management,,,Garth Tarr
 Bibtex,information management,reference management,,,"Ruth Pearson,Rosey Billington,Isabell Kiral-Kornek,Arna Karick,Raffaella Demichelis"
 citethisforme.com,information management,reference management,,,Sarah Hunter
-EndNote,information management,reference management,,,"Maria Doyle,Marine Chkadua,Nga Nguyen,Amy Loughman,Sharon Pattison,Bryant Gagliardi,Emily Kothe,Daniel Pazmino,Jane Younger,Janavi Rambhatla,Sarah Jelbert,Jacquie Tran,Nikki Rubinstein,Angelina Duan,Alwyn Davidson,Areej Alsheikh-Hussain,Matthew Malishev,Cindy Chew,Srujana Sahebjada,Catarina Kordsachia,Sean Walsh,Scott Kolbe,Guoping Hu,Elham Shoorcheh,Bonnie Alexander,Amy McKernan,Mark Dean,Binh Ta,Joanna Tai,Fabian Held,Kathy Radoslovich,Yolande McNicoll,Alysia Bennett,Katherine Langley,Lizzy Lowe,Sarah Hunter,Sally Yunsun Kim,Gina Kusuma,Celeste Coltman,Md. Roysul Islam,Maria Carrillo-Rodriguez,David Norrish,Camilla Vote,Ruth MacKinnon,Scott Gleason,Tom Kelly"
+EndNote,information management,reference management,,,"Maria Doyle,Marine Chkadua,Nga Nguyen,Amy Loughman,Sharon Pattison,Bryant Gagliardi,Emily Kothe,Daniel Pazmino,Jane Younger,Janavi Rambhatla,Sarah Jelbert,Jacquie Tran,Nikki Rubinstein,Angelina Duan,Alwyn Davidson,Areej Alsheikh-Hussain,Matthew Malishev,Cindy Chew,Srujana Sahebjada,Catarina Kordsachia,Sean Walsh,Scott Kolbe,Guoping Hu,Elham Shoorcheh,Bonnie Alexander,Amy McKernan,Mark Dean,Binh Ta,Joanna Tai,Fabian Held,Kathy Radoslovich,Yolande McNicoll,Alysia Bennett,Katherine Langley,Lizzy Lowe,Sarah Hunter,Sally Yunsun Kim,Gina Kusuma,Celeste Coltman,Md. Roysul Islam,Maria Carrillo-Rodriguez,David Norrish,Camilla Vote,Ruth MacKinnon,Scott Gleason,Tom Kelly,Sally Richmond,Nilupa Udawata,Adrienne O'Neil,Erandathie Pathiraja,Naomi Davis,Victor Sojo"
 Jabref,information management,reference management,,,Paul Mignone
-Mendeley,information management,reference management,,,"Kate Giljohann,Michael Strack,Michele Veldsman,Saras Windecker,Daniel Pazmino,Rosanna van Hespen,Damien Irving,Amy Whitehead,Areej Alsheikh-Hussain,Cindy Chew,Xavier Ho,Sarah Webber,Joanna Tai,Alister Thorpe,Mitchell Black,Garth Tarr,Alex Norton"
+Mendeley,information management,reference management,,,"Kate Giljohann,Michael Strack,Michele Veldsman,Saras Windecker,Daniel Pazmino,Rosanna van Hespen,Damien Irving,Amy Whitehead,Areej Alsheikh-Hussain,Cindy Chew,Xavier Ho,Sarah Webber,Joanna Tai,Alister Thorpe,Mitchell Black,Garth Tarr,Alex Norton,Holly Sitters"
 Papers,information management,reference management,,,"Kate Giljohann,Amy Loughman,Sharon Pattison,Jason Lodge,Elise Gould,Melanie Roberts,Katherine Drummond,Richard Hosking,Cameron McLean,Raffaella Demichelis"
 Qiqqa,information management,reference management,,,Sarah Jelbert
 ReadCube,information management,reference management,,,"Yu Sun,Finley Roberts"
@@ -115,24 +115,24 @@ TeXWorks,research presentation,document editing,latex editor,,"Paul Mignone,Davi
 WinEdt,research presentation,document editing,latex editor,,Fabian Held
 Marked2,research presentation,document editing,markdown editor,,Elise Gould
 MultiMarkdown,research presentation,document editing,markdown editor,,Elise Gould
-R Markdown,research presentation,document editing,markdown editor,,Amy Whitehead
+R Markdown,research presentation,document editing,markdown editor,,"Amy Whitehead,Holly Sitters"
 Adobe PDF,research presentation,document editing,,,Camilla Vote
 Authorea,research presentation,document editing,,,"Damien Irving,Mitchell Black,Andrea Bedini"
 Foxit PDF,research presentation,document editing,,,Amy Whitehead
-Google Docs,research presentation,document editing,,,"Ruth Pearson,Rosey Billington,Fiona Tweedie,Amy Whitehead,Xavier Ho,Chris Malone,Vince Polito,Cameron McLean,Fabian Held,Andrea Rassell,Thomas Coudrat"
-LaTeX,research presentation,document editing,,,"Ruth Pearson,Damien Irving,Rosey Billington,Isabell Kiral-Kornek,Paul Mignone,Yu Sun,Elise Gould,Melanie Roberts,David Marks,Wenx Hansen,Fabian Held,Mitchell Black,Andrea Bedini,Arna Karick,Raffaella Demichelis,Garth Tarr,Sonia Hugh,Tom Kelly"
+Google Docs,research presentation,document editing,,,"Ruth Pearson,Rosey Billington,Fiona Tweedie,Amy Whitehead,Xavier Ho,Chris Malone,Vince Polito,Cameron McLean,Fabian Held,Andrea Rassell,Thomas Coudrat,Bernie Wittwer"
+LaTeX,research presentation,document editing,,,"Ruth Pearson,Damien Irving,Rosey Billington,Isabell Kiral-Kornek,Paul Mignone,Yu Sun,Elise Gould,Melanie Roberts,David Marks,Wenx Hansen,Fabian Held,Mitchell Black,Andrea Bedini,Arna Karick,Raffaella Demichelis,Garth Tarr,Sonia Hugh,Tom Kelly,Holly Sitters"
 Markdown,research presentation,document editing,,,"Elise Gould,Michael Bane,Sonia Hugh"
 OpenOffice Writer,research presentation,document editing,,,"Michele Veldsman,Damien Irving,Wenx Hansen,Chris Malone,Kathy Radoslovich,Sarah Hunter,Michael Bane,Raffaella Demichelis,Thomas Coudrat"
 Pages,research presentation,document editing,,,Arna Karick
-Scrivener,research presentation,document editing,,,"Amy Loughman,Jacquie Tran,Fiona Tweedie,Elise Gould,Kim Doyle,Sarah Webber,Amy McKernan,Cameron McLean,Alysia Bennett"
-Word,research presentation,document editing,,,"Rita Busuttil,Kate Giljohann,Michael Strack,Maria Doyle,Marine Chkadua,Nga Nguyen,Amy Loughman,Bryant Gagliardi,Daniel Pazmino,Jane Younger,Rosanna van Hespen,Janavi Rambhatla,Sarah Jelbert,Jacquie Tran,Rosey Billington,Amy Whitehead,Nikki Rubinstein,Angelina Duan,Yu Sun,Alwyn Davidson,Jason Lodge,Areej Alsheikh-Hussain,Finley Roberts,Melanie Roberts,Cindy Chew,Srujana Sahebjada,Scott Kolbe,Wenx Hansen,Elham Shoorcheh,Kim Doyle,Sarah Webber,Amy McKernan,Vince Polito,Mark Dean,Cuong Hoang,Joanna Tai,Fabian Held,Kathy Radoslovich,Yolande McNicoll,Alister Thorpe,Alysia Bennett,Katherine Langley,Johan Gustafson,Annelies Van de Ven,Sarah Hunter,Sally Yunsun Kim,Gina Kusuma,Md. Roysul Islam,David Norrish,Arna Karick,Camilla Vote,Vicki Thomson,Ruth MacKinnon,Michael Bane,Raffaella Demichelis,Scott Gleason,Sonia Hugh,Alex Norton,Tom Kelly"
-GIMP,research presentation,graphics editing,editing software,,"Kate Giljohann,Michael Strack,Michele Veldsman,Daniel Pazmino,Isabell Kiral-Kornek,Amy Whitehead,Yu Sun,Finley Roberts,Katherine Drummond,Chris Malone,Fabian Held,Lizzy Lowe,Michael Kuiper,David Norrish,Arna Karick,Camilla Vote,Tom Kelly,Thomas Coudrat"
-Illustrator,research presentation,graphics editing,editing software,,"Michele Veldsman,Sarah Jelbert,Jacquie Tran,Damien Irving,Alwyn Davidson,Areej Alsheikh-Hussain,Scott Kolbe,Katherine Drummond,Alysia Bennett,Mitchell Black,Sarah Hunter,Celeste Coltman,Md. Roysul Islam,Vicki Thomson,Sonia Hugh"
+Scrivener,research presentation,document editing,,,"Amy Loughman,Jacquie Tran,Fiona Tweedie,Elise Gould,Kim Doyle,Sarah Webber,Amy McKernan,Cameron McLean,Alysia Bennett,Laura Conway"
+Word,research presentation,document editing,,,"Rita Busuttil,Kate Giljohann,Michael Strack,Maria Doyle,Marine Chkadua,Nga Nguyen,Amy Loughman,Bryant Gagliardi,Daniel Pazmino,Jane Younger,Rosanna van Hespen,Janavi Rambhatla,Sarah Jelbert,Jacquie Tran,Rosey Billington,Amy Whitehead,Nikki Rubinstein,Angelina Duan,Yu Sun,Alwyn Davidson,Jason Lodge,Areej Alsheikh-Hussain,Finley Roberts,Melanie Roberts,Cindy Chew,Srujana Sahebjada,Scott Kolbe,Wenx Hansen,Elham Shoorcheh,Kim Doyle,Sarah Webber,Amy McKernan,Vince Polito,Mark Dean,Cuong Hoang,Joanna Tai,Fabian Held,Kathy Radoslovich,Yolande McNicoll,Alister Thorpe,Alysia Bennett,Katherine Langley,Johan Gustafson,Annelies Van de Ven,Sarah Hunter,Sally Yunsun Kim,Gina Kusuma,Md. Roysul Islam,David Norrish,Arna Karick,Camilla Vote,Vicki Thomson,Ruth MacKinnon,Michael Bane,Raffaella Demichelis,Scott Gleason,Sonia Hugh,Alex Norton,Tom Kelly,Bernie Wittwer,Nilupa Udawata,Adrienne O'Neil,Naomi Davis,Holly Sitters,Victor Sojo"
+GIMP,research presentation,graphics editing,editing software,,"Kate Giljohann,Michael Strack,Michele Veldsman,Daniel Pazmino,Isabell Kiral-Kornek,Amy Whitehead,Yu Sun,Finley Roberts,Katherine Drummond,Chris Malone,Fabian Held,Lizzy Lowe,Michael Kuiper,David Norrish,Arna Karick,Camilla Vote,Tom Kelly,Thomas Coudrat,Peter Goodin"
+Illustrator,research presentation,graphics editing,editing software,,"Michele Veldsman,Sarah Jelbert,Jacquie Tran,Damien Irving,Alwyn Davidson,Areej Alsheikh-Hussain,Scott Kolbe,Katherine Drummond,Alysia Bennett,Mitchell Black,Sarah Hunter,Celeste Coltman,Md. Roysul Islam,Vicki Thomson,Sonia Hugh,Simone Nuessing"
 Inkscape,research presentation,graphics editing,editing software,,"Kate Giljohann,Rosey Billington,Paul Mignone,Amy Whitehead,Matthew Malishev,Cameron McLean,David Norrish,Raffaella Demichelis,Garth Tarr,Tom Kelly,Thomas Coudrat"
 IrfanView,research presentation,graphics editing,editing software,,Scott Gleason
 Painbrush,research presentation,graphics editing,editing software,,
 Paint.NET,research presentation,graphics editing,editing software,,"Nga Nguyen,Emily Kothe"
-Photoshop,research presentation,graphics editing,editing software,,"Michele Veldsman,Rosanna van Hespen,Sarah Jelbert,Jacquie Tran,Paul Mignone,Amy Whitehead,Angelina Duan,Areej Alsheikh-Hussain,Scott Kolbe,Guoping Hu,Katherine Drummond,Bonnie Alexander,Xavier Ho,Sarah Webber,Alister Thorpe,Alysia Bennett,Annelies Van de Ven,Gina Kusuma,Varsha Pilbrow,Andrea Rassell,Md. Roysul Islam,Arna Karick,Scott Gleason,Alex Norton"
+Photoshop,research presentation,graphics editing,editing software,,"Michele Veldsman,Rosanna van Hespen,Sarah Jelbert,Jacquie Tran,Paul Mignone,Amy Whitehead,Angelina Duan,Areej Alsheikh-Hussain,Scott Kolbe,Guoping Hu,Katherine Drummond,Bonnie Alexander,Xavier Ho,Sarah Webber,Alister Thorpe,Alysia Bennett,Annelies Van de Ven,Gina Kusuma,Varsha Pilbrow,Andrea Rassell,Md. Roysul Islam,Arna Karick,Scott Gleason,Alex Norton,Naomi Davis"
 Pixelmator,research presentation,graphics editing,editing software,,Garth Tarr
 SigmaScan,research presentation,graphics editing,editing software,http://www.sigmaplot.co.uk/products/sigmascan/sigmascan.php,Varsha Pilbrow
 Adobe Kuler,research presentation,graphics editing,icons/colors/simple graphic creation,,"Richard Hosking,Cameron McLean"
@@ -143,13 +143,19 @@ Beamer,research presentation,slides,,,"David Marks,Garth Tarr"
 Google Slides,research presentation,slides,,,Thomas Coudrat
 Haiku Deck,research presentation,slides,,,Jacquie Tran
 HTML,research presentation,slides,,,
-InDesign,research presentation,slides,,,Alysia Bennett
+InDesign,research presentation,slides,,,"Alysia Bennett,Holly Sitters"
 Keynote,research presentation,slides,,,"Daniel Pazmino,Isabell Kiral-Kornek,Jason Lodge,Finley Roberts,Michael Bane,Raffaella Demichelis"
 LaTeX Powerdot,research presentation,slides,,,Melanie Roberts
 Open Office Impress Presentation,research presentation,slides,,,"Raffaella Demichelis,Thomas Coudrat"
-PowerPoint,research presentation,slides,,,"Rita Busuttil,Kate Giljohann,Michael Strack,Michele Veldsman,Maria Doyle,Marine Chkadua,Nga Nguyen,Amy Loughman,Sharon Pattison,Bryant Gagliardi,Emily Kothe,Saras Windecker,Jane Younger,Rosanna van Hespen,Janavi Rambhatla,Sarah Jelbert,Jacquie Tran,Damien Irving,Rosey Billington,Isabell Kiral-Kornek,Paul Mignone,Amy Whitehead,Nikki Rubinstein,Angelina Duan,Alwyn Davidson,Areej Alsheikh-Hussain,Finley Roberts,Rupan Preet Kaur,Melanie Roberts,Matthew Malishev,Cindy Chew,Srujana Sahebjada,Catarina Kordsachia,Scott Kolbe,David Marks,Guoping Hu,Elham Shoorcheh,Katherine Drummond,Bonnie Alexander,Kim Doyle,Sarah Webber,Chris Malone,Amy McKernan,Vince Polito,Mark Dean,Cuong Hoang,Binh Ta,Joanna Tai,Kathy Radoslovich,Yolande McNicoll,Alister Thorpe,Katherine Langley,Lizzy Lowe,Johan Gustafson,Annelies Van de Ven,Sarah Hunter,Sally Yunsun Kim,Gina Kusuma,Md. Roysul Islam,Maria Carrillo-Rodriguez,Camilla Vote,Vicki Thomson,Ruth MacKinnon,Michael Bane,Raffaella Demichelis,Scott Gleason,Sonia Hugh,Tom Kelly"
+PowerPoint,research presentation,slides,,,"Rita Busuttil,Kate Giljohann,Michael Strack,Michele Veldsman,Maria Doyle,Marine Chkadua,Nga Nguyen,Amy Loughman,Sharon Pattison,Bryant Gagliardi,Emily Kothe,Saras Windecker,Jane Younger,Rosanna van Hespen,Janavi Rambhatla,Sarah Jelbert,Jacquie Tran,Damien Irving,Rosey Billington,Isabell Kiral-Kornek,Paul Mignone,Amy Whitehead,Nikki Rubinstein,Angelina Duan,Alwyn Davidson,Areej Alsheikh-Hussain,Finley Roberts,Rupan Preet Kaur,Melanie Roberts,Matthew Malishev,Cindy Chew,Srujana Sahebjada,Catarina Kordsachia,Scott Kolbe,David Marks,Guoping Hu,Elham Shoorcheh,Katherine Drummond,Bonnie Alexander,Kim Doyle,Sarah Webber,Chris Malone,Amy McKernan,Vince Polito,Mark Dean,Cuong Hoang,Binh Ta,Joanna Tai,Kathy Radoslovich,Yolande McNicoll,Alister Thorpe,Katherine Langley,Lizzy Lowe,Johan Gustafson,Annelies Van de Ven,Sarah Hunter,Sally Yunsun Kim,Gina Kusuma,Md. Roysul Islam,Maria Carrillo-Rodriguez,Camilla Vote,Vicki Thomson,Ruth MacKinnon,Michael Bane,Raffaella Demichelis,Scott Gleason,Sonia Hugh,Tom Kelly,Bernie Wittwer,Nilupa Udawata,Adrienne O'Neil,Erandathie Pathiraja,Naomi Davis,Victor Sojo"
 Prezi,research presentation,slides,,,"Michael Strack,Nga Nguyen,Amy Loughman,Jacquie Tran,Wenx Hansen,Guoping Hu,Joanna Tai,Andrea Rassell,Camilla Vote,Ruth MacKinnon"
 R presentations,research presentation,slides,,,Michael Bane
 Slidify,research presentation,slides,,,Tom Kelly
 Scribus,research presentation,,,,"Kate Giljohann,Daniel Pazmino,Amy Whitehead"
 Diogenes,information management,finding data,,https://community.dur.ac.uk/p.j.heslin/Software/Diogenes/,Chris Malone
+CloudStor,file management,storage/sharing,,https://www.aarnet.edu.au/network-and-services/cloud-services-applications/cloudstor,Sally Richmond
+Google Calendar,information management,time management,,,Sally Richmond
+Decision Explorer,information management,concept/mind mapping,,http://banxia.com/dexplore/,
+CorrelDraw,research presentation,graphics editing,editing software,http://www.coreldraw.com/en/,Simone Nuessing
+Observer XT,data collection,behavioural observation,,http://www.noldus.com/human-behavior-research/products/the-observer-xt,Laura Conway
+knitr,research presentation,document editing,,https://yihui.name/knitr/,Holly Sitters

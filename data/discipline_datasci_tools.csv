@@ -7,7 +7,7 @@ Aspen Plus,chemistry,pay,closed,graphical,analysis and visualisation,,,http://ww
 ATK,nanoelectronics,pay,closed,graphical and command line,analysis and visualisation,,,http://quantumwise.com/products/atk,
 Autodock,chemistry,free,open,graphical,visualisation,,,http://autodock.scripps.edu/,Thomas Coudrat
 Bayescan,genomics,free,open,graphical and command line,analysis and visualisation,Unix Shell,,cmpg.unibe.ch/software/BayeScan/,Jane Younger
-Beast2,phylogenetics,free,open,graphical,analysis and visualisation,Unix Shell,,https://www.beast2.org/,Jane Younger
+Beast2,phylogenetics,free,open,graphical,analysis and visualisation,Unix Shell,,https://www.beast2.org/,"Jane Younger,Bernie Wittwer"
 Bioconductor,bioinformatics,free,open,command line,analysis and visualisation,R,,https://www.bioconductor.org/,Tom Kelly
 BioEdit,protein sequencing,free,closed,graphical,visualisation,,,http://www.mbio.ncsu.edu/BioEdit/bioedit.html,David Norrish
 BLAST,protein sequencing,free,closed,graphical and command line,analysis and visualisation,Unix Shell,,https://blast.ncbi.nlm.nih.gov/Blast.cgi,Janavi Rambhatla
@@ -28,7 +28,7 @@ ePrime,psychology,pay,closed,graphical and command line,collection and analysis 
 EvolView,phylogenetics,free,open,website,visualisation,,,https://evolview.codeplex.com/,Areej Alsheikh-Hussain
 FASTLINK,genomics,free,closed,command line,analysis,Unix Shell,,https://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/fastlink.html,Srujana Sahebjada
 FINDSYM,chemistry,free,closed,website,visualisation,,,http://stokes.byu.edu/iso/findsym.php,Raffaella Demichelis
-Freesurfer,medical image processing,free,open,graphical,analysis and visualisation,,,https://surfer.nmr.mgh.harvard.edu/,"Scott Kolbe,Bonnie Alexander"
+Freesurfer,medical image processing,free,open,graphical,analysis and visualisation,,,https://surfer.nmr.mgh.harvard.edu/,"Scott Kolbe,Bonnie Alexander,Sally Richmond"
 FSL,medical image processing,free,closed,graphical and command line,analysis and visualisation,Unix Shell,,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki,"Michele Veldsman,Scott Kolbe,Bonnie Alexander"
 GDIS,chemistry,free,open,graphical,visualisation,,,http://gdis.sourceforge.net/,Raffaella Demichelis
 GeneHunter,genomics,pay,closed,graphical,analysis,,,http://www.wardsystems.com/genehunter.asp,Srujana Sahebjada
@@ -36,7 +36,7 @@ GeneMapper,genomics,pay,closed,graphical,analysis and visualisation,,,https://ww
 HMMER,protein sequencing,free,closed,command line,analysis,,,http://hmmer.org/,David Norrish
 IGV,genomics,free,closed,graphical,visualisation,,,http://software.broadinstitute.org/software/igv/,"Rita Busuttil,Sharon Pattison"
 Ikaros,genomics,pay,closed,graphical,visualisation,,,https://metasystems-international.com/en/products/ikaros/,Ruth MacKinnon
-ImageJ,medical image processing,free,open,graphical,analysis and visualisation,,,https://imagej.net/Welcome,"Rita Busuttil,Sharon Pattison,Paul Mignone,Katherine Drummond,Lizzy Lowe,Sally Yunsun Kim,Varsha Pilbrow,Celeste Coltman,Andrea Rassell,Md. Roysul Islam,David Norrish"
+ImageJ,medical image processing,free,open,graphical,analysis and visualisation,,,https://imagej.net/Welcome,"Rita Busuttil,Sharon Pattison,Paul Mignone,Katherine Drummond,Lizzy Lowe,Sally Yunsun Kim,Varsha Pilbrow,Celeste Coltman,Andrea Rassell,Md. Roysul Islam,David Norrish,Bernie Wittwer,Kevin Lau,Simone Nuessing,Eric Kusnadi"
 IRAF,astronomy,free,closed,command line,analysis and visualisation,,,http://iraf.noao.edu/,Arna Karick
 iris,climate,free,open,command line,analysis and visualisation,Python,,http://scitools.org.uk/iris/,Damien Irving
 iso2mesh,medical image processing,free,open,graphical and command line,visualisation,MATLAB,,http://iso2mesh.sourceforge.net/cgi-bin/index.cgi,Paul Mignone
@@ -70,3 +70,12 @@ Swarp,astronomy,free,closed,command line,analysis and visualisation,,,https://ww
 TNT,phylogenetics,free,closed,graphical,analysis and visualisation,,,http://www.lillo.org.ar/phylogeny/tnt/,Md. Roysul Islam
 TOPCAT,astronomy,free,open,graphical,analysis,,,http://www.star.bris.ac.uk/~mbt/topcat/,Arna Karick
 VMD,genomics,free,closed,graphical,visualisation,,,http://www.ks.uiuc.edu/Research/vmd/,"Michael Kuiper,Raffaella Demichelis"
+AMOS,structural equation modeling,pay,closed,graphical,analysis and visualisation,,SPSS,,"Nilupa Udawata,Munyar Nyadzayo,Victor Sojo"
+RevMan,healthcare reviews,free,closed,graphical,analysis,,,http://community.cochrane.org/tools/review-production-tools/revman-5,Adrienne O'Neil
+@Risk,risk analysis,pay,closed,graphical,analysis and visualisation,,Excel,http://www.palisade.com/risk/,Erandathie Pathiraja
+FlowJo,flow cytometry,pay,closed,graphical,analysis and visualisation,,,https://www.flowjo.com/solutions/flowjo,Simone Nuessing
+PsychoPy,psychology,free,open,command line,analysis and visualisation,Python,,http://www.psychopy.org/,Peter Goodin
+FACSDIVA,flow cytometry,pay,closed,graphical,analysis and visualisation,,,http://www.bdbiosciences.com/anz/instruments/software/facsdiva/index.jsp,"Eric Kusnadi,Gina Kusuma"
+GeneGO,genomics,pay,closed,graphical,analysis and visualisation,,,,Eric Kusnadi
+XLSTAT-Biomed,biomedical,pay,closed,graphical,analysis and visualisation,,Excel,https://www.xlstat.com/en/solutions/biomed,Andrew Watt
+,,,,,,,,,
