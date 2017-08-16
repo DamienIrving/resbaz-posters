@@ -8,7 +8,7 @@ The hierarchy is as follows:
 
 `programming_languages.csv`
 
-* Python, R, C++, MATLAB, unix shell, etc
+* Python, R, C++, MATLAB, unix shell, SQL, etc
 
 ### 2. General data science tools
 
@@ -16,7 +16,7 @@ The hierarchy is as follows:
 
 * general: matplotlib, xarray, etc
 * spreadsheets: Excel, etc
-* databases: Microsoft Access, MySQL, etc
+* databases: Microsoft Access, etc
 * file manipulation: NCO
 * qualitative data: NVivo, leximancer, etc
 * statistics: SPSS, Stata, SciPy, etc
