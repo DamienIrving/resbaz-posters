@@ -11,6 +11,11 @@
 
 ## Introduction
 
+It would be of assistance to educators, open science thinkers/advocates and individual researchers to lift the veil
+and understand what tools people are using to do their work. 
+This information isn't covered in journal papers 
+and even within research departments/groups people can be ashamed to talk about the tools they use.
+
 Relevant literature:  
 * Around 18% of all researchers use LaTeX [(Pepe, 2016)](https://www.authorea.com/users/3/articles/107393-how-many-scholarly-articles-are-written-in-latex/_show_article)  
 
@@ -78,3 +83,5 @@ The plethora of closed and/or paid and/or no scripting tools is a barrier to ope
 Open (and free) tools typically require coding skills (unlike paid/closed, which often have a GUI).
 This means teaching coding best practices empowers researchers to do open science.
 
+Further work: A more formal survey of the research community using the results from these open-ended posters 
+as a starting point for designing the questions / format.
