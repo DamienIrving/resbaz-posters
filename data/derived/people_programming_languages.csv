@@ -41,6 +41,7 @@ Yu Sun,Python,medical and health sciences,oncology and carcinogenesis,free,open,
 Yu Sun,R,medical and health sciences,oncology and carcinogenesis,free,open,command line,analysis and visualisation
 Yu Sun,MATLAB,medical and health sciences,oncology and carcinogenesis,pay,closed,graphical and command line,analysis and visualisation
 Yu Sun,HTML,medical and health sciences,oncology and carcinogenesis,free,,command line,visualisation
+Alwyn Davidson,MySQL,studies in human society,human geography,free,open,command line,database
 Jason Lodge,R,psychology and cognitive sciences,psychology,free,open,command line,analysis and visualisation
 Elise Gould,R,biological sciences,ecology,free,open,command line,analysis and visualisation
 Elise Gould,AppleScript,biological sciences,ecology,pay,,command line,workflow coordination
@@ -58,6 +59,7 @@ Sean Walsh,Python,environmental sciences,environmental science and management,fr
 Sean Walsh,Fortran,environmental sciences,environmental science and management,free,,command line,analysis
 Sean Walsh,Visual Basic,environmental sciences,environmental science and management,pay,closed,graphical and command line,
 Sean Walsh,Unix Shell,environmental sciences,environmental science and management,free,,command line,workflow coordination
+Sean Walsh,MySQL,environmental sciences,environmental science and management,free,open,command line,database
 Scott Kolbe,MATLAB,medical and health sciences,neurosciences,pay,closed,graphical and command line,analysis and visualisation
 Scott Kolbe,Unix Shell,medical and health sciences,neurosciences,free,,command line,workflow coordination
 David Marks,MATLAB,economics,economic theory,pay,closed,graphical and command line,analysis and visualisation
@@ -95,6 +97,7 @@ Vicki Thomson,Unix Shell,biological sciences,evolutionary biology,free,,command 
 Michael Bane,Python,medical and health sciences,human movement and sports science,free,open,command line,analysis and visualisation
 Michael Bane,R,medical and health sciences,human movement and sports science,free,open,command line,analysis and visualisation
 Michael Bane,Unix Shell,medical and health sciences,human movement and sports science,free,,command line,workflow coordination
+Michael Bane,SQLite,medical and health sciences,human movement and sports science,free,open,command line,database
 Raffaella Demichelis,Fortran,engineering,materials engineering,free,,command line,analysis
 Raffaella Demichelis,Unix Shell,engineering,materials engineering,free,,command line,workflow coordination
 Garth Tarr,R,mathematical sciences,statistics,free,open,command line,analysis and visualisation
@@ -116,3 +119,39 @@ Peter Goodin,Python,medical and health sciences,neurosciences,free,open,command 
 Peter Goodin,MATLAB,medical and health sciences,neurosciences,pay,closed,graphical and command line,analysis and visualisation
 Peter Goodin,Unix Shell,medical and health sciences,neurosciences,free,,command line,workflow coordination
 Holly Sitters,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Andy Krause,R,economics,applied economics,free,open,command line,analysis and visualisation
+Vejune Zemaityte,MySQL,,"""film, television and digital media""",free,open,command line,database
+Sarah Beebe,R,biological sciences,zoology,free,open,command line,analysis and visualisation
+Emily Johnston Flies,R,biological sciences,ecology,free,open,command line,analysis and visualisation
+Katie Crawford,R,biological sciences,genetics,free,open,command line,analysis and visualisation
+Katie Crawford,Unix Shell,biological sciences,genetics,free,,command line,workflow coordination
+Anna Lewis,R,biological sciences,zoology,free,open,command line,analysis and visualisation
+Campbell Pryor,R,psychology and cognitive sciences,psychology,free,open,command line,analysis and visualisation
+Campbell Pryor,MATLAB,psychology and cognitive sciences,psychology,pay,closed,graphical and command line,analysis and visualisation
+Campbell Pryor,MySQL,psychology and cognitive sciences,psychology,free,open,command line,database
+Campbell Pryor,HTML,psychology and cognitive sciences,psychology,free,,command line,visualisation
+Campbell Pryor,Javascript,psychology and cognitive sciences,psychology,free,,command line,visualisation
+Campbell Pryor,PHP,psychology and cognitive sciences,psychology,free,open,command line,visualisation
+Campbell Pryor,CSS,psychology and cognitive sciences,psychology,free,open,command line,visualisation
+Elisabeth Vogel,R,earth sciences,atmospheric sciences,free,open,command line,analysis and visualisation
+Eloise Cameron,MATLAB,medical and health sciences,neurosciences,pay,closed,graphical and command line,analysis and visualisation
+Erika Duan,R,medical and health sciences,immunology,free,open,command line,analysis and visualisation
+Erika Duan,Unix Shell,medical and health sciences,immunology,free,,command line,workflow coordination
+Gede PW Rajeg,R,"language, communication and culture",linguistics,free,open,command line,analysis and visualisation
+Kirill Tsyganov,R,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Kirill Tsyganov,Python,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Kirill Tsyganov,Unix Shell,biological sciences,biochemistry and cell biology,free,,command line,workflow coordination
+Kirill Tsyganov,HTML,biological sciences,biochemistry and cell biology,free,,command line,visualisation
+Kirill Tsyganov,CSS,biological sciences,biochemistry and cell biology,free,open,command line,visualisation
+Kirill Tsyganov,BigDataScript,biological sciences,biochemistry and cell biology,free,open,command line,workflow coordination
+Luke Zappia,R,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Luke Zappia,Python,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Cassandra Wannan,Unix Shell,medical and health sciences,neurosciences,free,,command line,workflow coordination
+Chenkai Ma,R,biological sciences,genetics,free,open,command line,analysis and visualisation
+Shakila Khan Rumi,R,studies in human society,criminology,free,open,command line,analysis and visualisation
+Shakila Khan Rumi,PostgreSQL,studies in human society,criminology,free,open,command line,database
+Susan Wilson,R,economics,applied economics,free,open,command line,analysis and visualisation
+Susan Wilson,MATLAB,economics,applied economics,pay,closed,graphical and command line,analysis and visualisation
+Tiane Ryman,R,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Tiane Ryman,Python,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Jane Cawson,R,environmental sciences,environmental science and management,free,open,command line,analysis and visualisation

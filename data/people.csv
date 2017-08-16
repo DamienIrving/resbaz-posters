@@ -27,7 +27,7 @@ Amy Whitehead,Melbourne 2015,phd,ecology,ecology,windows,R,"ArcGIS,Excel,QGIS",,
 Nikki Rubinstein,Melbourne 2015,phd,optometry,ophthalmology and optometry,windows,"R,C / C++",,,"RStudio,Word,Dropbox,PowerPoint,EndNote"
 Angelina Duan,Melbourne 2015,phd,optometry,ophthalmology and optometry,windows,MATLAB,"GraphPad Prism,Excel",,"Word,Dropbox,PowerPoint,EndNote,Photoshop,Evernote,Sourcetree"
 Yu Sun,Melbourne 2015,phd,image analysis,oncology and carcinogenesis,windows,"Python,R,MATLAB,HTML",Excel,,"Word,LaTeX,Dropbox,ReadCube,GIMP,Notepad++,Git,Bitbucket"
-Alwyn Davidson,Melbourne 2015,research assistant,geospatial science,human geography,windows,,"MySQL,Excel,ArcGIS,QGIS,TileMill,CARTO,Tableau,Gephi",,"Piktochart,Word,Dropbox,PowerPoint,EndNote,Illustrator,Evernote"
+Alwyn Davidson,Melbourne 2015,research assistant,geospatial science,human geography,windows,MySQL,"Excel,ArcGIS,QGIS,TileMill,CARTO,Tableau,Gephi",,"Piktochart,Word,Dropbox,PowerPoint,EndNote,Illustrator,Evernote"
 Jason Lodge,Melbourne 2015,mid-career,psychology,psychology,osx,R,"SPSS,Excel",,"Word,Keynote,Papers,LiveCode"
 Elise Gould,Melbourne 2015,masters,ecology,ecology,osx,"R,AppleScript","Excel,Netica",,"RStudio,Scrivener,LaTeX,TeXPad,Marked2,Markdown,MultiMarkdown,Papers,Byword,Eggscellent,Git,Tower,Skim,GoodReader,Hazel,Alfred"
 Areej Alsheikh-Hussain,Melbourne 2015,phd,microbial genomics,genetics,"osx,linux","Python,R,Unix Shell",Excel,"Mauve,Easyfig,EvolView,BRIG,Artemis,Contiguity","Jupyter notebook,Word,Dropbox,PowerPoint,Mendeley,EndNote,Illustrator,Photoshop,MindMup,Time Out,Vim,TextWrangler,Git"
@@ -38,7 +38,7 @@ Matthew Malishev,Melbourne 2015,phd,BioSciences,zoology,osx,"R,MATLAB","ArcGIS,n
 Cindy Chew,Melbourne 2015,phd,Psychology,psychology,windows,,"SPSS,GraphPad Prism,Excel,Latent GOLD",ePrime,"Word,Dropbox,PowerPoint,Mendeley,EndNote"
 Srujana Sahebjada,Melbourne 2015,early-career,Ophthalmology,ophthalmology and optometry,,,"SPSS,Stata,GraphPad Prism,Excel,Access","GeneHunter,plink,FASTLINK","REDCap,Word,PowerPoint,EndNote"
 Catarina Kordsachia,Melbourne 2015,phd,Neuropsychology,psychology,,MATLAB,SPSS,,"Dropbox,PowerPoint,EndNote"
-Sean Walsh,Melbourne 2015,mid-career,Fire science,environmental science and management,"windows,linux","Python,Fortran,Visual Basic,Unix Shell","MySQL,NCO,Excel,ArcGIS,Google Earth",,"EndNote,Vim"
+Sean Walsh,Melbourne 2015,mid-career,Fire science,environmental science and management,"windows,linux","Python,Fortran,Visual Basic,Unix Shell,MySQL","NCO,Excel,ArcGIS,Google Earth",,"EndNote,Vim"
 Scott Kolbe,Melbourne 2015,mid-career,Visual neuroscience,neurosciences,"osx,linux","MATLAB,Unix Shell",Excel,"Freesurfer,FSL,MRtrix3","Word,PowerPoint,EndNote,Illustrator,Photoshop,Git,GitHub"
 David Marks,Melbourne 2015,phd,Economics,economic theory,windows,MATLAB,"Stata,Excel",PanelWhiz,"LaTeX,TEXnicCenter,TeXWorks,Dropbox,PowerPoint,Beamer"
 Wenx Hansen,Melbourne 2015,phd,Biomechanics,human movement and sports science,windows,MATLAB,,,"Word,LaTeX,OpenOffice Writer,Prezi,Mimics / 3-matic"
@@ -85,7 +85,7 @@ Alistair Walsh,Melbourne 2015,phd,Neuroscience,neurosciences,"osx,linux","Python
 Camilla Vote,Melbourne 2015,mid-career,Resource management,environmental science and management,windows,"Python,MATLAB","IDL,Excel,ArcGIS,Google Earth",ENVI,"Word,Adobe PDF,Dropbox,Google Drive,Gcloud,OneDrive,PowerPoint,Prezi,EndNote,GIMP,Notepad++,Git,GitHub"
 Vicki Thomson,Melbourne 2015,postdoc,Population genetics,evolutionary biology,"windows,osx,linux","R,Unix Shell",ArcGIS,,"RStudio,Word,PowerPoint,Illustrator,GitHub,Git"
 Ruth MacKinnon,Melbourne 2015,early-career,Cytogenomics,genetics,,,Excel,"Karyostudio,Ikaros","Word,PowerPoint,Prezi,EndNote"
-Michael Bane,Melbourne 2015,postdoc,Sports analytics,human movement and sports science,osx,"Python,R,Unix Shell","ggplot,dplyr,Shiny,SQLite,Plotly",,"Word,Markdown,OpenOffice Writer,PowerPoint,Keynote,R presentations,Evernote,TextWrangler,Git,GitHub"
+Michael Bane,Melbourne 2015,postdoc,Sports analytics,human movement and sports science,osx,"Python,R,Unix Shell,SQLite","ggplot,dplyr,Shiny,Plotly",,"Word,Markdown,OpenOffice Writer,PowerPoint,Keynote,R presentations,Evernote,TextWrangler,Git,GitHub"
 Raffaella Demichelis,Melbourne 2015,mid-career,Computational materials science,materials engineering,"osx,linux","Fortran,Unix Shell","Gnumetric,gnuplot","VMD,Jmol,moldraw,GDIS,FINDSYM","Word,LaTeX,OpenOffice Writer,PowerPoint,Keynote,Open Office Impress Presentation,Bibtex,Papers,Inkscape,Git,GitHub"
 Garth Tarr,Melbourne 2015,postdoc,Statistics,statistics,osx,"R,HTML","Shiny,Google Sheets",,"RStudio,LaTeX,TeXPad,TeXShop,Dropbox,Beamer,Mendeley,BibDesk,Inkscape,Pixelmator"
 Scott Gleason,Melbourne 2015,phd,Materials Science and Engineering,materials engineering,"windows,osx",,Excel,,"Word,Dropbox,Google Drive,PowerPoint,EndNote,Photoshop,IrfanView,Gantter,Adobe Acrobat"
@@ -110,3 +110,30 @@ Eric Kusnadi,Melbourne 2016,phd,cancer biology,"oncology and carcinogenesis,bioc
 Holly Sitters,Melbourne 2016,postdoc,ecology,ecology,,R,"Excel,ArcGIS,ggplot,dplyr",,"RStudio,R Markdown,InDesign,Word,LaTeX,Mendeley,knitr"
 Victor Sojo,Melbourne 2016,postdoc,psychology,psychology,windows,,"SPSS,Excel",AMOS,"Qualtrics,Inquisit,Word,EndNote,PowerPoint"
 Andrew Watt,Melbourne 2016,postdoc,neuroscience,neurosciences,,,"Excel,SPSS,GraphPad Prism",XLSTAT-Biomed,
+Na Li,Melbourne 2016,phd,cancer genetics,genetics,,,"Excel,GraphPad Prism",Galaxy,"Illustrator,Photoshop,Evernote"
+Andy Krause,Melbourne 2016,mid-career,property,applied economics,windows,R,"QGIS,Shiny",,"Beamer,knitr,RStudio,Dropbox,CloudStor,Markdown,Authorea,TeXWorks,Mendeley,Sourcetree,GitHub,Git"
+Vejune Zemaityte,Melbourne 2016,phd,cinema studies,"""film, television and digital media""",windows,MySQL,"Excel,SPSS,NVivo,Navicat,SQL Maestro for MySQL",,"Photoshop,Illustrator,Word,OneNote,PowerPoint,Dropbox,EndNote"
+Liam Johnson,Melbourne 2016,postdoc,exercise physiology,physiology,"osx,windows",,"Excel,SPSS",,"Evernote,Word,EndNote,Dropbox,Google Drive,PowerPoint,Prezi,MindMup,Coggle"
+Sarah Beebe,Melbourne 2016,phd,animal behaviour,zoology,,R,"SPSS,Excel,NVivo",,"EndNote,Raven"
+Emily Johnston Flies,Melbourne 2016,phd,disease ecology,ecology,,R,ArcGIS,,"GIMP,RStudio"
+Sonja McKeown,Melbourne 2016,mid-career,developmental biology,neurosciences,,,"GraphPad Prism,Excel",ImageJ,"ReadCube,Word,PowerPoint"
+Terri Jackson,Melbourne 2016,senior-career,health economics,public health and health services,,,"Excel,SPSS,SAS/STAT,Stata",,
+Eleanor Neal,Melbourne 2016,phd,infectious diseases epidemiology,public health and health services,,,"Excel,Stata",EpiData,
+Katie Crawford,Melbourne 2016,phd,genetics,genetics,windows,"R,Unix Shell",Excel,"Arlequin,PGD Spider,Samtools,BWA,VCFtools,BCFtools,Genome Analysis Toolkit,FreeBayes,Trimmomatic,PopART,DnaSP,adegenet,caret","RStudio,Word,PowerPoint,EndNote"
+Anna Lewis,Melbourne 2016,masters,zoology,zoology,osx,R,"Excel,SAS/STAT",ImageJ,"RStudio,Word,PowerPoint,EndNote,Photoshop,Google Drive"
+Campbell Pryor,Melbourne 2016,phd,psychology,psychology,,"R,MATLAB,MySQL,HTML,Javascript,PHP,CSS","Excel,ggplot",,"RStudio,Atom,GitHub,Git,XAMPP,bitnami LAMP,Google Cloud Platform"
+Elisabeth Vogel,Melbourne 2016,phd,atmospheric science,atmospheric sciences,,R,"ggplot,dplyr,ArcGIS,NCO",CDO,"RStudio,knitr,Markdown,Sublime,Zotero,GitHub,Git,Evernote,Pomodone,Todoist"
+Eloise Cameron,Melbourne 2016,phd,developmental imaging,neurosciences,"linux,windows,osx",MATLAB,"SPSS,Excel",,"Papers,Word,PowerPoint,REDCap,Dropbox"
+Erika Duan,Melbourne 2016,postdoc,immunology,immunology,,"R,Unix Shell",ggplot,Degust,RStudio
+Gede PW Rajeg,Melbourne 2016,phd,linguistics,linguistics,,R,Excel,,"Notepad++,TextWrangler,Word,PowerPoint,Zotero,Dropbox,OneDrive,Google Drive,JEdit"
+Kirill Tsyganov,Melbourne 2016,research assistant,bioinformatics technician,biochemistry and cell biology,,"R,Python,Unix Shell,HTML,CSS,BigDataScript",,,"Vim,Git"
+Luke Zappia,Melbourne 2016,phd,bioinformatics,biochemistry and cell biology,,"R,Python",,,"Atom,Vim,Markdown,LaTeX,RStudio,GitHub,Git,Zotero,Pandoc"
+Maria Ambartsumova,Melbourne 2016,phd,marketing,marketing,,,"SPSS,NVivo,Leximancer","AMOS,Comprehensive Meta-Analysis","Evernote,Mendeley,Dropbox,Google Drive"
+Cassandra Wannan,Melbourne 2016,phd,neuropsychiatry,neurosciences,,Unix Shell,SPSS,"FSL,Freesurfer,MAGeTBrain",GEdit
+Dai Barnett,Melbourne 2016,phd,behavioural epidemiology,public health and health services,,,SPSS,,"Word,EndNote,PowerPoint"
+Chenkai Ma,Melbourne 2016,phd,biomedicine,genetics,,R,"SPSS,Stata,GraphPad Prism",ImageJ,
+Shakila Khan Rumi,Melbourne 2016,phd,,criminology,,"R,PostgreSQL","Shiny,Visio",,"RStudio,Dropbox,GitHub,Git,Mendeley,LaTeX,PowerPoint,Google Drive"
+Susan Wilson,Melbourne 2016,masters,economics,applied economics,,"R,MATLAB",Excel,EViews,"RStudio,Word,PowerPoint,GitHub,Git,OneNote,Dropbox"
+Tiane Ryman,Melbourne 2016,masters,bioinformatics,biochemistry and cell biology,,"R,Python",,Cytoscape,"LaTeX,Word,Sublime"
+Tiffany Phillips,Melbourne 2016,phd,genetics,genetics,osx,,,itk-SNAP,"Keynote,PowerPoint,Word,Mendeley,Dropbox,Photoshop,GIMP,Aperture"
+Jane Cawson,Melbourne 2016,postdoc,bushfire behaviour,environmental science and management,,R,"Access,Google Earth,ArcGIS,Excel",,

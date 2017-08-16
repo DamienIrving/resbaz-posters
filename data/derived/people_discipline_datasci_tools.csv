@@ -96,7 +96,7 @@ Freesurfer,Sally Richmond,psychology and cognitive sciences,psychology,medical i
 ImageJ,Bernie Wittwer,biological sciences,evolutionary biology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
 Beast2,Bernie Wittwer,biological sciences,evolutionary biology,phylogenetics,free,open,graphical,analysis and visualisation,https://www.beast2.org/
 AMOS,Nilupa Udawata,"commerce, management, tourism and services",business and management,structural equation modeling,pay,closed,graphical,analysis and visualisation,
-RevMan,Adrienne O'Neil,medical and health sciences,public health and health services,healthcare reviews,free,closed,graphical,analysis,http://community.cochrane.org/tools/review-production-tools/revman-5
+RevMan,Adrienne O'Neil,medical and health sciences,public health and health services,meta-analysis,free,,graphical,analysis,http://community.cochrane.org/tools/review-production-tools/revman-5
 ImageJ,Kevin Lau,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
 @Risk,Erandathie Pathiraja,,"""agriculture, land and farm management""",risk analysis,pay,closed,graphical,analysis and visualisation,http://www.palisade.com/risk/
 ImageJ,Simone Nuessing,medical and health sciences,immunology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
@@ -108,3 +108,31 @@ FACSDIVA,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biolog
 GeneGO,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",genomics,pay,closed,graphical,analysis and visualisation,
 AMOS,Victor Sojo,psychology and cognitive sciences,psychology,structural equation modeling,pay,closed,graphical,analysis and visualisation,
 XLSTAT-Biomed,Andrew Watt,medical and health sciences,neurosciences,biomedical,pay,closed,graphical,analysis and visualisation,https://www.xlstat.com/en/solutions/biomed
+Galaxy,Na Li,biological sciences,genetics,biomedical,free,open,graphical,workflow management,https://usegalaxy.org/
+ImageJ,Sonja McKeown,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+EpiData,Eleanor Neal,medical and health sciences,public health and health services,epidemiology,free,closed,graphical,analysis and visualisation,http://www.epidata.dk/
+Arlequin,Katie Crawford,biological sciences,genetics,genomics,free,closed,graphical and command line,analysis,http://cmpg.unibe.ch/software/arlequin35/
+PGD Spider,Katie Crawford,biological sciences,genetics,genomics,free,closed,graphical,analysis,http://www.cmpg.unibe.ch/software/PGDSpider/
+Samtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,http://www.htslib.org/
+BWA,Katie Crawford,biological sciences,genetics,protein sequencing,free,open,command line,analysis,http://bio-bwa.sourceforge.net/
+VCFtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,https://vcftools.github.io/
+BCFtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,https://samtools.github.io/bcftools/
+Genome Analysis Toolkit,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation,https://software.broadinstitute.org/gatk/
+FreeBayes,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,https://github.com/ekg/freebayes
+Trimmomatic,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,http://www.usadellab.org/cms/?page=trimmomatic
+PopART,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation,http://popart.otago.ac.nz/index.shtml
+DnaSP,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation,http://www.ub.edu/dnasp/
+adegenet,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical and command line,analysis and visualisation,http://adegenet.r-forge.r-project.org/
+caret,Katie Crawford,biological sciences,genetics,genomics,free,open,,,http://topepo.github.io/caret/index.html
+ImageJ,Anna Lewis,biological sciences,zoology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+CDO,Elisabeth Vogel,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis,https://code.mpimet.mpg.de/projects/cdo
+Degust,Erika Duan,medical and health sciences,immunology,genomics,free,open,website,visualisation,http://www.vicbioinformatics.com/software.degust.shtml
+AMOS,Maria Ambartsumova,"commerce, management, tourism and services",marketing,structural equation modeling,pay,closed,graphical,analysis and visualisation,
+Comprehensive Meta-Analysis,Maria Ambartsumova,"commerce, management, tourism and services",marketing,meta-analysis,pay,closed,graphical,analysis and visualisation,https://www.meta-analysis.com/
+FSL,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
+Freesurfer,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://surfer.nmr.mgh.harvard.edu/
+MAGeTBrain,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,open,command line,analysis,https://github.com/CobraLab/MAGeTbrain
+ImageJ,Chenkai Ma,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+EViews,Susan Wilson,economics,applied economics,economics,pay,closed,graphical,analysis and visualisation,http://www.eviews.com
+Cytoscape,Tiane Ryman,biological sciences,biochemistry and cell biology,genomics,free,open,graphical,visualisation,http://www.cytoscape.org/
+itk-SNAP,Tiffany Phillips,biological sciences,genetics,medical image processing,free,closed,graphical,analysis and visualisation,http://www.itksnap.org/pmwiki/pmwiki.php

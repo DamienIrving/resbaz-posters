@@ -1,48 +1,48 @@
 ﻿tool,purpose,cost,source code,user interface,usage,website,programming_languages,discipline_datasci_tools,people
-ArcGIS,spatial data,pay,closed,graphical,visualisation,https://www.arcgis.com/features/index.html,,ENVI,"Kate Giljohann,Saras Windecker,Rosanna van Hespen,Amy Whitehead,Alwyn Davidson,Finley Roberts,Matthew Malishev,Sean Walsh,Lizzy Lowe,Johan Gustafson,Camilla Vote,Vicki Thomson,Sonia Hugh,Erandathie Pathiraja,Holly Sitters"
+ArcGIS,spatial data,pay,closed,graphical,visualisation,https://www.arcgis.com/features/index.html,,ENVI,"Kate Giljohann,Saras Windecker,Rosanna van Hespen,Amy Whitehead,Alwyn Davidson,Finley Roberts,Matthew Malishev,Sean Walsh,Lizzy Lowe,Johan Gustafson,Camilla Vote,Vicki Thomson,Sonia Hugh,Erandathie Pathiraja,Holly Sitters,Emily Johnston Flies,Elisabeth Vogel,Jane Cawson"
 CARTO,spatial data,free with advanced pay options,open,graphical,visualisation,https://carto.com/,,,Alwyn Davidson
 cartopy,spatial data,free,open,command line,visualisation,http://scitools.org.uk/cartopy/,Python,,Damien Irving
-Google Earth,spatial data,free,closed,graphical,visualisation,,,,"Melanie Roberts,Sean Walsh,Lizzy Lowe,Camilla Vote"
-QGIS,spatial data,free,open,graphical,visualisation,http://www.qgis.org/en/site/,,,"Amy Whitehead,Alwyn Davidson,Melanie Roberts"
+Google Earth,spatial data,free,closed,graphical,visualisation,,,,"Melanie Roberts,Sean Walsh,Lizzy Lowe,Camilla Vote,Jane Cawson"
+QGIS,spatial data,free,open,graphical,visualisation,http://www.qgis.org/en/site/,,,"Amy Whitehead,Alwyn Davidson,Melanie Roberts,Andy Krause"
 SAGA,spatial data,free,open,graphical,visualisation,http://www.saga-gis.org/en/index.html,,,Melanie Roberts
 TileMill,spatial data,free,open,graphical,visualisation,https://tilemill-project.github.io/tilemill/,,,Alwyn Davidson
 Latent GOLD,statistical modelling,pay,closed,graphical,analysis and visualisation,http://www.statisticalinnovations.com/latent-gold-5-1/,,,Cindy Chew
 Netica,statistical modelling,free,closed,graphical,analysis and visualisation,https://www.norsys.com/,,,Elise Gould
 netlogo,statistical modelling,free,closed,graphical,analysis and visualisation,https://ccl.northwestern.edu/netlogo/,,,"Matthew Malishev,Fabian Held"
 Diogenes,qualitative data,free,open,graphical,analysis,https://community.dur.ac.uk/p.j.heslin/Software/Diogenes/,,,Fiona Tweedie
-Leximancer,qualitative data,pay,closed,graphical,analysis and visualisation,https://info.leximancer.com/,,,Yolande McNicoll
-NCO,file manipulation,free,closed,command line,analysis,http://nco.sourceforge.net/,Unix Shell,,"Daniel Pazmino,Damien Irving,Sean Walsh,Mitchell Black"
-NVivo,qualitative data,pay,closed,graphical,analysis and visualisation,http://www.qsrinternational.com/nvivo-product,,,"Nga Nguyen,Mark Dean,Cuong Hoang,Binh Ta,Joanna Tai,Kathy Radoslovich,Nilupa Udawata,Munyar Nyadzayo"
+Leximancer,qualitative data,pay,closed,graphical,analysis and visualisation,https://info.leximancer.com/,,,"Yolande McNicoll,Maria Ambartsumova"
+NCO,file manipulation,free,closed,command line,analysis,http://nco.sourceforge.net/,Unix Shell,,"Daniel Pazmino,Damien Irving,Sean Walsh,Mitchell Black,Elisabeth Vogel"
+NVivo,qualitative data,pay,closed,graphical,analysis and visualisation,http://www.qsrinternational.com/nvivo-product,,,"Nga Nguyen,Mark Dean,Cuong Hoang,Binh Ta,Joanna Tai,Kathy Radoslovich,Nilupa Udawata,Munyar Nyadzayo,Vejune Zemaityte,Sarah Beebe,Maria Ambartsumova"
 PRIMER-E,statistics,pay,closed,graphical,analysis and visualisation,http://www.primer-e.com/index.htm,,,"Lizzy Lowe,Naomi Davis,Peter Goodin"
-SAS/STAT,statistics,pay,closed,graphical,analysis and visualisation,https://www.sas.com/en_au/software/analytics/stat.html,,,"Sarah Jelbert,Jacquie Tran"
+SAS/STAT,statistics,pay,closed,graphical,analysis and visualisation,https://www.sas.com/en_au/software/analytics/stat.html,,,"Sarah Jelbert,Jacquie Tran,Terri Jackson,Anna Lewis"
 SigmaStat,statistics,pay,closed,graphical,analysis and visualisation,https://systatsoftware.com/products/sigmastat/,,,"Katherine Langley,Naomi Davis"
-SPSS,statistics,pay,closed,graphical,analysis and visualisation,,,AMOS,"Michele Veldsman,Nga Nguyen,Amy Loughman,Emily Kothe,Sarah Jelbert,Jacquie Tran,Jason Lodge,Cindy Chew,Srujana Sahebjada,Catarina Kordsachia,Elham Shoorcheh,Katherine Drummond,Bonnie Alexander,Vince Polito,Mark Dean,Binh Ta,Joanna Tai,Lizzy Lowe,Johan Gustafson,Nilupa Udawata,Adrienne O'Neil,Erandathie Pathiraja,Munyar Nyadzayo,Peter Goodin,Victor Sojo,Andrew Watt"
-Stata,statistics,pay,closed,graphical,analysis and visualisation,http://www.stata.com/,,PanelWhiz,"Amy Loughman,Jacquie Tran,Srujana Sahebjada,David Marks,Joanna Tai,Adrienne O'Neil,Laura Conway"
-Access,databases,pay,closed,graphical,analysis,,,,"Jacquie Tran,Srujana Sahebjada"
-MySQL,databases,free,,command line,analysis,,,,"Alwyn Davidson,Sean Walsh"
-SQLite,databases,free,,command line,analysis,,,,Michael Bane
+SPSS,statistics,pay,closed,graphical,analysis and visualisation,,,AMOS,"Michele Veldsman,Nga Nguyen,Amy Loughman,Emily Kothe,Sarah Jelbert,Jacquie Tran,Jason Lodge,Cindy Chew,Srujana Sahebjada,Catarina Kordsachia,Elham Shoorcheh,Katherine Drummond,Bonnie Alexander,Vince Polito,Mark Dean,Binh Ta,Joanna Tai,Lizzy Lowe,Johan Gustafson,Nilupa Udawata,Adrienne O'Neil,Erandathie Pathiraja,Munyar Nyadzayo,Peter Goodin,Victor Sojo,Andrew Watt,Vejune Zemaityte,Liam Johnson,Sarah Beebe,Terri Jackson,Eloise Cameron,Maria Ambartsumova,Cassandra Wannan,Dai Barnett,Chenkai Ma"
+Stata,statistics,pay,closed,graphical,analysis and visualisation,http://www.stata.com/,,PanelWhiz,"Amy Loughman,Jacquie Tran,Srujana Sahebjada,David Marks,Joanna Tai,Adrienne O'Neil,Laura Conway,Terri Jackson,Eleanor Neal,Chenkai Ma"
+Access,databases,pay,closed,graphical,analysis,,,,"Jacquie Tran,Srujana Sahebjada,Jane Cawson"
 SciPy,statistics,free,open,command line,analysis,https://www.scipy.org/scipylib/index.html,Python,,"Thomas Coudrat,Peter Goodin"
 BoxPlotR,general,free,open,"website,command line",visualisation,http://shiny.chemgrid.org/boxplotr/,R,,
 D3.js,general,free,open,command line,visualisation,https://d3js.org/,Javascript,,Xavier Ho
-dplyr,general,free,open,command line,analysis,http://dplyr.tidyverse.org/,R,,"Michael Bane,Holly Sitters"
+dplyr,general,free,open,command line,analysis,http://dplyr.tidyverse.org/,R,,"Michael Bane,Holly Sitters,Elisabeth Vogel"
 Gephi,general,free,open,graphical,visualisation,https://gephi.org/,,,"Alwyn Davidson,Fabian Held"
-ggplot,general,free,open,command line,visualisation,http://ggplot2.tidyverse.org/reference/,R,,"Saras Windecker,Michael Bane,Holly Sitters"
+ggplot,general,free,open,command line,visualisation,http://ggplot2.tidyverse.org/reference/,R,,"Saras Windecker,Michael Bane,Holly Sitters,Campbell Pryor,Elisabeth Vogel,Erika Duan"
 Gnumetric,general,free,open,graphical,analysis and visualisation,http://www.gnumeric.org/,,,Raffaella Demichelis
 gnuplot,general,free,open,command line,visualisation,http://www.gnuplot.info/,Unix Shell,,Raffaella Demichelis
 Google Sheets,spreadsheets,free,closed,graphical,analysis and visualisation,,,,"Sarah Webber,Garth Tarr"
-GraphPad Prism,general,pay,closed,graphical,analysis and visualisation,https://www.graphpad.com/scientific-software/prism/,,,"Rita Busuttil,Sharon Pattison,Jacquie Tran,Angelina Duan,Cindy Chew,Srujana Sahebjada,Katherine Drummond,Sally Yunsun Kim,Gina Kusuma,Simon McKenzie,Kevin Lau,Simone Nuessing,Eric Kusnadi,Andrew Watt"
+GraphPad Prism,general,pay,closed,graphical,analysis and visualisation,https://www.graphpad.com/scientific-software/prism/,,,"Rita Busuttil,Sharon Pattison,Jacquie Tran,Angelina Duan,Cindy Chew,Srujana Sahebjada,Katherine Drummond,Sally Yunsun Kim,Gina Kusuma,Simon McKenzie,Kevin Lau,Simone Nuessing,Eric Kusnadi,Andrew Watt,Na Li,Sonja McKeown,Chenkai Ma"
 IDL,spatial data,pay,closed,command line,analysis and visualisation,http://www.harrisgeospatial.co.uk/ProductsServices/IDL.aspx,,,"Arna Karick,Camilla Vote"
 Igor Pro,general,pay,closed,"graphical,command line",analysis and visualisation,https://www.wavemetrics.com/index.html,,,Sally Yunsun Kim
 JMP,general,pay,closed,graphical,analysis and visualisation,https://www.jmp.com/en_us/software/data-analysis-software.html,,,"Lizzy Lowe,Bernie Wittwer"
 Mathematica,general,pay,,"graphical,command line",analysis and visualisation,https://www.wolfram.com/mathematica/,,morpho-tools.net,"Melanie Roberts,Varsha Pilbrow,Tom Kelly"
 matplotlib,general,free,open,command line,visualisation,https://matplotlib.org/,Python,,"Alex Norton,Peter Goodin"
-Excel,spreadsheets,pay,closed,graphical,analysis and visualisation,,,"@Risk,XLSTAT-Biomed","Kate Giljohann,Michael Strack,Marine Chkadua,Nga Nguyen,Amy Loughman,Sharon Pattison,Saras Windecker,Jane Younger,Janavi Rambhatla,Jacquie Tran,Amy Whitehead,Angelina Duan,Yu Sun,Alwyn Davidson,Jason Lodge,Elise Gould,Areej Alsheikh-Hussain,Rupan Preet Kaur,Melanie Roberts,Cindy Chew,Srujana Sahebjada,Sean Walsh,Scott Kolbe,David Marks,Katherine Drummond,Bonnie Alexander,Sarah Webber,Binh Ta,Joanna Tai,Alister Thorpe,Katherine Langley,Celeste Coltman,Md. Roysul Islam,Maria Carrillo-Rodriguez,David Norrish,Camilla Vote,Ruth MacKinnon,Scott Gleason,Simon McKenzie,Nilupa Udawata,Kevin Lau,Erandathie Pathiraja,Simone Nuessing,Holly Sitters,Victor Sojo,Andrew Watt"
+Excel,spreadsheets,pay,closed,graphical,analysis and visualisation,,,"@Risk,XLSTAT-Biomed","Kate Giljohann,Michael Strack,Marine Chkadua,Nga Nguyen,Amy Loughman,Sharon Pattison,Saras Windecker,Jane Younger,Janavi Rambhatla,Jacquie Tran,Amy Whitehead,Angelina Duan,Yu Sun,Alwyn Davidson,Jason Lodge,Elise Gould,Areej Alsheikh-Hussain,Rupan Preet Kaur,Melanie Roberts,Cindy Chew,Srujana Sahebjada,Sean Walsh,Scott Kolbe,David Marks,Katherine Drummond,Bonnie Alexander,Sarah Webber,Binh Ta,Joanna Tai,Alister Thorpe,Katherine Langley,Celeste Coltman,Md. Roysul Islam,Maria Carrillo-Rodriguez,David Norrish,Camilla Vote,Ruth MacKinnon,Scott Gleason,Simon McKenzie,Nilupa Udawata,Kevin Lau,Erandathie Pathiraja,Simone Nuessing,Holly Sitters,Victor Sojo,Andrew Watt,Na Li,Vejune Zemaityte,Liam Johnson,Sarah Beebe,Sonja McKeown,Terri Jackson,Eleanor Neal,Katie Crawford,Anna Lewis,Campbell Pryor,Eloise Cameron,Gede PW Rajeg,Susan Wilson,Jane Cawson"
 Minitab,spreadsheets,pay,closed,graphical,analysis and visualisation,http://www.minitab.com/en-us/,,,"Sarah Webber,Maria Carrillo-Rodriguez,Erandathie Pathiraja,Naomi Davis,Laura Conway"
-Visio,general,pay,closed,graphical,visualisation,,,,"Nga Nguyen,Guoping Hu,Nilupa Udawata,Munyar Nyadzayo"
+Visio,general,pay,closed,graphical,visualisation,,,,"Nga Nguyen,Guoping Hu,Nilupa Udawata,Munyar Nyadzayo,Shakila Khan Rumi"
 Origin,general,pay,closed,"graphical,command line",analysis and visualisation,http://www.originlab.com/Origin,,,Guoping Hu
 Plotly,general,free with advanced pay options,open,command line,visualisation,https://plot.ly/,"Javascript,Python,R,MATLAB",,Michael Bane
-Shiny,general,free,open,command line,visualisation,https://shiny.rstudio.com/,R,,"Michael Bane,Garth Tarr,Sonia Hugh"
+Shiny,general,free,open,command line,visualisation,https://shiny.rstudio.com/,R,,"Michael Bane,Garth Tarr,Sonia Hugh,Andy Krause,Shakila Khan Rumi"
 SigmaPlot,general,pay,closed,graphical,visualisation,https://systatsoftware.com/products/sigmaplot/,,,Johan Gustafson
 SM,general,pay,closed,command line,visualisation,http://www.astro.princeton.edu/~rhl/sm/,,,Arna Karick
 Tableau,general,pay,closed,graphical,visualisation,https://www.tableau.com/,,,Alwyn Davidson
 xarray,general,free,open,command line,analysis and visualisation,http://xarray.pydata.org/en/stable/,Python,,Damien Irving
+Navicat,databases,pay,closed,graphical,analysis,https://www.navicat.com/en/,"MySQL,SQLite",,Vejune Zemaityte
+SQL Maestro for MySQL,databases,pay,closed,graphical,analysis,https://www.sqlmaestro.com/products/mysql/maestro/,MySQL,,Vejune Zemaityte
