@@ -32,5 +32,7 @@ File management
 
 Research presentation 
 * Document editing
+* Document conversion
 * Graphics editing
 * Slides
+* Web hosting
