@@ -137,3 +137,38 @@ Susan Wilson,Melbourne 2016,masters,economics,applied economics,,"R,MATLAB",Exce
 Tiane Ryman,Melbourne 2016,masters,bioinformatics,biochemistry and cell biology,,"R,Python",,Cytoscape,"LaTeX,Word,Sublime"
 Tiffany Phillips,Melbourne 2016,phd,genetics,genetics,osx,,,itk-SNAP,"Keynote,PowerPoint,Word,Mendeley,Dropbox,Photoshop,GIMP,Aperture"
 Jane Cawson,Melbourne 2016,postdoc,bushfire behaviour,environmental science and management,,R,"Access,Google Earth,ArcGIS,Excel",,
+Brook Shiferaw,Melbourne 2016,phd,cognitive neuroscience,cognitive sciences,osx,"Python,R",,PsychoPy,"Spyder,Jupyter notebook,RStudio,Sublime,TextWrangler,GitHub,Git,Scrivener,LaTeX,Word,Mendeley,BibDesk,Google Drive,Dropbox,PowerPoint,Evernote,MacDown"
+Steve Petrie,Melbourne 2016,early-career,data scientist,applied economics,linux,"Python,MySQL","MySQL Workbench,NVIDIA DIGITS",,"LaTeX,Mendeley,PyCharm"
+Sam Samarawickrama,Melbourne 2016,phd,computer science,information systems,linux,"Javascript,Python,Unix Shell",,,"GitHub,Git,LaTeX,Open Office Impress Presentation,GEdit,TeXMaker,Mars Eclipse"
+Miyuki Watanabe,Melbourne 2016,masters,speech pathology,clinical sciences,,,"Excel,SPSS",,"Word,PowerPoint,Dropbox"
+Felip Marti,Melbourne 2016,phd,robotics engineer,mechanical engineering,linux,"C / C++,Unix Shell,MATLAB,Python,Make,Octave",,,"Vim,GitHub,Git,Bitbucket"
+Nathaniel Swain,Melbourne 2016,phd,speech pathology,clinical sciences,,,"Excel,SPSS",,"Word,OneNote,Mendeley"
+T'Mir Julius,Melbourne 2016,mid-career,data scientist,applied economics,,"Python,MySQL",,,PyCharm
+Lucas Dent,Melbourne 2016,phd,cell biology,biochemistry and cell biology,,"HTML,CSS,Python",Excel,ImageJ,"Atom,Illustrator,Photoshop"
+Bonnie Wintle,Melbourne 2016,postdoc,environmental science,environmental science and management,,R,"ArcGIS,Netica",,"EndNote,Illustrator,Rationale"
+Tony Carden,Melbourne 2016,masters,human factors and sociotechnical systems,policy and administration,,,"NVivo,Leximancer",,"GIMP,Google Drawings"
+Sasha Poquet,Melbourne 2016,phd,learning analytics,specialist studies in education,,R,"Excel,Gephi","Pajek,Statnet,igraph","RStudio,Mendeley,Zotero"
+Promit Kumar Roy,Melbourne 2016,masters,electrical engineering,electrical and electronic engineering,,MATLAB,Excel,,"Word,PowerPoint"
+Michael Niemann,Melbourne 2016,postdoc,computational linguistics,linguistics,linux,"Perl,Python,C / C++,Unix Shell,SQL,HTML,Javascript",Tableau,,"Subversion,PowerPoint,LaTeX,Emacs,Jabref,Xfig"
+Xin Li,Melbourne 2016,phd,software engineering,computer software,,R,ggplot,"igraph,Statnet,tm",
+Ned Letcher,Melbourne 2016,phd,computational linguistics,linguistics,linux,"Python,C / C++,Unix Shell,Javascript,HTML,CSS","jQuery,Plotly,matplotlib","NLTK,spaCy","LaTeX,Bibtex,Beamer,Emacs,Subversion,Git,Jupyter notebook,Brat"
+Errol Llyod,Melbourne 2016,phd,visual neuroscience,neurosciences,,"HTML,CSS,Javascript,Python",D3.js,,"LaTeX,Sublime"
+Isabel Zbukvic,Melbourne 2016,phd,behavioural neuroscience,neurosciences,,,"GraphPad Prism,SPSS,Excel",ImageJ,"Word,PowerPoint,Papers,Canva"
+Markus Low,Melbourne 2016,mid-career,crop science,crop and pasture production,linux,"R,Unix Shell",,,"ownCloud,Nectar Research Cloud"
+Shampa Shahriyar,Melbourne 2016,phd,information technology,computer software,"windows,osx","MATLAB,C / C++,R",Visio,,"Notepad++,Dropbox,GitHub,Git,TeXWorks,LaTeX,WinEdt,PowerPoint,Beamer,Visual Studio"
+Marion Shadbolt,Melbourne 2016,masters,bioinformatics,biochemistry and cell biology,,"R,Python,Unix Shell,MySQL",,"VCFtools,Bowtie,Stacks",LiClipse
+Thanh-Binh Nguyen,Melbourne 2016,phd,computer science,information systems,"windows,linux",MATLAB,Gephi,,"Visual Studio,LyX,LaTeX,Dropbox"
+Giulia Savorgnan,Melbourne 2016,phd,astrophysics,astronomical and space sciences,,"SQLite,Python",,"IRAF,TOPCAT","Nedit,Jupyter notebook,LaTeX,PowerPoint,Beamer"
+Hugo Oliveira,Melbourne 2016,phd,oceanography,oceanography,linux,"Python,Fortran,Unix Shell",NCO,,"Vim,LaTeX,Git,Bitbucket,Asana,Mendeley,Dropbox,ZFS"
+Elodie Thilliez,Melbourne 2016,phd,astrophysics,astronomical and space sciences,,"Fortran,C / C++,R","IDL,Excel,gnuplot",SAOImage DS9,"LaTeX,Word,PowerPoint,Keynote"
+Dulini Mendis,Melbourne 2016,phd,computational neuroscience,neurosciences,,"MATLAB,HTML,CSS,Javascript","GraphPad Prism,jQuery,Weka",,"Photoshop,Illustrator,Word,LaTeX,PowerPoint,Notepad++,Visual Studio,OneNote,EndNote,Google Drive,Dropbox,Google Docs"
+Themiya Nanayakkara,Melbourne 2016,phd,astrophysics,astronomical and space sciences,osx,Python,"matplotlib,pandas,numpy",astropy,"Word,LaTeX,Sublime,TextWrangler,PowerPoint,Jupyter notebook"
+Andre Stephan,Melbourne 2016,postdoc,building life cycle assessment,building,,Python,"Excel,numpy",,"PyCharm,Notepad++,Illustrator,Photoshop"
+Enid Lam,Melbourne 2016,postdoc,peter mac,genetics,,"R,Python",,"Samtools,IGV,bedtools,BEDOPS,MEME,MACS",Sublime
+Caitlin Pfeiffer,Melbourne 2016,phd,vetinary science,veterinary sciences,,R,"Stata,NVivo,QGIS,Excel","Pajek,UCINET","REDCap,Word,EndNote,Dropbox"
+Chih Chan,Melbourne 2016,postdoc,cancer epigenetics,genetics,osx,"Unix Shell,R",,,"Sublime,RStudio"
+Shian Su,Melbourne 2016,masters,statistics,statistics,,"R,Unix Shell,Python,MATLAB,C / C++,HTML,Javascript,CSS",,,
+Jingyi Tang,Melbourne 2016,phd,malaria epigenetics,genetics,"linux,osx","R,Unix Shell",,"IGV,bedtools,MEME,TopHat,Cufflinks,Subread",
+Dane Vassiliadis,Melbourne 2016,phd,biosciences,biochemistry and cell biology,"windows,linux","Python,R","pandas,numpy","Bowtie,Samtools,TopHat,Bioconductor,biopypthon","PyCharm,RStudio,MS SyncToy,OneNote,Evernote,PowerPoint,Dropbox,EndNote,Mendeley,Word,Scrivener,Atom,Sublime,Pocket"
+Suk Yee Yong,Melbourne 2016,phd,astrophysics,astronomical and space sciences,,Python,,,"Sublime,LaTeX,BibDesk,Beamer"
+Isra Sarfraz,Melbourne 2016,phd,human resource management,business and management,,,"SPSS,NVivo,Excel",,"Survey Monkey,Word,EndNote"

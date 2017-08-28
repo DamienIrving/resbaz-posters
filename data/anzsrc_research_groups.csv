@@ -2,10 +2,10 @@
 pure mathematics,mathematical sciences,
 applied mathematics,mathematical sciences,"Melanie Roberts,Andrea Bedini"
 numerical and computational mathematics,mathematical sciences,
-statistics,mathematical sciences,"Fabian Held,Garth Tarr"
+statistics,mathematical sciences,"Fabian Held,Garth Tarr,Shian Su"
 mathematical physics,mathematical sciences,
 other mathematical sciences,mathematical sciences,
-astronomical and space sciences,physical sciences,"Ruth Pearson,Arna Karick"
+astronomical and space sciences,physical sciences,"Ruth Pearson,Arna Karick,Giulia Savorgnan,Elodie Thilliez,Themiya Nanayakkara,Suk Yee Yong"
 "atomic, molecular, nuclear, particle and plasma physics",physical sciences,
 classical physics,physical sciences,
 condensed matter physics,physical sciences,
@@ -24,17 +24,17 @@ atmospheric sciences,earth sciences,"Daniel Pazmino,Damien Irving,Mitchell Black
 geochemistry,earth sciences,
 geology,earth sciences,
 geophysics,earth sciences,
-oceanography,earth sciences,
+oceanography,earth sciences,Hugo Oliveira
 physical geography and environmental geoscience,earth sciences,
 other earth sciences,earth sciences,
 ecological applications,environmental sciences,
-environmental science and management,environmental sciences,"Nga Nguyen,Sean Walsh,Camilla Vote,Sonia Hugh,Jane Cawson"
+environmental science and management,environmental sciences,"Nga Nguyen,Sean Walsh,Camilla Vote,Sonia Hugh,Jane Cawson,Bonnie Wintle"
 soil sciences,environmental sciences,
 other environmental sciences,environmental sciences,
-biochemistry and cell biology,biological sciences,"Maria Doyle,Gina Kusuma,Eric Kusnadi,Kirill Tsyganov,Luke Zappia,Tiane Ryman"
+biochemistry and cell biology,biological sciences,"Maria Doyle,Gina Kusuma,Eric Kusnadi,Kirill Tsyganov,Luke Zappia,Tiane Ryman,Lucas Dent,Marion Shadbolt,Dane Vassiliadis"
 ecology,biological sciences,"Kate Giljohann,Michael Strack,Saras Windecker,Jane Younger,Rosanna van Hespen,Amy Whitehead,Elise Gould,Finley Roberts,Lizzy Lowe,Naomi Davis,Holly Sitters,Emily Johnston Flies"
 evolutionary biology,biological sciences,"Vicki Thomson,Bernie Wittwer"
-genetics,biological sciences,"Sharon Pattison,Areej Alsheikh-Hussain,Michael Kuiper,David Norrish,Ruth MacKinnon,Tom Kelly,Kevin Lau,Na Li,Katie Crawford,Chenkai Ma,Tiffany Phillips"
+genetics,biological sciences,"Sharon Pattison,Areej Alsheikh-Hussain,Michael Kuiper,David Norrish,Ruth MacKinnon,Tom Kelly,Kevin Lau,Na Li,Katie Crawford,Chenkai Ma,Tiffany Phillips,Enid Lam,Chih Chan,Jingyi Tang"
 microbiology,biological sciences,
 physiology,biological sciences,Liam Johnson
 plant biology,biological sciences,
@@ -42,18 +42,18 @@ zoology,biological sciences,"Bryant Gagliardi,Matthew Malishev,Johan Gustafson,V
 other biological sciences,biological sciences,
 "agriculture, land and farm management",agricultural and veterinary sciences,Erandathie Pathiraja
 animal production,agricultural and veterinary sciences,
-crop and pasture production,agricultural and veterinary sciences,
+crop and pasture production,agricultural and veterinary sciences,Markus Low
 fisheries sciences,agricultural and veterinary sciences,
 forestry sciences,agricultural and veterinary sciences,
 horticultural production,agricultural and veterinary sciences,
-veterinary sciences,agricultural and veterinary sciences,
+veterinary sciences,agricultural and veterinary sciences,Caitlin Pfeiffer
 other agricultural and veterinary sciences,agricultural and veterinary sciences,
 artificial intelligence and image processing,information and computing sciences,
 computation theory and mathematics,information and computing sciences,
-computer software,information and computing sciences,Richard Hosking
+computer software,information and computing sciences,"Richard Hosking,Xin Li,Shampa Shahriyar"
 data format,information and computing sciences,
 distributed computing,information and computing sciences,
-information systems,information and computing sciences,
+information systems,information and computing sciences,"Sam Samarawickrama,Thanh-Binh Nguyen"
 library and information studies,information and computing sciences,
 other information and computing sciences,information and computing sciences,"Xavier Ho,Sarah Webber,Cameron McLean"
 aerospace engineering,engineering,
@@ -61,14 +61,14 @@ automotive engineering,engineering,
 biomedical engineering,engineering,Isabell Kiral-Kornek
 chemical engineering,engineering,Guoping Hu
 civil engineering,engineering,
-electrical and electronic engineering,engineering,Rupan Preet Kaur
+electrical and electronic engineering,engineering,"Rupan Preet Kaur,Promit Kumar Roy"
 environmental engineering,engineering,
 food sciences,engineering,Maria Carrillo-Rodriguez
 geomatic engineering,engineering,
 manufacturing engineering,engineering,
 maritime engineering,engineering,
 materials engineering,engineering,"Paul Mignone,Ravi Bessabava,Raffaella Demichelis,Scott Gleason"
-mechanical engineering,engineering,
+mechanical engineering,engineering,Felip Marti
 resources engineering and extractive metallurgy,engineering,
 interdisciplinary engineering,engineering,
 other engineering,engineering,
@@ -82,13 +82,13 @@ nanotechnology,technology,
 other technology,technology,
 medical biochemistry and metabolomics,medical and health sciences,
 cardiorespiratory medicine and haematology,medical and health sciences,
-clinical sciences,medical and health sciences,Laura Conway
+clinical sciences,medical and health sciences,"Laura Conway,Miyuki Watanabe,Nathaniel Swain"
 complementary and alternative medicine,medical and health sciences,
 denistry,medical and health sciences,
 human movement and sports science,medical and health sciences,"Jacquie Tran,Wenx Hansen,Celeste Coltman,Michael Bane"
 immunology,medical and health sciences,"Jo Keeble,Simone Nuessing,Erika Duan"
 medical microbiology,medical and health sciences,Janavi Rambhatla
-neurosciences,medical and health sciences,"Michele Veldsman,Scott Kolbe,Katherine Drummond,Bonnie Alexander,Alistair Walsh,Simon McKenzie,Peter Goodin,Andrew Watt,Sonja McKeown,Eloise Cameron,Cassandra Wannan"
+neurosciences,medical and health sciences,"Michele Veldsman,Scott Kolbe,Katherine Drummond,Bonnie Alexander,Alistair Walsh,Simon McKenzie,Peter Goodin,Andrew Watt,Sonja McKeown,Eloise Cameron,Cassandra Wannan,Errol Llyod,Isabel Zbukvic,Dulini Mendis"
 nursing,medical and health sciences,
 nutrition and dietetics,medical and health sciences,
 oncology and carcinogenesis,medical and health sciences,"Rita Busuttil,Maria Doyle,Yu Sun,Eric Kusnadi"
@@ -99,22 +99,22 @@ medical physiology,medical and health sciences,
 public health and health services,medical and health sciences,"Kathy Radoslovich,Alister Thorpe,Adrienne O'Neil,Terri Jackson,Eleanor Neal,Dai Barnett"
 other medical and health sciences,medical and health sciences,
 architecture,built environment and design,"Alysia Bennett,Sarah Hunter"
-building,built environment and design,
+building,built environment and design,Andre Stephan
 design practice and management,built environment and design,
 engineering design,built environment and design,
 urban and regional planning,built environment and design,
 other built environment and design,built environment and design,
 education systems,education,
 curriculum and pedagogy,education,Joanna Tai
-specialist studies in education,education,
+specialist studies in education,education,Sasha Poquet
 other education,education,Binh Ta
 economic theory,economics,David Marks
-applied economics,economics,"Andy Krause,Susan Wilson"
+applied economics,economics,"Andy Krause,Susan Wilson,Steve Petrie,T'Mir Julius"
 econometrics,economics,
 other economics,economics,
 "accounting, auditing and accountability","commerce, management, tourism and services",
 "banking, finance and investment","commerce, management, tourism and services",
-business and management,"commerce, management, tourism and services",Nilupa Udawata
+business and management,"commerce, management, tourism and services","Nilupa Udawata,Isra Sarfraz"
 commercial services,"commerce, management, tourism and services",
 marketing,"commerce, management, tourism and services","Munyar Nyadzayo,Maria Ambartsumova"
 tourism,"commerce, management, tourism and services",
@@ -124,13 +124,13 @@ anthropology,studies in human society,Marine Chkadua
 criminology,studies in human society,Shakila Khan Rumi
 demography,studies in human society,
 human geography,studies in human society,Alwyn Davidson
-policy and administration,studies in human society,Mark Dean
+policy and administration,studies in human society,"Mark Dean,Tony Carden"
 political science,studies in human society,Yolande McNicoll
 social work,studies in human society,
 sociology,studies in human society,Cuong Hoang
 other studies in human society,studies in human society,
 psychology,psychology and cognitive sciences,"Amy Loughman,Emily Kothe,Sarah Jelbert,Jason Lodge,Cindy Chew,Catarina Kordsachia,Elham Shoorcheh,Sally Richmond,Victor Sojo,Campbell Pryor"
-cognitive sciences,psychology and cognitive sciences,Vince Polito
+cognitive sciences,psychology and cognitive sciences,"Vince Polito,Brook Shiferaw"
 other psychology and cognitive sciences,psychology and cognitive sciences,
 law,law and legal studies,
 other law and legal studies,law and legal studies,
@@ -143,7 +143,7 @@ other studies in creative arts and writing,studies in creative arts and writing,
 communication and media studies,"language, communication and culture","Kim Doyle,Andrea Rassell"
 cultural studies,"language, communication and culture",
 language studies,"language, communication and culture",
-linguistics,"language, communication and culture","Rosey Billington,Gede PW Rajeg"
+linguistics,"language, communication and culture","Rosey Billington,Gede PW Rajeg,Michael Niemann,Ned Letcher"
 literary studies,"language, communication and culture",
 "other language, communication and culture","language, communication and culture",
 archaeology,history and archaeology,Annelies Van de Ven

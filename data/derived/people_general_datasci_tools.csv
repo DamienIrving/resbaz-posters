@@ -238,3 +238,49 @@ Access,Jane Cawson,environmental sciences,environmental science and management,d
 Google Earth,Jane Cawson,environmental sciences,environmental science and management,spatial data,free,closed,graphical,visualisation
 ArcGIS,Jane Cawson,environmental sciences,environmental science and management,spatial data,pay,closed,graphical,visualisation
 Excel,Jane Cawson,environmental sciences,environmental science and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+MySQL Workbench,Steve Petrie,economics,applied economics,databases,free,open,graphical,analysis
+NVIDIA DIGITS,Steve Petrie,economics,applied economics,machine learning,free,closed,graphical,analysis
+Excel,Miyuki Watanabe,medical and health sciences,clinical sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Miyuki Watanabe,medical and health sciences,clinical sciences,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Nathaniel Swain,medical and health sciences,clinical sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+SPSS,Nathaniel Swain,medical and health sciences,clinical sciences,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Lucas Dent,biological sciences,biochemistry and cell biology,spreadsheets,pay,closed,graphical,analysis and visualisation
+ArcGIS,Bonnie Wintle,environmental sciences,environmental science and management,spatial data,pay,closed,graphical,visualisation
+Netica,Bonnie Wintle,environmental sciences,environmental science and management,statistical modelling,free,closed,graphical,analysis and visualisation
+NVivo,Tony Carden,studies in human society,policy and administration,qualitative data,pay,closed,graphical,analysis and visualisation
+Leximancer,Tony Carden,studies in human society,policy and administration,qualitative data,pay,closed,graphical,analysis and visualisation
+Excel,Sasha Poquet,education,specialist studies in education,spreadsheets,pay,closed,graphical,analysis and visualisation
+Gephi,Sasha Poquet,education,specialist studies in education,general,free,open,graphical,visualisation
+Excel,Promit Kumar Roy,engineering,electrical and electronic engineering,spreadsheets,pay,closed,graphical,analysis and visualisation
+Tableau,Michael Niemann,"language, communication and culture",linguistics,general,pay,closed,graphical,visualisation
+ggplot,Xin Li,information and computing sciences,computer software,general,free,open,command line,visualisation
+jQuery,Ned Letcher,"language, communication and culture",linguistics,web,free,open,command line,visualisation
+Plotly,Ned Letcher,"language, communication and culture",linguistics,general,free with advanced pay options,open,command line,visualisation
+matplotlib,Ned Letcher,"language, communication and culture",linguistics,general,free,open,command line,visualisation
+D3.js,Errol Llyod,medical and health sciences,neurosciences,general,free,open,command line,visualisation
+GraphPad Prism,Isabel Zbukvic,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
+SPSS,Isabel Zbukvic,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
+Excel,Isabel Zbukvic,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Visio,Shampa Shahriyar,information and computing sciences,computer software,general,pay,closed,graphical,visualisation
+Gephi,Thanh-Binh Nguyen,information and computing sciences,information systems,general,free,open,graphical,visualisation
+NCO,Hugo Oliveira,earth sciences,oceanography,file manipulation,free,closed,command line,analysis
+IDL,Elodie Thilliez,physical sciences,astronomical and space sciences,spatial data,pay,closed,command line,analysis and visualisation
+Excel,Elodie Thilliez,physical sciences,astronomical and space sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+gnuplot,Elodie Thilliez,physical sciences,astronomical and space sciences,general,free,open,command line,visualisation
+GraphPad Prism,Dulini Mendis,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
+jQuery,Dulini Mendis,medical and health sciences,neurosciences,web,free,open,command line,visualisation
+Weka,Dulini Mendis,medical and health sciences,neurosciences,machine learning,free,open,command line,analysis
+matplotlib,Themiya Nanayakkara,physical sciences,astronomical and space sciences,general,free,open,command line,visualisation
+pandas,Themiya Nanayakkara,physical sciences,astronomical and space sciences,spreadsheets,free,open,command line,analysis and visualisation
+numpy,Themiya Nanayakkara,physical sciences,astronomical and space sciences,general,free,open,command line,analysis
+Excel,Andre Stephan,built environment and design,building,spreadsheets,pay,closed,graphical,analysis and visualisation
+numpy,Andre Stephan,built environment and design,building,general,free,open,command line,analysis
+Stata,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,statistics,pay,closed,graphical,analysis and visualisation
+NVivo,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,qualitative data,pay,closed,graphical,analysis and visualisation
+QGIS,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,spatial data,free,open,graphical,visualisation
+Excel,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+pandas,Dane Vassiliadis,biological sciences,biochemistry and cell biology,spreadsheets,free,open,command line,analysis and visualisation
+numpy,Dane Vassiliadis,biological sciences,biochemistry and cell biology,general,free,open,command line,analysis
+SPSS,Isra Sarfraz,"commerce, management, tourism and services",business and management,statistics,pay,closed,graphical,analysis and visualisation
+NVivo,Isra Sarfraz,"commerce, management, tourism and services",business and management,qualitative data,pay,closed,graphical,analysis and visualisation
+Excel,Isra Sarfraz,"commerce, management, tourism and services",business and management,spreadsheets,pay,closed,graphical,analysis and visualisation

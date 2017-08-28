@@ -136,3 +136,40 @@ ImageJ,Chenkai Ma,biological sciences,genetics,medical image processing,free,ope
 EViews,Susan Wilson,economics,applied economics,economics,pay,closed,graphical,analysis and visualisation,http://www.eviews.com
 Cytoscape,Tiane Ryman,biological sciences,biochemistry and cell biology,genomics,free,open,graphical,visualisation,http://www.cytoscape.org/
 itk-SNAP,Tiffany Phillips,biological sciences,genetics,medical image processing,free,closed,graphical,analysis and visualisation,http://www.itksnap.org/pmwiki/pmwiki.php
+PsychoPy,Brook Shiferaw,psychology and cognitive sciences,cognitive sciences,psychology,free,open,command line,analysis and visualisation,http://www.psychopy.org/
+ImageJ,Lucas Dent,biological sciences,biochemistry and cell biology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+Pajek,Sasha Poquet,education,specialist studies in education,network analysis,free,closed,graphical,analysis and visualisation,http://mrvar.fdv.uni-lj.si/pajek/
+Statnet,Sasha Poquet,education,specialist studies in education,network analysis,free,open,graphical and command line,analysis and visualisation,http://www.statnet.org/
+igraph,Sasha Poquet,education,specialist studies in education,network analysis,free,open,graphical and command line,analysis and visualisation,http://igraph.org/redirect.html
+igraph,Xin Li,information and computing sciences,computer software,network analysis,free,open,graphical and command line,analysis and visualisation,http://igraph.org/redirect.html
+Statnet,Xin Li,information and computing sciences,computer software,network analysis,free,open,graphical and command line,analysis and visualisation,http://www.statnet.org/
+tm,Xin Li,information and computing sciences,computer software,text mining,free,open,command line,analysis,https://cran.r-project.org/web/packages/tm/
+NLTK,Ned Letcher,"language, communication and culture",linguistics,computational linguistics,free,open,command line,analysis and visualisation,http://www.nltk.org/
+spaCy,Ned Letcher,"language, communication and culture",linguistics,computational linguistics,free,open,command line,analysis and visualisation,https://spacy.io/
+ImageJ,Isabel Zbukvic,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
+VCFtools,Marion Shadbolt,biological sciences,biochemistry and cell biology,genomics,free,open,command line,analysis,https://vcftools.github.io/
+Bowtie,Marion Shadbolt,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis,http://bowtie-bio.sourceforge.net/index.shtml
+Stacks,Marion Shadbolt,biological sciences,biochemistry and cell biology,genomics,free,closed,command line,analysis and visualisation,http://catchenlab.life.illinois.edu/stacks/
+IRAF,Giulia Savorgnan,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation,http://iraf.noao.edu/
+TOPCAT,Giulia Savorgnan,physical sciences,astronomical and space sciences,astronomy,free,open,graphical,analysis,http://www.star.bris.ac.uk/~mbt/topcat/
+SAOImage DS9,Elodie Thilliez,physical sciences,astronomical and space sciences,astronomy,free,closed,graphical,visualisation,http://ds9.si.edu/site/Home.html
+astropy,Themiya Nanayakkara,physical sciences,astronomical and space sciences,astronomy,free,open,command line,analysis,http://www.astropy.org/
+Samtools,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis,http://www.htslib.org/
+IGV,Enid Lam,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
+bedtools,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation,http://bedtools.readthedocs.io/en/latest/
+BEDOPS,Enid Lam,biological sciences,genetics,biological image processing,free,open,command line,analysis and visualisation,https://bedops.readthedocs.io/en/latest/
+MEME,Enid Lam,biological sciences,genetics,genomics,free,closed,command line,analysis and visualisation,http://meme-suite.org/doc/overview.html
+MACS,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation,http://liulab.dfci.harvard.edu/MACS/
+Pajek,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,network analysis,free,closed,graphical,analysis and visualisation,http://mrvar.fdv.uni-lj.si/pajek/
+UCINET,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,social network analysis,pay,closed,graphical,analysis and visualisation,https://sites.google.com/site/ucinetsoftware/home
+IGV,Jingyi Tang,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
+bedtools,Jingyi Tang,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation,http://bedtools.readthedocs.io/en/latest/
+MEME,Jingyi Tang,biological sciences,genetics,genomics,free,closed,command line,analysis and visualisation,http://meme-suite.org/doc/overview.html
+TopHat,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis,https://ccb.jhu.edu/software/tophat/index.shtml
+Cufflinks,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis,http://cole-trapnell-lab.github.io/cufflinks/
+Subread,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis,http://subread.sourceforge.net/
+Bowtie,Dane Vassiliadis,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis,http://bowtie-bio.sourceforge.net/index.shtml
+Samtools,Dane Vassiliadis,biological sciences,biochemistry and cell biology,genomics,free,open,command line,analysis,http://www.htslib.org/
+TopHat,Dane Vassiliadis,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis,https://ccb.jhu.edu/software/tophat/index.shtml
+Bioconductor,Dane Vassiliadis,biological sciences,biochemistry and cell biology,bioinformatics,free,open,command line,analysis and visualisation,https://www.bioconductor.org/
+biopypthon,Dane Vassiliadis,biological sciences,biochemistry and cell biology,bioinformatics,free,open,command line,analysis and visualisation,http://biopython.org/

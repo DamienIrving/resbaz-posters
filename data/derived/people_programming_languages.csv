@@ -155,3 +155,84 @@ Susan Wilson,MATLAB,economics,applied economics,pay,closed,graphical and command
 Tiane Ryman,R,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
 Tiane Ryman,Python,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
 Jane Cawson,R,environmental sciences,environmental science and management,free,open,command line,analysis and visualisation
+Brook Shiferaw,Python,psychology and cognitive sciences,cognitive sciences,free,open,command line,analysis and visualisation
+Brook Shiferaw,R,psychology and cognitive sciences,cognitive sciences,free,open,command line,analysis and visualisation
+Steve Petrie,Python,economics,applied economics,free,open,command line,analysis and visualisation
+Steve Petrie,MySQL,economics,applied economics,free,open,command line,database
+Sam Samarawickrama,Javascript,information and computing sciences,information systems,free,,command line,visualisation
+Sam Samarawickrama,Python,information and computing sciences,information systems,free,open,command line,analysis and visualisation
+Sam Samarawickrama,Unix Shell,information and computing sciences,information systems,free,,command line,workflow coordination
+Felip Marti,C / C++,engineering,mechanical engineering,free,,command line,analysis
+Felip Marti,Unix Shell,engineering,mechanical engineering,free,,command line,workflow coordination
+Felip Marti,MATLAB,engineering,mechanical engineering,pay,closed,graphical and command line,analysis and visualisation
+Felip Marti,Python,engineering,mechanical engineering,free,open,command line,analysis and visualisation
+Felip Marti,Make,engineering,mechanical engineering,free,,command line,workflow coordination
+Felip Marti,Octave,engineering,mechanical engineering,free,open,graphical and command line,analysis and visualisation
+T'Mir Julius,Python,economics,applied economics,free,open,command line,analysis and visualisation
+T'Mir Julius,MySQL,economics,applied economics,free,open,command line,database
+Lucas Dent,HTML,biological sciences,biochemistry and cell biology,free,,command line,visualisation
+Lucas Dent,CSS,biological sciences,biochemistry and cell biology,free,open,command line,visualisation
+Lucas Dent,Python,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Bonnie Wintle,R,environmental sciences,environmental science and management,free,open,command line,analysis and visualisation
+Sasha Poquet,R,education,specialist studies in education,free,open,command line,analysis and visualisation
+Promit Kumar Roy,MATLAB,engineering,electrical and electronic engineering,pay,closed,graphical and command line,analysis and visualisation
+Michael Niemann,Perl,"language, communication and culture",linguistics,free,,command line,analysis and visualisation
+Michael Niemann,Python,"language, communication and culture",linguistics,free,open,command line,analysis and visualisation
+Michael Niemann,C / C++,"language, communication and culture",linguistics,free,,command line,analysis
+Michael Niemann,Unix Shell,"language, communication and culture",linguistics,free,,command line,workflow coordination
+Michael Niemann,SQL,"language, communication and culture",linguistics,free,open,command line,database
+Michael Niemann,HTML,"language, communication and culture",linguistics,free,,command line,visualisation
+Michael Niemann,Javascript,"language, communication and culture",linguistics,free,,command line,visualisation
+Xin Li,R,information and computing sciences,computer software,free,open,command line,analysis and visualisation
+Ned Letcher,Python,"language, communication and culture",linguistics,free,open,command line,analysis and visualisation
+Ned Letcher,C / C++,"language, communication and culture",linguistics,free,,command line,analysis
+Ned Letcher,Unix Shell,"language, communication and culture",linguistics,free,,command line,workflow coordination
+Ned Letcher,Javascript,"language, communication and culture",linguistics,free,,command line,visualisation
+Ned Letcher,HTML,"language, communication and culture",linguistics,free,,command line,visualisation
+Ned Letcher,CSS,"language, communication and culture",linguistics,free,open,command line,visualisation
+Errol Llyod,HTML,medical and health sciences,neurosciences,free,,command line,visualisation
+Errol Llyod,CSS,medical and health sciences,neurosciences,free,open,command line,visualisation
+Errol Llyod,Javascript,medical and health sciences,neurosciences,free,,command line,visualisation
+Errol Llyod,Python,medical and health sciences,neurosciences,free,open,command line,analysis and visualisation
+Markus Low,R,agricultural and veterinary sciences,crop and pasture production,free,open,command line,analysis and visualisation
+Markus Low,Unix Shell,agricultural and veterinary sciences,crop and pasture production,free,,command line,workflow coordination
+Shampa Shahriyar,MATLAB,information and computing sciences,computer software,pay,closed,graphical and command line,analysis and visualisation
+Shampa Shahriyar,C / C++,information and computing sciences,computer software,free,,command line,analysis
+Shampa Shahriyar,R,information and computing sciences,computer software,free,open,command line,analysis and visualisation
+Marion Shadbolt,R,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Marion Shadbolt,Python,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Marion Shadbolt,Unix Shell,biological sciences,biochemistry and cell biology,free,,command line,workflow coordination
+Marion Shadbolt,MySQL,biological sciences,biochemistry and cell biology,free,open,command line,database
+Thanh-Binh Nguyen,MATLAB,information and computing sciences,information systems,pay,closed,graphical and command line,analysis and visualisation
+Giulia Savorgnan,SQLite,physical sciences,astronomical and space sciences,free,open,command line,database
+Giulia Savorgnan,Python,physical sciences,astronomical and space sciences,free,open,command line,analysis and visualisation
+Hugo Oliveira,Python,earth sciences,oceanography,free,open,command line,analysis and visualisation
+Hugo Oliveira,Fortran,earth sciences,oceanography,free,,command line,analysis
+Hugo Oliveira,Unix Shell,earth sciences,oceanography,free,,command line,workflow coordination
+Elodie Thilliez,Fortran,physical sciences,astronomical and space sciences,free,,command line,analysis
+Elodie Thilliez,C / C++,physical sciences,astronomical and space sciences,free,,command line,analysis
+Elodie Thilliez,R,physical sciences,astronomical and space sciences,free,open,command line,analysis and visualisation
+Dulini Mendis,MATLAB,medical and health sciences,neurosciences,pay,closed,graphical and command line,analysis and visualisation
+Dulini Mendis,HTML,medical and health sciences,neurosciences,free,,command line,visualisation
+Dulini Mendis,CSS,medical and health sciences,neurosciences,free,open,command line,visualisation
+Dulini Mendis,Javascript,medical and health sciences,neurosciences,free,,command line,visualisation
+Themiya Nanayakkara,Python,physical sciences,astronomical and space sciences,free,open,command line,analysis and visualisation
+Andre Stephan,Python,built environment and design,building,free,open,command line,analysis and visualisation
+Enid Lam,R,biological sciences,genetics,free,open,command line,analysis and visualisation
+Enid Lam,Python,biological sciences,genetics,free,open,command line,analysis and visualisation
+Caitlin Pfeiffer,R,agricultural and veterinary sciences,veterinary sciences,free,open,command line,analysis and visualisation
+Chih Chan,Unix Shell,biological sciences,genetics,free,,command line,workflow coordination
+Chih Chan,R,biological sciences,genetics,free,open,command line,analysis and visualisation
+Shian Su,R,mathematical sciences,statistics,free,open,command line,analysis and visualisation
+Shian Su,Unix Shell,mathematical sciences,statistics,free,,command line,workflow coordination
+Shian Su,Python,mathematical sciences,statistics,free,open,command line,analysis and visualisation
+Shian Su,MATLAB,mathematical sciences,statistics,pay,closed,graphical and command line,analysis and visualisation
+Shian Su,C / C++,mathematical sciences,statistics,free,,command line,analysis
+Shian Su,HTML,mathematical sciences,statistics,free,,command line,visualisation
+Shian Su,Javascript,mathematical sciences,statistics,free,,command line,visualisation
+Shian Su,CSS,mathematical sciences,statistics,free,open,command line,visualisation
+Jingyi Tang,R,biological sciences,genetics,free,open,command line,analysis and visualisation
+Jingyi Tang,Unix Shell,biological sciences,genetics,free,,command line,workflow coordination
+Dane Vassiliadis,Python,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Dane Vassiliadis,R,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Suk Yee Yong,Python,physical sciences,astronomical and space sciences,free,open,command line,analysis and visualisation
