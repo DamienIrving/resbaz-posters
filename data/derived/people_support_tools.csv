@@ -6,7 +6,7 @@ Kate Giljohann,biological sciences,ecology,RStudio,code development,interactive 
 Kate Giljohann,biological sciences,ecology,Word,research presentation,document editing,
 Kate Giljohann,biological sciences,ecology,Dropbox,file management,storage/sharing,
 Kate Giljohann,biological sciences,ecology,PowerPoint,research presentation,slides,
-Kate Giljohann,biological sciences,ecology,Scribus,research presentation,,
+Kate Giljohann,biological sciences,ecology,Scribus,research presentation,document editing,
 Kate Giljohann,biological sciences,ecology,Mendeley,information management,reference management,
 Kate Giljohann,biological sciences,ecology,Papers,information management,reference management,
 Kate Giljohann,biological sciences,ecology,Inkscape,research presentation,graphics editing,editing software
@@ -82,7 +82,7 @@ Saras Windecker,biological sciences,ecology,Mendeley,information management,refe
 Saras Windecker,biological sciences,ecology,Evernote,information management,note taking,
 Daniel Pazmino,earth sciences,atmospheric sciences,Word,research presentation,document editing,
 Daniel Pazmino,earth sciences,atmospheric sciences,LyX,research presentation,document editing,latex editor
-Daniel Pazmino,earth sciences,atmospheric sciences,Scribus,research presentation,,
+Daniel Pazmino,earth sciences,atmospheric sciences,Scribus,research presentation,document editing,
 Daniel Pazmino,earth sciences,atmospheric sciences,Keynote,research presentation,slides,
 Daniel Pazmino,earth sciences,atmospheric sciences,Mendeley,information management,reference management,
 Daniel Pazmino,earth sciences,atmospheric sciences,EndNote,information management,reference management,
@@ -116,7 +116,7 @@ Sarah Jelbert,psychology and cognitive sciences,psychology,EndNote,information m
 Sarah Jelbert,psychology and cognitive sciences,psychology,Qiqqa,information management,reference management,
 Sarah Jelbert,psychology and cognitive sciences,psychology,Illustrator,research presentation,graphics editing,editing software
 Sarah Jelbert,psychology and cognitive sciences,psychology,Photoshop,research presentation,graphics editing,editing software
-Sarah Jelbert,psychology and cognitive sciences,psychology,SketchUp,3D design,,
+Sarah Jelbert,psychology and cognitive sciences,psychology,SketchUp,3D design,general,
 Sarah Jelbert,psychology and cognitive sciences,psychology,PowerDirector,data collection,video editing,
 Sarah Jelbert,psychology and cognitive sciences,psychology,Adobe Premier,data collection,video editing,
 Jacquie Tran,medical and health sciences,human movement and sports science,Survey Monkey,data collection,surveys,
@@ -179,10 +179,10 @@ Paul Mignone,engineering,materials engineering,PowerPoint,research presentation,
 Paul Mignone,engineering,materials engineering,Jabref,information management,reference management,
 Paul Mignone,engineering,materials engineering,Photoshop,research presentation,graphics editing,editing software
 Paul Mignone,engineering,materials engineering,Inkscape,research presentation,graphics editing,editing software
-Paul Mignone,engineering,materials engineering,Abaqus,3D design,,
-Paul Mignone,engineering,materials engineering,Autodesk Inventor,3D design,,
-Paul Mignone,engineering,materials engineering,Solidworks,3D design,,
-Paul Mignone,engineering,materials engineering,Simpleware,3D design,,
+Paul Mignone,engineering,materials engineering,Abaqus,3D design,general,
+Paul Mignone,engineering,materials engineering,Autodesk Inventor,3D design,general,
+Paul Mignone,engineering,materials engineering,Solidworks,3D design,general,
+Paul Mignone,engineering,materials engineering,Simpleware,3D design,general,
 Paul Mignone,engineering,materials engineering,Notepad++,code development,editors,
 Amy Whitehead,biological sciences,ecology,RStudio,code development,interactive development environments,
 Amy Whitehead,biological sciences,ecology,Word,research presentation,document editing,
@@ -192,7 +192,7 @@ Amy Whitehead,biological sciences,ecology,Foxit PDF,research presentation,docume
 Amy Whitehead,biological sciences,ecology,Dropbox,file management,storage/sharing,
 Amy Whitehead,biological sciences,ecology,Google Drive,file management,storage/sharing,
 Amy Whitehead,biological sciences,ecology,PowerPoint,research presentation,slides,
-Amy Whitehead,biological sciences,ecology,Scribus,research presentation,,
+Amy Whitehead,biological sciences,ecology,Scribus,research presentation,document editing,
 Amy Whitehead,biological sciences,ecology,Mendeley,information management,reference management,
 Amy Whitehead,biological sciences,ecology,Photoshop,research presentation,graphics editing,editing software
 Amy Whitehead,biological sciences,ecology,Inkscape,research presentation,graphics editing,editing software
@@ -318,12 +318,12 @@ Wenx Hansen,medical and health sciences,human movement and sports science,Word,r
 Wenx Hansen,medical and health sciences,human movement and sports science,LaTeX,research presentation,document editing,
 Wenx Hansen,medical and health sciences,human movement and sports science,OpenOffice Writer,research presentation,document editing,
 Wenx Hansen,medical and health sciences,human movement and sports science,Prezi,research presentation,slides,
-Wenx Hansen,medical and health sciences,human movement and sports science,Mimics / 3-matic,3D design,,
+Wenx Hansen,medical and health sciences,human movement and sports science,Mimics / 3-matic,3D design,general,
 Guoping Hu,engineering,chemical engineering,PowerPoint,research presentation,slides,
 Guoping Hu,engineering,chemical engineering,Prezi,research presentation,slides,
 Guoping Hu,engineering,chemical engineering,EndNote,information management,reference management,
 Guoping Hu,engineering,chemical engineering,Photoshop,research presentation,graphics editing,editing software
-Guoping Hu,engineering,chemical engineering,AutoCAD,3D design,,
+Guoping Hu,engineering,chemical engineering,AutoCAD,3D design,general,
 Elham Shoorcheh,psychology and cognitive sciences,psychology,Word,research presentation,document editing,
 Elham Shoorcheh,psychology and cognitive sciences,psychology,Google Drive,file management,storage/sharing,
 Elham Shoorcheh,psychology and cognitive sciences,psychology,PowerPoint,research presentation,slides,
@@ -468,8 +468,8 @@ Alysia Bennett,built environment and design,architecture,InDesign,research prese
 Alysia Bennett,built environment and design,architecture,EndNote,information management,reference management,
 Alysia Bennett,built environment and design,architecture,Illustrator,research presentation,graphics editing,editing software
 Alysia Bennett,built environment and design,architecture,Photoshop,research presentation,graphics editing,editing software
-Alysia Bennett,built environment and design,architecture,REVIT,3D design,,
-Alysia Bennett,built environment and design,architecture,Rhino,3D design,,
+Alysia Bennett,built environment and design,architecture,REVIT,3D design,general,
+Alysia Bennett,built environment and design,architecture,Rhino,3D design,general,
 Katherine Langley,chemical sciences,medicinal and biomolecular chemistry,Word,research presentation,document editing,
 Katherine Langley,chemical sciences,medicinal and biomolecular chemistry,PowerPoint,research presentation,slides,
 Katherine Langley,chemical sciences,medicinal and biomolecular chemistry,EndNote,information management,reference management,
@@ -490,7 +490,7 @@ Johan Gustafson,biological sciences,zoology,PowerPoint,research presentation,sli
 Annelies Van de Ven,history and archaeology,archaeology,Word,research presentation,document editing,
 Annelies Van de Ven,history and archaeology,archaeology,PowerPoint,research presentation,slides,
 Annelies Van de Ven,history and archaeology,archaeology,Photoshop,research presentation,graphics editing,editing software
-Annelies Van de Ven,history and archaeology,archaeology,AutoCAD,3D design,,
+Annelies Van de Ven,history and archaeology,archaeology,AutoCAD,3D design,general,
 Sarah Hunter,built environment and design,architecture,Word,research presentation,document editing,
 Sarah Hunter,built environment and design,architecture,OpenOffice Writer,research presentation,document editing,
 Sarah Hunter,built environment and design,architecture,OneDrive,file management,storage/sharing,
@@ -508,11 +508,11 @@ Andrea Bedini,mathematical sciences,applied mathematics,GitHub,file management,v
 Sally Yunsun Kim,medical and health sciences,pharmacology and pharmaceutical sciences,Word,research presentation,document editing,
 Sally Yunsun Kim,medical and health sciences,pharmacology and pharmaceutical sciences,PowerPoint,research presentation,slides,
 Sally Yunsun Kim,medical and health sciences,pharmacology and pharmaceutical sciences,EndNote,information management,reference management,
-Ravi Bessabava,engineering,materials engineering,Rhino,3D design,,
+Ravi Bessabava,engineering,materials engineering,Rhino,3D design,general,
 Michael Kuiper,biological sciences,genetics,GIMP,research presentation,graphics editing,editing software
-Michael Kuiper,biological sciences,genetics,Blender,3D design,,
-Michael Kuiper,biological sciences,genetics,OpenSCAD,3D design,,
-Michael Kuiper,biological sciences,genetics,FreeCAD,3D design,,
+Michael Kuiper,biological sciences,genetics,Blender,3D design,general,
+Michael Kuiper,biological sciences,genetics,OpenSCAD,3D design,general,
+Michael Kuiper,biological sciences,genetics,FreeCAD,3D design,general,
 Gina Kusuma,biological sciences,biochemistry and cell biology,Word,research presentation,document editing,
 Gina Kusuma,biological sciences,biochemistry and cell biology,Dropbox,file management,storage/sharing,
 Gina Kusuma,biological sciences,biochemistry and cell biology,Google Drive,file management,storage/sharing,
@@ -522,12 +522,12 @@ Gina Kusuma,biological sciences,biochemistry and cell biology,Photoshop,research
 Gina Kusuma,biological sciences,biochemistry and cell biology,Evernote,information management,note taking,
 Varsha Pilbrow,biological sciences,zoology,Photoshop,research presentation,graphics editing,editing software
 Varsha Pilbrow,biological sciences,zoology,SigmaScan,research presentation,graphics editing,editing software
-Varsha Pilbrow,biological sciences,zoology,SketchUp,3D design,,
-Varsha Pilbrow,biological sciences,zoology,Meshmixer,3D design,,
-Varsha Pilbrow,biological sciences,zoology,Geomagic Qualify,3D design,,
+Varsha Pilbrow,biological sciences,zoology,SketchUp,3D design,general,
+Varsha Pilbrow,biological sciences,zoology,Meshmixer,3D design,general,
+Varsha Pilbrow,biological sciences,zoology,Geomagic Qualify,3D design,general,
 Celeste Coltman,medical and health sciences,human movement and sports science,EndNote,information management,reference management,
 Celeste Coltman,medical and health sciences,human movement and sports science,Illustrator,research presentation,graphics editing,editing software
-Celeste Coltman,medical and health sciences,human movement and sports science,Geomagic studio,3D design,,
+Celeste Coltman,medical and health sciences,human movement and sports science,Geomagic studio,3D design,general,
 Andrea Rassell,"language, communication and culture",communication and media studies,Google Docs,research presentation,document editing,
 Andrea Rassell,"language, communication and culture",communication and media studies,Prezi,research presentation,slides,
 Andrea Rassell,"language, communication and culture",communication and media studies,Photoshop,research presentation,graphics editing,editing software
@@ -913,7 +913,7 @@ Isabel Zbukvic,medical and health sciences,neurosciences,PowerPoint,research pre
 Isabel Zbukvic,medical and health sciences,neurosciences,Papers,information management,reference management,
 Isabel Zbukvic,medical and health sciences,neurosciences,Canva,research presentation,graphics editing,editing software
 Markus Low,agricultural and veterinary sciences,crop and pasture production,ownCloud,file management,storage/sharing,
-Markus Low,agricultural and veterinary sciences,crop and pasture production,Nectar Research Cloud,computing platform,,
+Markus Low,agricultural and veterinary sciences,crop and pasture production,Nectar Research Cloud,computing platform,general,
 Shampa Shahriyar,information and computing sciences,computer software,Notepad++,code development,editors,
 Shampa Shahriyar,information and computing sciences,computer software,Dropbox,file management,storage/sharing,
 Shampa Shahriyar,information and computing sciences,computer software,GitHub,file management,version control,hosting

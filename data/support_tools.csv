@@ -1,21 +1,21 @@
 ﻿tool,category,task,sub-task,website,people
 Molsoft ICM-Browser,3D design,molecular visualisation,,https://www.molsoft.com/icm_browser.html,Thomas Coudrat
 PyMOL,3D design,molecular visualisation,,https://www.pymol.org/,Thomas Coudrat
-Abaqus,3D design,,,,Paul Mignone
-AutoCAD,3D design,,,,"Guoping Hu,Annelies Van de Ven"
-Autodesk Inventor,3D design,,,,Paul Mignone
-Blender,3D design,,,,Michael Kuiper
-FreeCAD,3D design,,,,Michael Kuiper
-Geomagic Qualify,3D design,,,,Varsha Pilbrow
-Geomagic studio,3D design,,,,Celeste Coltman
-Meshmixer,3D design,,,,Varsha Pilbrow
-Mimics / 3-matic,3D design,,,,Wenx Hansen
-OpenSCAD,3D design,,,,Michael Kuiper
-REVIT,3D design,,,,Alysia Bennett
-Rhino,3D design,,,,"Alysia Bennett,Ravi Bessabava"
-Simpleware,3D design,,,,Paul Mignone
-SketchUp,3D design,,,,"Sarah Jelbert,Varsha Pilbrow"
-Solidworks,3D design,,,,Paul Mignone
+Abaqus,3D design,general,,,Paul Mignone
+AutoCAD,3D design,general,,,"Guoping Hu,Annelies Van de Ven"
+Autodesk Inventor,3D design,general,,,Paul Mignone
+Blender,3D design,general,,,Michael Kuiper
+FreeCAD,3D design,general,,,Michael Kuiper
+Geomagic Qualify,3D design,general,,,Varsha Pilbrow
+Geomagic studio,3D design,general,,,Celeste Coltman
+Meshmixer,3D design,general,,,Varsha Pilbrow
+Mimics / 3-matic,3D design,general,,,Wenx Hansen
+OpenSCAD,3D design,general,,,Michael Kuiper
+REVIT,3D design,general,,,Alysia Bennett
+Rhino,3D design,general,,,"Alysia Bennett,Ravi Bessabava"
+Simpleware,3D design,general,,,Paul Mignone
+SketchUp,3D design,general,,,"Sarah Jelbert,Varsha Pilbrow"
+Solidworks,3D design,general,,,Paul Mignone
 Emacs,code development,editors,,,"Daniel Pazmino,Michael Niemann,Ned Letcher"
 Kate,code development,editors,,,Damien Irving
 LiveCode,code development,editors,,,Jason Lodge
@@ -151,7 +151,7 @@ PowerPoint,research presentation,slides,,,"Rita Busuttil,Kate Giljohann,Michael 
 Prezi,research presentation,slides,,,"Michael Strack,Nga Nguyen,Amy Loughman,Jacquie Tran,Wenx Hansen,Guoping Hu,Joanna Tai,Andrea Rassell,Camilla Vote,Ruth MacKinnon,Liam Johnson"
 R presentations,research presentation,slides,,,Michael Bane
 Slidify,research presentation,slides,,,Tom Kelly
-Scribus,research presentation,,,,"Kate Giljohann,Daniel Pazmino,Amy Whitehead"
+Scribus,research presentation,document editing,,,"Kate Giljohann,Daniel Pazmino,Amy Whitehead"
 Diogenes,information management,finding data,,https://community.dur.ac.uk/p.j.heslin/Software/Diogenes/,Chris Malone
 CloudStor,file management,storage/sharing,,https://www.aarnet.edu.au/network-and-services/cloud-services-applications/cloudstor,"Sally Richmond,Andy Krause"
 Google Calendar,information management,time management,,,Sally Richmond
@@ -180,7 +180,7 @@ Xfig,research presentation,graphics editing,editing software,http://mcj.sourcefo
 Brat,research presentation,graphics editing,icons/colors/simple graphic creation,http://brat.nlplab.org/,Ned Letcher
 Canva,research presentation,graphics editing,editing software,https://www.canva.com/,Isabel Zbukvic
 ownCloud,file management,storage/sharing,,https://owncloud.org/,Markus Low
-Nectar Research Cloud,computing platform,,,,Markus Low
+Nectar Research Cloud,computing platform,general,,,Markus Low
 Visual Studio,code development,interactive development environments,,https://www.visualstudio.com/,"Shampa Shahriyar,Thanh-Binh Nguyen,Dulini Mendis"
 LiClipse,code development,editors,,https://www.liclipse.com/,Marion Shadbolt
 ZFS,file management,big files,,,Hugo Oliveira
