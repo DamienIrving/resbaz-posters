@@ -54,7 +54,7 @@ Results to produce:
 
 ### Demographics
 
-- X posters
+- Number of posters
 - Career breakdown
 - Discipline breakdown
 
@@ -63,12 +63,10 @@ Results to produce:
 #### Overall
 
 - Programming languages
-  - Show list
   - R, Python and MATLAB most popular, in that order
     - Libraries and IDE's of note...
 
 - General data science tools
-  - Show list
   - Excel, Prism most popular general purpose  
   - SPSS, Stata for statistics
   - ArcGIS for unstructured spatial data
@@ -77,31 +75,64 @@ Results to produce:
   - Vast majority are pay, graphical tools
   
 - Support tools
-  - Sublime, Notepad++ and Vim most popular code editors
   - Community hasn't settled on favourite survey tool
-  - Dropbox and Google Drive most popular for file storage / sharing
+  - Sublime, Notepad++ and Vim most popular code editors
   - Version control: 
     - Git / GitHub most popular combination 
-    - Comment on percentage of people who code who listed version control
-  - Commmunity hasn't settled on favourite mind/concept mapping
-  - Evernote popular for note taking
-  - Endnote most popular reference manager. Mendeley and Papers next.
+    - Comment on percentage of people who code who listed version control  
   - Document editing: 
     - Word most popular document editor.
     - LaTeX next (various editing platforms) 
     - Scrivener worth a mention
+  - Endnote most popular reference manager. Mendeley and Papers next.
   - Graphics editing: Photoshop, GIMP, Illustrator, Inkscape
   - PowerPoint
+  - Commmunity hasn't settled on favourite mind/concept mapping
+  - Evernote popular for note taking
+  - Dropbox and Google Drive most popular for file storage / sharing
+  
 
 #### Discipline profiles
 
 (For any that have at least 5 people)
 
-- genetics / biochemistry and cell biology
-- ecology
-- zoology
-- neurosciences
-- public health and health services
+- biological sciences
+  - genetics / biochemistry and cell biology
+  - ecology
+  - zoology
+- medical and health sciences
+  - neurosciences
+  - public health and health services
+- psychology and cognitive sciences
+  - psychology
+- engineering                                  
+- information and computing sciences            
+- studies in human society                      
+- physical sciences
+  - astronomical and space sciences
+- language, communication and culture           
+- environmental sciences
+  - environmental science and management
+- earth sciences
+  - atmospheric sciences / oceanography
+- economics                                     
+- mathematical sciences                         
+- history and archaeology                       
+- commerce, management, tourism and services    
+- built environment and design                   
+- agricultural and veterinary sciences           
+- education                                      
+- chemical sciences                              
+- studies in creative arts and writing           
+- law and legal studies                          
+- philosophy and religious studies               
+- technology                                     
+
+
+
+
+
+
 
 
 ## Discussion / conclusions
