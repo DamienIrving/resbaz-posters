@@ -3,40 +3,54 @@ import pandas
 import pdb
 
 
-def filter_data(df, divisions, groups):
-    """Filter by division or group.
+def filter_data(df, groups):
+    """Filter by research group.
     
     Args:
-      divisions (list)
       groups (list)
     
     """
-    
-    if divisions:
-        df = df[df['research_division'].isin(divisions)]
-    
+        
     if groups:
         df = df[df['research_group'].isin(groups)]
         
     return df
-    
 
-def get_prog_results(selected_divisions, selected_groups):
+    
+def get_demographics(selected_groups):
+    """Get the demographic information"""
+    
+    people_df = pandas.read_csv('../data/people.csv', header=0, encoding='utf-8-sig')
+    people_df = filter_data(people_df, selected_groups)
+    career_stage_gdf = people_df.groupby('career_stage')
+    
+    print('# DEMOGRAPHICS', '\n')
+    
+    total_people = len(people_df)
+    print('Total people:', total_people, '\n')
+    for career_stage, career_stage_df in career_stage_gdf:
+        print(career_stage, len(career_stage_df))     
+
+    non_coders = people_df['programming_languages'].isnull().sum()
+    print('coders:', total_people - non_coders)
+    print('non-coders:', non_coders, '\n')
+
+
+def get_prog_results(selected_groups):
     """Get programming language results"""
 
     programming_language_df = pandas.read_csv('../data/derived/people_programming_languages.csv', header=0, encoding='utf-8-sig')
-    programming_language_df = filter_data(programming_language_df, selected_divisions, selected_groups) 
+    programming_language_df = filter_data(programming_language_df, selected_groups) 
 
-    print('Total people:',  programming_language_df.name.nunique(), '\n')
     print('# PROGRAMMING LANGUAGES', '\n')
     print(programming_language_df['tool'].value_counts().to_string(), '\n')
 
 
-def get_general_results(selected_divisions, selected_groups):
+def get_general_results(selected_groups):
     """Get general data science tool results"""
 
     general_datasci_df = pandas.read_csv('../data/derived/people_general_datasci_tools.csv', header=0, encoding='utf-8-sig')
-    general_datasci_df = filter_data(general_datasci_df, selected_divisions, selected_groups)
+    general_datasci_df = filter_data(general_datasci_df, selected_groups)
     general_datasci_purpose_gdf = general_datasci_df.groupby('purpose')
     
     print('# GENERAL DATA SCIENCE TOOLS', '\n')
@@ -44,11 +58,12 @@ def get_general_results(selected_divisions, selected_groups):
         print('##', purpose)
         print(purpose_df['tool'].value_counts().to_string(), '\n')
 
-def get_discipline_results(selected_divisions, selected_groups):
+
+def get_discipline_results(selected_groups):
     """Get discipline-specific data science tool results"""
 
     discipline_datasci_df = pandas.read_csv('../data/derived/people_discipline_datasci_tools.csv', header=0, encoding='utf-8-sig')
-    discipline_datasci_df = filter_data(discipline_datasci_df, selected_divisions, selected_groups)
+    discipline_datasci_df = filter_data(discipline_datasci_df, selected_groups)
     discipline_datasci_purpose_gdf = discipline_datasci_df.groupby('discipline')
     
     print('# DISCIPLINE DATA SCIENCE TOOLS', '\n')
@@ -57,11 +72,11 @@ def get_discipline_results(selected_divisions, selected_groups):
         print(purpose_df['tool'].value_counts().to_string(), '\n')
 
 
-def get_support_results(selected_divisions, selected_groups):
+def get_support_results(selected_groups):
     """Get support tool results"""
 
     support_tool_df = pandas.read_csv('../data/derived/people_support_tools.csv', header=0, encoding='utf-8-sig')
-    support_tool_df = filter_data(support_tool_df, selected_divisions, selected_groups)
+    support_tool_df = filter_data(support_tool_df, selected_groups)
     support_tool_gdf = support_tool_df.groupby(['category', 'task'])
 
     print('# SUPPORT TOOLS', '\n')
@@ -77,22 +92,23 @@ def main(inargs):
     all_divisions = research_field_df['research_division'].tolist()
     all_groups = research_field_df['research_group'].tolist()
 
-    selected_divisions = []
+    selected_groups = []
     for division in inargs.divisions:
         division = division.replace('_', ' ')
         assert division in all_divisions, "selected division %s not valid"  %(division)
-        selected_divisions.append(division)
+        groups = research_field_df[research_field_df['research_division'] == division]['research_group'].tolist()
+        selected_groups.extend(groups)
     
-    selected_groups = []
     for group in inargs.groups:
         group = group.replace('_', ' ')
         assert group in all_groups, "selected group %s not valid"  %(group)
         selected_groups.append(group)
     
-    get_prog_results(selected_divisions, selected_groups)
-    get_general_results(selected_divisions, selected_groups)
-    get_discipline_results(selected_divisions, selected_groups)
-    get_support_results(selected_divisions, selected_groups)
+    get_demographics(selected_groups)
+    get_prog_results(selected_groups)
+    get_general_results(selected_groups)
+    get_discipline_results(selected_groups)
+    get_support_results(selected_groups)
 
 
 if __name__ == '__main__':
