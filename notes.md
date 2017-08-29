@@ -96,43 +96,38 @@ Results to produce:
 
 (For any that have at least 5 people)
 
-- biological sciences
-  - genetics / biochemistry and cell biology
-  - ecology
-  - zoology
-- medical and health sciences
-  - neurosciences
-  - public health and health services
-- psychology and cognitive sciences
-  - psychology
-- engineering                                  
-- information and computing sciences            
-- studies in human society                      
-- physical sciences
-  - astronomical and space sciences
-- language, communication and culture           
-- environmental sciences
-  - environmental science and management
-- earth sciences
-  - atmospheric sciences / oceanography
-- economics                                     
-- mathematical sciences                         
-- history and archaeology                       
-- commerce, management, tourism and services    
-- built environment and design                   
-- agricultural and veterinary sciences           
-- education                                      
-- chemical sciences                              
-- studies in creative arts and writing           
-- law and legal studies                          
-- philosophy and religious studies               
-- technology                                     
-
-
-
-
-
-
+| Discipline | Group | Common tools |
+| biological sciences |  |  |
+| | genetics / biochemistry and cell biology (23) | R & Python; Lots of open, command line discipline tools |
+| | ecology (10) | R; Excel, ArcGIS; GIMP |
+| | zoology (7) | R |
+| medical and health sciences | | |
+| | neurosciences (14) | MATLAB; Excel, SPSS;  |
+| | public health and health services (6) | non-coders; Excel, SPSS, Stata |
+| psychology and cognitive sciences | | |
+| | psychology (10) | R, non-coders; Excel, SPSS |
+| engineering (10) | | MATLAB |                               
+| information and computing sciences | | |            
+| studies in human society | | |                      
+| physical sciences | | |
+| | astronomical and space sciences (6) | Python; Lots of open discipline tools; LaTeX |
+| language, communication and culture | | |           
+| environmental sciences | | |
+| | environmental science and management | |
+| earth sciences | | |
+| | atmospheric sciences / oceanography (6) | Python, Unix Shell; NCO; CDO; Git, LaTeX |
+| economics (5) | | Spread. |                                    
+| mathematical sciences | | |                        
+| history and archaeology | | |                      
+| commerce, management, tourism and services | | |    
+| built environment and design | | |                   
+| agricultural and veterinary sciences | | |           
+| education | | |                                      
+| chemical sciences | | |                              
+| studies in creative arts and writing | | |           
+| law and legal studies  | | |                         
+| philosophy and religious studies  | | |                
+| technology | | |                                     
 
 
 ## Discussion / conclusions
