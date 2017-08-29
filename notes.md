@@ -50,6 +50,60 @@ Results to produce:
   * These plots could be used to inform the total usage plot (i.e. in determining whether some broad disciplines need to be broken into categories)
 
 
+## Results
+
+### Demographics
+
+- X posters
+- Career breakdown
+- Discipline breakdown
+
+### Digital toolbox
+
+#### Overall
+
+- Programming languages
+  - Show list
+  - R, Python and MATLAB most popular, in that order
+    - Libraries and IDE's of note...
+
+- General data science tools
+  - Show list
+  - Excel, Prism most popular general purpose  
+  - SPSS, Stata for statistics
+  - ArcGIS for unstructured spatial data
+  - Nvivo for qualitative data
+  
+  - Vast majority are pay, graphical tools
+  
+- Support tools
+  - Sublime, Notepad++ and Vim most popular code editors
+  - Community hasn't settled on favourite survey tool
+  - Dropbox and Google Drive most popular for file storage / sharing
+  - Version control: 
+    - Git / GitHub most popular combination 
+    - Comment on percentage of people who code who listed version control
+  - Commmunity hasn't settled on favourite mind/concept mapping
+  - Evernote popular for note taking
+  - Endnote most popular reference manager. Mendeley and Papers next.
+  - Document editing: 
+    - Word most popular document editor.
+    - LaTeX next (various editing platforms) 
+    - Scrivener worth a mention
+  - Graphics editing: Photoshop, GIMP, Illustrator, Inkscape
+  - PowerPoint
+
+#### Discipline profiles
+
+(For any that have at least 5 people)
+
+- genetics / biochemistry and cell biology
+- ecology
+- zoology
+- neurosciences
+- public health and health services
+
+
 ## Discussion / conclusions
 
 There are so many tools that you couldn't possibly provide support and training for all of them.
