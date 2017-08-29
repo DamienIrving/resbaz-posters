@@ -97,6 +97,7 @@ Results to produce:
 (For any that have at least 5 people)
 
 | Discipline | Group | Common tools |
+| :--- | :--- | :--- |
 | biological sciences |  |  |
 | | genetics / biochemistry and cell biology (23) | R & Python; Lots of open, command line discipline tools |
 | | ecology (10) | R; Excel, ArcGIS; GIMP |
