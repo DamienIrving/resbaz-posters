@@ -1,175 +1,175 @@
-tool,name,research_division,research_group,discipline,cost,source code,user interface,usage,Website
-Partek,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,genomics,pay,closed,graphical,analysis and visualisation,http://www.partek.com/
-IGV,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
-ImageJ,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-GeneMapper,Michael Strack,biological sciences,ecology,genomics,pay,closed,graphical,analysis and visualisation,https://www.thermofisher.com/order/catalog/product/4475073
-SPM,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis,http://www.fil.ion.ucl.ac.uk/spm/
-CONN,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://www.nitrc.org/projects/conn/
-REST,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,http://restfmri.net/forum/RESTplusV1.2
-BrainNet,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,visualisation,https://www.nitrc.org/projects/bnv/
-MRIcron,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://www.nitrc.org/projects/mricron
-FSL,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
-MRIcroGL,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,visualisation,http://www.mccauslandcenter.sc.edu/mricrogl/home
-MRtrix3,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,http://www.mrtrix.org/
-IGV,Sharon Pattison,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
-ImageJ,Sharon Pattison,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-ePrime,Emily Kothe,psychology and cognitive sciences,psychology,psychology,pay,closed,graphical and command line,collection and analysis and visualisation,https://www.pstnet.com/eprime.cfm
-CDO,Daniel Pazmino,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis,https://code.mpimet.mpg.de/projects/cdo
-PGD Spider,Jane Younger,biological sciences,ecology,genomics,free,closed,graphical,analysis,http://www.cmpg.unibe.ch/software/PGDSpider/
-Arlequin,Jane Younger,biological sciences,ecology,genomics,free,closed,graphical and command line,analysis,http://cmpg.unibe.ch/software/arlequin35/
-MEGA,Jane Younger,biological sciences,ecology,protein sequencing,free,closed,graphical and command line,analysis,http://www.megasoftware.net/
-Structure,Jane Younger,biological sciences,ecology,genomics,free,open,graphical and command line,analysis and visualisation,http://web.stanford.edu/group/pritchardlab/structure.html
-Beast2,Jane Younger,biological sciences,ecology,phylogenetics,free,open,graphical,analysis and visualisation,https://www.beast2.org/
-Bayescan,Jane Younger,biological sciences,ecology,genomics,free,open,graphical and command line,analysis and visualisation,cmpg.unibe.ch/software/BayeScan/
-Mutalin,Janavi Rambhatla,medical and health sciences,medical microbiology,protein sequencing,free,closed,website,analysis and visualisation,http://multalin.toulouse.inra.fr/multalin/
-BLAST,Janavi Rambhatla,medical and health sciences,medical microbiology,protein sequencing,free,closed,graphical and command line,analysis and visualisation,https://blast.ncbi.nlm.nih.gov/Blast.cgi
-iris,Damien Irving,earth sciences,atmospheric sciences,climate,free,open,command line,analysis and visualisation,http://scitools.org.uk/iris/
-CDO,Damien Irving,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis,https://code.mpimet.mpg.de/projects/cdo
-emuR,Rosey Billington,"language, communication and culture",linguistics,phonetics,free,open,command line,analysis,http://ips-lmu.github.io/EMU.html
-Praat,Rosey Billington,"language, communication and culture",linguistics,phonetics,free,open,graphical,analysis and visualisation,http://www.fon.hum.uva.nl/praat/
-EdgeTrak,Rosey Billington,"language, communication and culture",linguistics,medical image processing,free,closed,graphical,visualisation,https://www.dental.umaryland.edu/speech/software/
-iso2mesh,Paul Mignone,engineering,materials engineering,medical image processing,free,open,graphical and command line,visualisation,http://iso2mesh.sourceforge.net/cgi-bin/index.cgi
-ImageJ,Paul Mignone,engineering,materials engineering,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-Mauve,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation,http://darlinglab.org/mauve/mauve.html
-Easyfig,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,visualisation,http://mjsull.github.io/Easyfig/
-EvolView,Areej Alsheikh-Hussain,biological sciences,genetics,phylogenetics,free,open,website,visualisation,https://evolview.codeplex.com/
-BRIG,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://brig.sourceforge.net/
-Artemis,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://www.sanger.ac.uk/science/tools/artemis
-Contiguity,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,visualisation,http://mjsull.github.io/Contiguity/
-LAStools,Matthew Malishev,biological sciences,zoology,geographic image processing,pay,closed,graphical and command line,analysis and visualisation,https://rapidlasso.com/LAStools/
-ePrime,Cindy Chew,psychology and cognitive sciences,psychology,psychology,pay,closed,graphical and command line,collection and analysis and visualisation,https://www.pstnet.com/eprime.cfm
-GeneHunter,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,pay,closed,graphical,analysis,http://www.wardsystems.com/genehunter.asp
-plink,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,free,open,command line,analysis,http://zzz.bwh.harvard.edu/plink/
-FASTLINK,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,free,closed,command line,analysis,https://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/fastlink.html
-Freesurfer,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://surfer.nmr.mgh.harvard.edu/
-FSL,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
-MRtrix3,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,http://www.mrtrix.org/
-PanelWhiz,David Marks,economics,economic theory,social sciences,pay,closed,graphical,analysis,http://www.panelwhiz.eu/
-Aspen Plus,Guoping Hu,engineering,chemical engineering,chemistry,pay,closed,graphical,analysis and visualisation,http://www.aspentech.com/products/engineering/aspen-plus/
-ChemOffice,Guoping Hu,engineering,chemical engineering,chemistry,pay,closed,graphical,visualisation,http://www.cambridgesoft.com/Ensemble_for_Chemistry/ChemOffice/ChemOfficeProfessional/Default.aspx
-DS Visualizer,Guoping Hu,engineering,chemical engineering,chemistry,free,closed,graphical,visualisation,http://www.marcsaric.de/index.php/DS_Visualizer
-ImageJ,Katherine Drummond,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-SPM,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis,http://www.fil.ion.ucl.ac.uk/spm/
-Freesurfer,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://surfer.nmr.mgh.harvard.edu/
-Brain Voyager,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,pay,closed,graphical,analysis and visualisation,http://www.brainvoyager.com/index.html
-ANTs,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,http://stnava.github.io/ANTs/
-itk-SNAP,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,closed,graphical,analysis and visualisation,http://www.itksnap.org/pmwiki/pmwiki.php
-FSL,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
-MRtrix3,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,http://www.mrtrix.org/
-Quantity One,Katherine Langley,chemical sciences,medicinal and biomolecular chemistry,biological image processing,free,closed,graphical,visualisation,http://www.bio-rad.com/en-au/product/quantity-one-1-d-analysis-software
-CDO,Mitchell Black,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis,https://code.mpimet.mpg.de/projects/cdo
-NCL,Mitchell Black,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis and visualisation,http://www.ncl.ucar.edu/
-ImageJ,Lizzy Lowe,biological sciences,ecology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-ImageJ,Sally Yunsun Kim,medical and health sciences,pharmacology and pharmaceutical sciences,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-VMD,Michael Kuiper,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://www.ks.uiuc.edu/Research/vmd/
-FACSDIVA,Gina Kusuma,biological sciences,biochemistry and cell biology,flow cytometry,pay,closed,graphical,analysis and visualisation,http://www.bdbiosciences.com/anz/instruments/software/facsdiva/index.jsp
-morpho-tools.net,Varsha Pilbrow,biological sciences,zoology,morphometrics,free,open,graphical and command line,analysis and visualisation,http://www.morpho-tools.net/index.html
-ImageJ,Varsha Pilbrow,biological sciences,zoology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-ImageJ,Celeste Coltman,medical and health sciences,human movement and sports science,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-ImageJ,Andrea Rassell,"language, communication and culture",communication and media studies,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-TNT,Md. Roysul Islam,biological sciences,zoology,phylogenetics,free,closed,graphical,analysis and visualisation,http://www.lillo.org.ar/phylogeny/tnt/
-ImageJ,Md. Roysul Islam,biological sciences,zoology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-Clustal,David Norrish,biological sciences,genetics,protein sequencing,free,closed,graphical and command line,analysis,http://www.clustal.org/
-HMMER,David Norrish,biological sciences,genetics,protein sequencing,free,closed,command line,analysis,http://hmmer.org/
-MEGA,David Norrish,biological sciences,genetics,protein sequencing,free,closed,graphical and command line,analysis,http://www.megasoftware.net/
-ImageJ,David Norrish,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-Artemis,David Norrish,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://www.sanger.ac.uk/science/tools/artemis
-BioEdit,David Norrish,biological sciences,genetics,protein sequencing,free,closed,graphical,visualisation,http://www.mbio.ncsu.edu/BioEdit/bioedit.html
-IRAF,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation,http://iraf.noao.edu/
-Sextractor,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation,https://www.astromatic.net/software/sextractor
-Swarp,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation,https://www.astromatic.net/software/swarp
-S2PLOT,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,open,command line,visualisation,http://astronomy.swin.edu.au/s2plot/index.php?title=S2PLOT
-TOPCAT,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,open,graphical,analysis,http://www.star.bris.ac.uk/~mbt/topcat/
-ENVI,Camilla Vote,environmental sciences,environmental science and management,geographic image processing,pay,closed,graphical,analysis and visualisation,https://esriaustralia.com.au/envi
-Karyostudio,Ruth MacKinnon,biological sciences,genetics,genomics,pay,closed,graphical,analysis and visualisation,https://support.illumina.com/array/array_software/karyostudio.html
-Ikaros,Ruth MacKinnon,biological sciences,genetics,genomics,pay,closed,graphical,visualisation,https://metasystems-international.com/en/products/ikaros/
-VMD,Raffaella Demichelis,engineering,materials engineering,genomics,free,closed,graphical,visualisation,http://www.ks.uiuc.edu/Research/vmd/
-Jmol,Raffaella Demichelis,engineering,materials engineering,chemistry,free,open,graphical,visualisation,http://jmol.sourceforge.net/
-moldraw,Raffaella Demichelis,engineering,materials engineering,chemistry,free,closed,graphical,visualisation,http://moldraw.software.informer.com/
-GDIS,Raffaella Demichelis,engineering,materials engineering,chemistry,free,open,graphical,visualisation,http://gdis.sourceforge.net/
-FINDSYM,Raffaella Demichelis,engineering,materials engineering,chemistry,free,closed,website,visualisation,http://stokes.byu.edu/iso/findsym.php
-Bioconductor,Tom Kelly,biological sciences,genetics,bioinformatics,free,open,command line,analysis and visualisation,https://www.bioconductor.org/
-OpenEye toolkit,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,command line,analysis,https://docs.eyesopen.com/toolkits/python/index.html
-RDKit,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,command line,analysis,http://www.rdkit.org/
-Autodock,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,graphical,visualisation,http://autodock.scripps.edu/
-Freesurfer,Sally Richmond,psychology and cognitive sciences,psychology,medical image processing,free,open,graphical,analysis and visualisation,https://surfer.nmr.mgh.harvard.edu/
-ImageJ,Bernie Wittwer,biological sciences,evolutionary biology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-Beast2,Bernie Wittwer,biological sciences,evolutionary biology,phylogenetics,free,open,graphical,analysis and visualisation,https://www.beast2.org/
-AMOS,Nilupa Udawata,"commerce, management, tourism and services",business and management,structural equation modeling,pay,closed,graphical,analysis and visualisation,
-RevMan,Adrienne O'Neil,medical and health sciences,public health and health services,meta-analysis,free,,graphical,analysis,http://community.cochrane.org/tools/review-production-tools/revman-5
-ImageJ,Kevin Lau,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-@Risk,Erandathie Pathiraja,,"""agriculture, land and farm management""",risk analysis,pay,closed,graphical,analysis and visualisation,http://www.palisade.com/risk/
-ImageJ,Simone Nuessing,medical and health sciences,immunology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-FlowJo,Simone Nuessing,medical and health sciences,immunology,flow cytometry,pay,closed,graphical,analysis and visualisation,https://www.flowjo.com/solutions/flowjo
-AMOS,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,structural equation modeling,pay,closed,graphical,analysis and visualisation,
-PsychoPy,Peter Goodin,medical and health sciences,neurosciences,psychology,free,open,command line,analysis and visualisation,http://www.psychopy.org/
-ImageJ,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-FACSDIVA,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",flow cytometry,pay,closed,graphical,analysis and visualisation,http://www.bdbiosciences.com/anz/instruments/software/facsdiva/index.jsp
-GeneGO,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",genomics,pay,closed,graphical,analysis and visualisation,
-AMOS,Victor Sojo,psychology and cognitive sciences,psychology,structural equation modeling,pay,closed,graphical,analysis and visualisation,
-XLSTAT-Biomed,Andrew Watt,medical and health sciences,neurosciences,biomedical,pay,closed,graphical,analysis and visualisation,https://www.xlstat.com/en/solutions/biomed
-Galaxy,Na Li,biological sciences,genetics,biomedical,free,open,graphical,workflow management,https://usegalaxy.org/
-ImageJ,Sonja McKeown,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-EpiData,Eleanor Neal,medical and health sciences,public health and health services,epidemiology,free,closed,graphical,analysis and visualisation,http://www.epidata.dk/
-Arlequin,Katie Crawford,biological sciences,genetics,genomics,free,closed,graphical and command line,analysis,http://cmpg.unibe.ch/software/arlequin35/
-PGD Spider,Katie Crawford,biological sciences,genetics,genomics,free,closed,graphical,analysis,http://www.cmpg.unibe.ch/software/PGDSpider/
-Samtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,http://www.htslib.org/
-BWA,Katie Crawford,biological sciences,genetics,protein sequencing,free,open,command line,analysis,http://bio-bwa.sourceforge.net/
-VCFtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,https://vcftools.github.io/
-BCFtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,https://samtools.github.io/bcftools/
-Genome Analysis Toolkit,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation,https://software.broadinstitute.org/gatk/
-FreeBayes,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,https://github.com/ekg/freebayes
-Trimmomatic,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis,http://www.usadellab.org/cms/?page=trimmomatic
-PopART,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation,http://popart.otago.ac.nz/index.shtml
-DnaSP,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation,http://www.ub.edu/dnasp/
-adegenet,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical and command line,analysis and visualisation,http://adegenet.r-forge.r-project.org/
-caret,Katie Crawford,biological sciences,genetics,genomics,free,open,,,http://topepo.github.io/caret/index.html
-ImageJ,Anna Lewis,biological sciences,zoology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-CDO,Elisabeth Vogel,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis,https://code.mpimet.mpg.de/projects/cdo
-Degust,Erika Duan,medical and health sciences,immunology,genomics,free,open,website,visualisation,http://www.vicbioinformatics.com/software.degust.shtml
-AMOS,Maria Ambartsumova,"commerce, management, tourism and services",marketing,structural equation modeling,pay,closed,graphical,analysis and visualisation,
-Comprehensive Meta-Analysis,Maria Ambartsumova,"commerce, management, tourism and services",marketing,meta-analysis,pay,closed,graphical,analysis and visualisation,https://www.meta-analysis.com/
-FSL,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
-Freesurfer,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://surfer.nmr.mgh.harvard.edu/
-MAGeTBrain,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,open,command line,analysis,https://github.com/CobraLab/MAGeTbrain
-ImageJ,Chenkai Ma,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-EViews,Susan Wilson,economics,applied economics,economics,pay,closed,graphical,analysis and visualisation,http://www.eviews.com
-Cytoscape,Tiane Ryman,biological sciences,biochemistry and cell biology,genomics,free,open,graphical,visualisation,http://www.cytoscape.org/
-itk-SNAP,Tiffany Phillips,biological sciences,genetics,medical image processing,free,closed,graphical,analysis and visualisation,http://www.itksnap.org/pmwiki/pmwiki.php
-PsychoPy,Brook Shiferaw,psychology and cognitive sciences,cognitive sciences,psychology,free,open,command line,analysis and visualisation,http://www.psychopy.org/
-ImageJ,Lucas Dent,biological sciences,biochemistry and cell biology,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-Pajek,Sasha Poquet,education,specialist studies in education,network analysis,free,closed,graphical,analysis and visualisation,http://mrvar.fdv.uni-lj.si/pajek/
-Statnet,Sasha Poquet,education,specialist studies in education,network analysis,free,open,graphical and command line,analysis and visualisation,http://www.statnet.org/
-igraph,Sasha Poquet,education,specialist studies in education,network analysis,free,open,graphical and command line,analysis and visualisation,http://igraph.org/redirect.html
-igraph,Xin Li,information and computing sciences,computer software,network analysis,free,open,graphical and command line,analysis and visualisation,http://igraph.org/redirect.html
-Statnet,Xin Li,information and computing sciences,computer software,network analysis,free,open,graphical and command line,analysis and visualisation,http://www.statnet.org/
-tm,Xin Li,information and computing sciences,computer software,text mining,free,open,command line,analysis,https://cran.r-project.org/web/packages/tm/
-NLTK,Ned Letcher,"language, communication and culture",linguistics,computational linguistics,free,open,command line,analysis and visualisation,http://www.nltk.org/
-spaCy,Ned Letcher,"language, communication and culture",linguistics,computational linguistics,free,open,command line,analysis and visualisation,https://spacy.io/
-ImageJ,Isabel Zbukvic,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation,https://imagej.net/Welcome
-VCFtools,Marion Shadbolt,biological sciences,biochemistry and cell biology,genomics,free,open,command line,analysis,https://vcftools.github.io/
-Bowtie,Marion Shadbolt,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis,http://bowtie-bio.sourceforge.net/index.shtml
-Stacks,Marion Shadbolt,biological sciences,biochemistry and cell biology,genomics,free,closed,command line,analysis and visualisation,http://catchenlab.life.illinois.edu/stacks/
-IRAF,Giulia Savorgnan,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation,http://iraf.noao.edu/
-TOPCAT,Giulia Savorgnan,physical sciences,astronomical and space sciences,astronomy,free,open,graphical,analysis,http://www.star.bris.ac.uk/~mbt/topcat/
-SAOImage DS9,Elodie Thilliez,physical sciences,astronomical and space sciences,astronomy,free,closed,graphical,visualisation,http://ds9.si.edu/site/Home.html
-astropy,Themiya Nanayakkara,physical sciences,astronomical and space sciences,astronomy,free,open,command line,analysis,http://www.astropy.org/
-Samtools,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis,http://www.htslib.org/
-IGV,Enid Lam,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
-bedtools,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation,http://bedtools.readthedocs.io/en/latest/
-BEDOPS,Enid Lam,biological sciences,genetics,biological image processing,free,open,command line,analysis and visualisation,https://bedops.readthedocs.io/en/latest/
-MEME,Enid Lam,biological sciences,genetics,genomics,free,closed,command line,analysis and visualisation,http://meme-suite.org/doc/overview.html
-MACS,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation,http://liulab.dfci.harvard.edu/MACS/
-Pajek,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,network analysis,free,closed,graphical,analysis and visualisation,http://mrvar.fdv.uni-lj.si/pajek/
-UCINET,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,social network analysis,pay,closed,graphical,analysis and visualisation,https://sites.google.com/site/ucinetsoftware/home
-IGV,Jingyi Tang,biological sciences,genetics,genomics,free,closed,graphical,visualisation,http://software.broadinstitute.org/software/igv/
-bedtools,Jingyi Tang,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation,http://bedtools.readthedocs.io/en/latest/
-MEME,Jingyi Tang,biological sciences,genetics,genomics,free,closed,command line,analysis and visualisation,http://meme-suite.org/doc/overview.html
-TopHat,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis,https://ccb.jhu.edu/software/tophat/index.shtml
-Cufflinks,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis,http://cole-trapnell-lab.github.io/cufflinks/
-Subread,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis,http://subread.sourceforge.net/
-Bowtie,Dane Vassiliadis,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis,http://bowtie-bio.sourceforge.net/index.shtml
-Samtools,Dane Vassiliadis,biological sciences,biochemistry and cell biology,genomics,free,open,command line,analysis,http://www.htslib.org/
-TopHat,Dane Vassiliadis,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis,https://ccb.jhu.edu/software/tophat/index.shtml
-Bioconductor,Dane Vassiliadis,biological sciences,biochemistry and cell biology,bioinformatics,free,open,command line,analysis and visualisation,https://www.bioconductor.org/
-biopypthon,Dane Vassiliadis,biological sciences,biochemistry and cell biology,bioinformatics,free,open,command line,analysis and visualisation,http://biopython.org/
+tool,name,research_division,research_group,discipline,cost,source_code,user_interface,usage
+Partek,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,genomics,pay,closed,graphical,analysis and visualisation
+IGV,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,genomics,free,closed,graphical,visualisation
+ImageJ,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,medical image processing,free,open,graphical,analysis and visualisation
+GeneMapper,Michael Strack,biological sciences,ecology,genomics,pay,closed,graphical,analysis and visualisation
+SPM,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis
+CONN,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation
+REST,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation
+BrainNet,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,visualisation
+MRIcron,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+FSL,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation
+MRIcroGL,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,visualisation
+MRtrix3,Michele Veldsman,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+IGV,Sharon Pattison,biological sciences,genetics,genomics,free,closed,graphical,visualisation
+ImageJ,Sharon Pattison,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation
+ePrime,Emily Kothe,psychology and cognitive sciences,psychology,psychology,pay,closed,graphical and command line,collection and analysis and visualisation
+CDO,Daniel Pazmino,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis
+PGD Spider,Jane Younger,biological sciences,ecology,genomics,free,closed,graphical,analysis
+Arlequin,Jane Younger,biological sciences,ecology,genomics,free,closed,graphical and command line,analysis
+MEGA,Jane Younger,biological sciences,ecology,protein sequencing,free,closed,graphical and command line,analysis
+Structure,Jane Younger,biological sciences,ecology,genomics,free,open,graphical and command line,analysis and visualisation
+Beast2,Jane Younger,biological sciences,ecology,phylogenetics,free,open,graphical,analysis and visualisation
+Bayescan,Jane Younger,biological sciences,ecology,genomics,free,open,graphical and command line,analysis and visualisation
+Mutalin,Janavi Rambhatla,medical and health sciences,medical microbiology,protein sequencing,free,closed,website,analysis and visualisation
+BLAST,Janavi Rambhatla,medical and health sciences,medical microbiology,protein sequencing,free,closed,graphical and command line,analysis and visualisation
+iris,Damien Irving,earth sciences,atmospheric sciences,climate,free,open,command line,analysis and visualisation
+CDO,Damien Irving,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis
+emuR,Rosey Billington,"language, communication and culture",linguistics,phonetics,free,open,command line,analysis
+Praat,Rosey Billington,"language, communication and culture",linguistics,phonetics,free,open,graphical,analysis and visualisation
+EdgeTrak,Rosey Billington,"language, communication and culture",linguistics,medical image processing,free,closed,graphical,visualisation
+iso2mesh,Paul Mignone,engineering,materials engineering,medical image processing,free,open,graphical and command line,visualisation
+ImageJ,Paul Mignone,engineering,materials engineering,medical image processing,free,open,graphical,analysis and visualisation
+Mauve,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation
+Easyfig,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,visualisation
+EvolView,Areej Alsheikh-Hussain,biological sciences,genetics,phylogenetics,free,open,website,visualisation
+BRIG,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,closed,graphical,visualisation
+Artemis,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,closed,graphical,visualisation
+Contiguity,Areej Alsheikh-Hussain,biological sciences,genetics,genomics,free,open,graphical,visualisation
+LAStools,Matthew Malishev,biological sciences,zoology,geographic image processing,pay,closed,graphical and command line,analysis and visualisation
+ePrime,Cindy Chew,psychology and cognitive sciences,psychology,psychology,pay,closed,graphical and command line,collection and analysis and visualisation
+GeneHunter,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,pay,closed,graphical,analysis
+plink,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,free,open,command line,analysis
+FASTLINK,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,genomics,free,closed,command line,analysis
+Freesurfer,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+FSL,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation
+MRtrix3,Scott Kolbe,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+PanelWhiz,David Marks,economics,economic theory,social sciences,pay,closed,graphical,analysis
+Aspen Plus,Guoping Hu,engineering,chemical engineering,chemistry,pay,closed,graphical,analysis and visualisation
+ChemOffice,Guoping Hu,engineering,chemical engineering,chemistry,pay,closed,graphical,visualisation
+DS Visualizer,Guoping Hu,engineering,chemical engineering,chemistry,free,closed,graphical,visualisation
+ImageJ,Katherine Drummond,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+SPM,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis
+Freesurfer,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+Brain Voyager,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,pay,closed,graphical,analysis and visualisation
+ANTs,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+itk-SNAP,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,closed,graphical,analysis and visualisation
+FSL,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation
+MRtrix3,Bonnie Alexander,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+Quantity One,Katherine Langley,chemical sciences,medicinal and biomolecular chemistry,biological image processing,free,closed,graphical,visualisation
+CDO,Mitchell Black,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis
+NCL,Mitchell Black,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis and visualisation
+ImageJ,Lizzy Lowe,biological sciences,ecology,medical image processing,free,open,graphical,analysis and visualisation
+ImageJ,Sally Yunsun Kim,medical and health sciences,pharmacology and pharmaceutical sciences,medical image processing,free,open,graphical,analysis and visualisation
+VMD,Michael Kuiper,biological sciences,genetics,genomics,free,closed,graphical,visualisation
+FACSDIVA,Gina Kusuma,biological sciences,biochemistry and cell biology,flow cytometry,pay,closed,graphical,analysis and visualisation
+morpho-tools.net,Varsha Pilbrow,biological sciences,zoology,morphometrics,free,open,graphical and command line,analysis and visualisation
+ImageJ,Varsha Pilbrow,biological sciences,zoology,medical image processing,free,open,graphical,analysis and visualisation
+ImageJ,Celeste Coltman,medical and health sciences,human movement and sports science,medical image processing,free,open,graphical,analysis and visualisation
+ImageJ,Andrea Rassell,"language, communication and culture",communication and media studies,medical image processing,free,open,graphical,analysis and visualisation
+TNT,Md. Roysul Islam,biological sciences,zoology,phylogenetics,free,closed,graphical,analysis and visualisation
+ImageJ,Md. Roysul Islam,biological sciences,zoology,medical image processing,free,open,graphical,analysis and visualisation
+Clustal,David Norrish,biological sciences,genetics,protein sequencing,free,closed,graphical and command line,analysis
+HMMER,David Norrish,biological sciences,genetics,protein sequencing,free,closed,command line,analysis
+MEGA,David Norrish,biological sciences,genetics,protein sequencing,free,closed,graphical and command line,analysis
+ImageJ,David Norrish,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation
+Artemis,David Norrish,biological sciences,genetics,genomics,free,closed,graphical,visualisation
+BioEdit,David Norrish,biological sciences,genetics,protein sequencing,free,closed,graphical,visualisation
+IRAF,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation
+Sextractor,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation
+Swarp,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation
+S2PLOT,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,open,command line,visualisation
+TOPCAT,Arna Karick,physical sciences,astronomical and space sciences,astronomy,free,open,graphical,analysis
+ENVI,Camilla Vote,environmental sciences,environmental science and management,geographic image processing,pay,closed,graphical,analysis and visualisation
+Karyostudio,Ruth MacKinnon,biological sciences,genetics,genomics,pay,closed,graphical,analysis and visualisation
+Ikaros,Ruth MacKinnon,biological sciences,genetics,genomics,pay,closed,graphical,visualisation
+VMD,Raffaella Demichelis,engineering,materials engineering,genomics,free,closed,graphical,visualisation
+Jmol,Raffaella Demichelis,engineering,materials engineering,chemistry,free,open,graphical,visualisation
+moldraw,Raffaella Demichelis,engineering,materials engineering,chemistry,free,closed,graphical,visualisation
+GDIS,Raffaella Demichelis,engineering,materials engineering,chemistry,free,open,graphical,visualisation
+FINDSYM,Raffaella Demichelis,engineering,materials engineering,chemistry,free,closed,website,visualisation
+Bioconductor,Tom Kelly,biological sciences,genetics,bioinformatics,free,open,command line,analysis and visualisation
+OpenEye toolkit,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,command line,analysis
+RDKit,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,command line,analysis
+Autodock,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,chemistry,free,open,graphical,visualisation
+Freesurfer,Sally Richmond,psychology and cognitive sciences,psychology,medical image processing,free,open,graphical,analysis and visualisation
+ImageJ,Bernie Wittwer,biological sciences,evolutionary biology,medical image processing,free,open,graphical,analysis and visualisation
+Beast2,Bernie Wittwer,biological sciences,evolutionary biology,phylogenetics,free,open,graphical,analysis and visualisation
+AMOS,Nilupa Udawata,"commerce, management, tourism and services",business and management,structural equation modeling,pay,closed,graphical,analysis and visualisation
+RevMan,Adrienne O'Neil,medical and health sciences,public health and health services,meta-analysis,free,,graphical,analysis
+ImageJ,Kevin Lau,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation
+@Risk,Erandathie Pathiraja,,"""agriculture, land and farm management""",risk analysis,pay,closed,graphical,analysis and visualisation
+ImageJ,Simone Nuessing,medical and health sciences,immunology,medical image processing,free,open,graphical,analysis and visualisation
+FlowJo,Simone Nuessing,medical and health sciences,immunology,flow cytometry,pay,closed,graphical,analysis and visualisation
+AMOS,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,structural equation modeling,pay,closed,graphical,analysis and visualisation
+PsychoPy,Peter Goodin,medical and health sciences,neurosciences,psychology,free,open,command line,analysis and visualisation
+ImageJ,Eric Kusnadi,biological sciences,biochemistry and cell biology,medical image processing,free,open,graphical,analysis and visualisation
+FACSDIVA,Eric Kusnadi,biological sciences,biochemistry and cell biology,flow cytometry,pay,closed,graphical,analysis and visualisation
+GeneGO,Eric Kusnadi,biological sciences,biochemistry and cell biology,genomics,pay,closed,graphical,analysis and visualisation
+AMOS,Victor Sojo,psychology and cognitive sciences,psychology,structural equation modeling,pay,closed,graphical,analysis and visualisation
+XLSTAT-Biomed,Andrew Watt,medical and health sciences,neurosciences,biomedical,pay,closed,graphical,analysis and visualisation
+Galaxy,Na Li,biological sciences,genetics,biomedical,free,open,graphical,workflow management
+ImageJ,Sonja McKeown,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+EpiData,Eleanor Neal,medical and health sciences,public health and health services,epidemiology,free,closed,graphical,analysis and visualisation
+Arlequin,Katie Crawford,biological sciences,genetics,genomics,free,closed,graphical and command line,analysis
+PGD Spider,Katie Crawford,biological sciences,genetics,genomics,free,closed,graphical,analysis
+Samtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis
+BWA,Katie Crawford,biological sciences,genetics,protein sequencing,free,open,command line,analysis
+VCFtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis
+BCFtools,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis
+Genome Analysis Toolkit,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation
+FreeBayes,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis
+Trimmomatic,Katie Crawford,biological sciences,genetics,genomics,free,open,command line,analysis
+PopART,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation
+DnaSP,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical,analysis and visualisation
+adegenet,Katie Crawford,biological sciences,genetics,genomics,free,open,graphical and command line,analysis and visualisation
+caret,Katie Crawford,biological sciences,genetics,genomics,free,open,,
+ImageJ,Anna Lewis,biological sciences,zoology,medical image processing,free,open,graphical,analysis and visualisation
+CDO,Elisabeth Vogel,earth sciences,atmospheric sciences,climate,free,closed,command line,analysis
+Degust,Erika Duan,medical and health sciences,immunology,genomics,free,open,website,visualisation
+AMOS,Maria Ambartsumova,"commerce, management, tourism and services",marketing,structural equation modeling,pay,closed,graphical,analysis and visualisation
+Comprehensive Meta-Analysis,Maria Ambartsumova,"commerce, management, tourism and services",marketing,meta-analysis,pay,closed,graphical,analysis and visualisation
+FSL,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,closed,graphical and command line,analysis and visualisation
+Freesurfer,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+MAGeTBrain,Cassandra Wannan,medical and health sciences,neurosciences,medical image processing,free,open,command line,analysis
+ImageJ,Chenkai Ma,biological sciences,genetics,medical image processing,free,open,graphical,analysis and visualisation
+EViews,Susan Wilson,economics,applied economics,economics,pay,closed,graphical,analysis and visualisation
+Cytoscape,Tiane Ryman,biological sciences,biochemistry and cell biology,genomics,free,open,graphical,visualisation
+itk-SNAP,Tiffany Phillips,biological sciences,genetics,medical image processing,free,closed,graphical,analysis and visualisation
+PsychoPy,Brook Shiferaw,psychology and cognitive sciences,cognitive sciences,psychology,free,open,command line,analysis and visualisation
+ImageJ,Lucas Dent,biological sciences,biochemistry and cell biology,medical image processing,free,open,graphical,analysis and visualisation
+Pajek,Sasha Poquet,education,specialist studies in education,network analysis,free,closed,graphical,analysis and visualisation
+Statnet,Sasha Poquet,education,specialist studies in education,network analysis,free,open,graphical and command line,analysis and visualisation
+igraph,Sasha Poquet,education,specialist studies in education,network analysis,free,open,graphical and command line,analysis and visualisation
+igraph,Xin Li,information and computing sciences,computer software,network analysis,free,open,graphical and command line,analysis and visualisation
+Statnet,Xin Li,information and computing sciences,computer software,network analysis,free,open,graphical and command line,analysis and visualisation
+tm,Xin Li,information and computing sciences,computer software,text mining,free,open,command line,analysis
+NLTK,Ned Letcher,"language, communication and culture",linguistics,computational linguistics,free,open,command line,analysis and visualisation
+spaCy,Ned Letcher,"language, communication and culture",linguistics,computational linguistics,free,open,command line,analysis and visualisation
+ImageJ,Isabel Zbukvic,medical and health sciences,neurosciences,medical image processing,free,open,graphical,analysis and visualisation
+VCFtools,Marion Shadbolt,biological sciences,biochemistry and cell biology,genomics,free,open,command line,analysis
+Bowtie,Marion Shadbolt,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis
+Stacks,Marion Shadbolt,biological sciences,biochemistry and cell biology,genomics,free,closed,command line,analysis and visualisation
+IRAF,Giulia Savorgnan,physical sciences,astronomical and space sciences,astronomy,free,closed,command line,analysis and visualisation
+TOPCAT,Giulia Savorgnan,physical sciences,astronomical and space sciences,astronomy,free,open,graphical,analysis
+SAOImage DS9,Elodie Thilliez,physical sciences,astronomical and space sciences,astronomy,free,closed,graphical,visualisation
+astropy,Themiya Nanayakkara,physical sciences,astronomical and space sciences,astronomy,free,open,command line,analysis
+Samtools,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis
+IGV,Enid Lam,biological sciences,genetics,genomics,free,closed,graphical,visualisation
+bedtools,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation
+BEDOPS,Enid Lam,biological sciences,genetics,biological image processing,free,open,command line,analysis and visualisation
+MEME,Enid Lam,biological sciences,genetics,genomics,free,closed,command line,analysis and visualisation
+MACS,Enid Lam,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation
+Pajek,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,network analysis,free,closed,graphical,analysis and visualisation
+UCINET,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,social network analysis,pay,closed,graphical,analysis and visualisation
+IGV,Jingyi Tang,biological sciences,genetics,genomics,free,closed,graphical,visualisation
+bedtools,Jingyi Tang,biological sciences,genetics,genomics,free,open,command line,analysis and visualisation
+MEME,Jingyi Tang,biological sciences,genetics,genomics,free,closed,command line,analysis and visualisation
+TopHat,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis
+Cufflinks,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis
+Subread,Jingyi Tang,biological sciences,genetics,protein sequencing,free,open,command line,analysis
+Bowtie,Dane Vassiliadis,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis
+Samtools,Dane Vassiliadis,biological sciences,biochemistry and cell biology,genomics,free,open,command line,analysis
+TopHat,Dane Vassiliadis,biological sciences,biochemistry and cell biology,protein sequencing,free,open,command line,analysis
+Bioconductor,Dane Vassiliadis,biological sciences,biochemistry and cell biology,bioinformatics,free,open,command line,analysis and visualisation
+biopypthon,Dane Vassiliadis,biological sciences,biochemistry and cell biology,bioinformatics,free,open,command line,analysis and visualisation

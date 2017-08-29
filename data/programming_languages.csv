@@ -1,4 +1,4 @@
-﻿tool,cost,source code,user interface,usage,website,general_datasci_tools,discipline_datasci_tools,people
+﻿tool,cost,source_code,user_interface,usage,website,general_datasci_tools,discipline_datasci_tools,people
 C / C++,free,,command line,analysis,,,"S2PLOT,RDKit,igraph","Ruth Pearson,Isabell Kiral-Kornek,Nikki Rubinstein,Guoping Hu,Xavier Ho,Andrea Bedini,Felip Marti,Michael Niemann,Ned Letcher,Shampa Shahriyar,Elodie Thilliez,Shian Su"
 Clojure,free,,command line,analysis and visualisation,https://clojure.org/,,,Richard Hosking
 Fortran,free,,command line,analysis,,,,"Ruth Pearson,Sean Walsh,Raffaella Demichelis,Hugo Oliveira,Elodie Thilliez"

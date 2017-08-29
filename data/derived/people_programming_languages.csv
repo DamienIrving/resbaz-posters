@@ -1,12 +1,12 @@
-name,tool,research_division,research_group,cost,source code,user interface,usage
+name,tool,research_division,research_group,cost,source_code,user_interface,usage
 Kate Giljohann,R,biological sciences,ecology,free,open,command line,analysis and visualisation
 Michael Strack,R,biological sciences,ecology,free,open,command line,analysis and visualisation
 Michele Veldsman,MATLAB,medical and health sciences,neurosciences,pay,closed,graphical and command line,analysis and visualisation
 Michele Veldsman,Unix Shell,medical and health sciences,neurosciences,free,,command line,workflow coordination
-Maria Doyle,Python,,"oncology and carcinogenesis,biochemistry and cell biology",free,open,command line,analysis and visualisation
-Maria Doyle,R,,"oncology and carcinogenesis,biochemistry and cell biology",free,open,command line,analysis and visualisation
-Maria Doyle,Perl,,"oncology and carcinogenesis,biochemistry and cell biology",free,,command line,analysis and visualisation
-Maria Doyle,Unix Shell,,"oncology and carcinogenesis,biochemistry and cell biology",free,,command line,workflow coordination
+Maria Doyle,Python,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Maria Doyle,R,biological sciences,biochemistry and cell biology,free,open,command line,analysis and visualisation
+Maria Doyle,Perl,biological sciences,biochemistry and cell biology,free,,command line,analysis and visualisation
+Maria Doyle,Unix Shell,biological sciences,biochemistry and cell biology,free,,command line,workflow coordination
 Amy Loughman,R,psychology and cognitive sciences,psychology,free,open,command line,analysis and visualisation
 Sharon Pattison,R,biological sciences,genetics,free,open,command line,analysis and visualisation
 Bryant Gagliardi,R,biological sciences,zoology,free,open,command line,analysis and visualisation

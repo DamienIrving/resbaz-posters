@@ -1,46 +1,46 @@
-tool,name,research_division,research_group,purpose,cost,source code,user interface,usage
+tool,name,research_division,research_group,purpose,cost,source_code,user_interface,usage
 GraphPad Prism,Rita Busuttil,medical and health sciences,oncology and carcinogenesis,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Kate Giljohann,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
-Excel,Kate Giljohann,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Michael Strack,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Kate Giljohann,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
+Excel,Michael Strack,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
 SPSS,Michele Veldsman,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Marine Chkadua,studies in human society,anthropology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Marine Chkadua,studies in human society,anthropology,general,pay,closed,graphical,analysis and visualisation
 SPSS,Nga Nguyen,environmental sciences,environmental science and management,statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Nga Nguyen,environmental sciences,environmental science and management,qualitative data,pay,closed,graphical,analysis and visualisation
-Excel,Nga Nguyen,environmental sciences,environmental science and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Nga Nguyen,environmental sciences,environmental science and management,general,pay,closed,graphical,analysis and visualisation
 Visio,Nga Nguyen,environmental sciences,environmental science and management,general,pay,closed,graphical,visualisation
 SPSS,Amy Loughman,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
 Stata,Amy Loughman,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Amy Loughman,psychology and cognitive sciences,psychology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Amy Loughman,psychology and cognitive sciences,psychology,general,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Sharon Pattison,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
-Excel,Sharon Pattison,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Sharon Pattison,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
 SPSS,Emily Kothe,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
 ggplot,Saras Windecker,biological sciences,ecology,general,free,open,command line,visualisation
-Excel,Saras Windecker,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Saras Windecker,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Saras Windecker,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
 NCO,Daniel Pazmino,earth sciences,atmospheric sciences,file manipulation,free,closed,command line,analysis
-Excel,Jane Younger,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Jane Younger,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Rosanna van Hespen,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
-Excel,Janavi Rambhatla,medical and health sciences,medical microbiology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Janavi Rambhatla,medical and health sciences,medical microbiology,general,pay,closed,graphical,analysis and visualisation
 SPSS,Sarah Jelbert,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
 SAS/STAT,Sarah Jelbert,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
 SPSS,Jacquie Tran,medical and health sciences,human movement and sports science,statistics,pay,closed,graphical,analysis and visualisation
 SAS/STAT,Jacquie Tran,medical and health sciences,human movement and sports science,statistics,pay,closed,graphical,analysis and visualisation
 Stata,Jacquie Tran,medical and health sciences,human movement and sports science,statistics,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Jacquie Tran,medical and health sciences,human movement and sports science,general,pay,closed,graphical,analysis and visualisation
-Excel,Jacquie Tran,medical and health sciences,human movement and sports science,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Jacquie Tran,medical and health sciences,human movement and sports science,general,pay,closed,graphical,analysis and visualisation
 Access,Jacquie Tran,medical and health sciences,human movement and sports science,databases,pay,closed,graphical,analysis
 cartopy,Damien Irving,earth sciences,atmospheric sciences,spatial data,free,open,command line,visualisation
 xarray,Damien Irving,earth sciences,atmospheric sciences,general,free,open,command line,analysis and visualisation
 NCO,Damien Irving,earth sciences,atmospheric sciences,file manipulation,free,closed,command line,analysis
 Diogenes,Fiona Tweedie,history and archaeology,historical studies,qualitative data,free,open,graphical,analysis
 ArcGIS,Amy Whitehead,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
-Excel,Amy Whitehead,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Amy Whitehead,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
 QGIS,Amy Whitehead,biological sciences,ecology,spatial data,free,open,graphical,visualisation
 GraphPad Prism,Angelina Duan,medical and health sciences,ophthalmology and optometry,general,pay,closed,graphical,analysis and visualisation
-Excel,Angelina Duan,medical and health sciences,ophthalmology and optometry,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Yu Sun,medical and health sciences,oncology and carcinogenesis,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Alwyn Davidson,studies in human society,human geography,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Angelina Duan,medical and health sciences,ophthalmology and optometry,general,pay,closed,graphical,analysis and visualisation
+Excel,Yu Sun,medical and health sciences,oncology and carcinogenesis,general,pay,closed,graphical,analysis and visualisation
+Excel,Alwyn Davidson,studies in human society,human geography,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Alwyn Davidson,studies in human society,human geography,spatial data,pay,closed,graphical,visualisation
 QGIS,Alwyn Davidson,studies in human society,human geography,spatial data,free,open,graphical,visualisation
 TileMill,Alwyn Davidson,studies in human society,human geography,spatial data,free,open,graphical,visualisation
@@ -48,14 +48,14 @@ CARTO,Alwyn Davidson,studies in human society,human geography,spatial data,free 
 Tableau,Alwyn Davidson,studies in human society,human geography,general,pay,closed,graphical,visualisation
 Gephi,Alwyn Davidson,studies in human society,human geography,general,free,open,graphical,visualisation
 SPSS,Jason Lodge,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Jason Lodge,psychology and cognitive sciences,psychology,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Elise Gould,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Jason Lodge,psychology and cognitive sciences,psychology,general,pay,closed,graphical,analysis and visualisation
+Excel,Elise Gould,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
 Netica,Elise Gould,biological sciences,ecology,statistical modelling,free,closed,graphical,analysis and visualisation
-Excel,Areej Alsheikh-Hussain,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Areej Alsheikh-Hussain,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Finley Roberts,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
-Excel,Rupan Preet Kaur,engineering,electrical and electronic engineering,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Rupan Preet Kaur,engineering,electrical and electronic engineering,general,pay,closed,graphical,analysis and visualisation
 Mathematica,Melanie Roberts,mathematical sciences,applied mathematics,general,pay,,"graphical,command line",analysis and visualisation
-Excel,Melanie Roberts,mathematical sciences,applied mathematics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Melanie Roberts,mathematical sciences,applied mathematics,general,pay,closed,graphical,analysis and visualisation
 QGIS,Melanie Roberts,mathematical sciences,applied mathematics,spatial data,free,open,graphical,visualisation
 SAGA,Melanie Roberts,mathematical sciences,applied mathematics,spatial data,free,open,graphical,visualisation
 Google Earth,Melanie Roberts,mathematical sciences,applied mathematics,spatial data,free,closed,graphical,visualisation
@@ -63,51 +63,51 @@ ArcGIS,Matthew Malishev,biological sciences,zoology,spatial data,pay,closed,grap
 netlogo,Matthew Malishev,biological sciences,zoology,statistical modelling,free,closed,graphical,analysis and visualisation
 SPSS,Cindy Chew,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Cindy Chew,psychology and cognitive sciences,psychology,general,pay,closed,graphical,analysis and visualisation
-Excel,Cindy Chew,psychology and cognitive sciences,psychology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Cindy Chew,psychology and cognitive sciences,psychology,general,pay,closed,graphical,analysis and visualisation
 Latent GOLD,Cindy Chew,psychology and cognitive sciences,psychology,statistical modelling,pay,closed,graphical,analysis and visualisation
 SPSS,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,statistics,pay,closed,graphical,analysis and visualisation
 Stata,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,statistics,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,general,pay,closed,graphical,analysis and visualisation
-Excel,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,general,pay,closed,graphical,analysis and visualisation
 Access,Srujana Sahebjada,medical and health sciences,ophthalmology and optometry,databases,pay,closed,graphical,analysis
 SPSS,Catarina Kordsachia,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
 NCO,Sean Walsh,environmental sciences,environmental science and management,file manipulation,free,closed,command line,analysis
-Excel,Sean Walsh,environmental sciences,environmental science and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Sean Walsh,environmental sciences,environmental science and management,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Sean Walsh,environmental sciences,environmental science and management,spatial data,pay,closed,graphical,visualisation
 Google Earth,Sean Walsh,environmental sciences,environmental science and management,spatial data,free,closed,graphical,visualisation
-Excel,Scott Kolbe,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Scott Kolbe,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 Stata,David Marks,economics,economic theory,statistics,pay,closed,graphical,analysis and visualisation
-Excel,David Marks,economics,economic theory,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,David Marks,economics,economic theory,general,pay,closed,graphical,analysis and visualisation
 Origin,Guoping Hu,engineering,chemical engineering,general,pay,closed,"graphical,command line",analysis and visualisation
 Visio,Guoping Hu,engineering,chemical engineering,general,pay,closed,graphical,visualisation
 SPSS,Elham Shoorcheh,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
 SPSS,Katherine Drummond,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Katherine Drummond,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
-Excel,Katherine Drummond,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Katherine Drummond,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 SPSS,Bonnie Alexander,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Bonnie Alexander,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Bonnie Alexander,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 D3.js,Xavier Ho,information and computing sciences,other information and computing sciences,general,free,open,command line,visualisation
-Minitab,Sarah Webber,information and computing sciences,other information and computing sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Sarah Webber,information and computing sciences,other information and computing sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
-Google Sheets,Sarah Webber,information and computing sciences,other information and computing sciences,spreadsheets,free,closed,graphical,analysis and visualisation
+Minitab,Sarah Webber,information and computing sciences,other information and computing sciences,general,pay,closed,graphical,analysis and visualisation
+Excel,Sarah Webber,information and computing sciences,other information and computing sciences,general,pay,closed,graphical,analysis and visualisation
+Google Sheets,Sarah Webber,information and computing sciences,other information and computing sciences,general,free,closed,graphical,analysis and visualisation
 SPSS,Vince Polito,psychology and cognitive sciences,cognitive sciences,statistics,pay,closed,graphical,analysis and visualisation
 SPSS,Mark Dean,studies in human society,policy and administration,statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Mark Dean,studies in human society,policy and administration,qualitative data,pay,closed,graphical,analysis and visualisation
 NVivo,Cuong Hoang,studies in human society,sociology,qualitative data,pay,closed,graphical,analysis and visualisation
 SPSS,Binh Ta,education,other education,statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Binh Ta,education,other education,qualitative data,pay,closed,graphical,analysis and visualisation
-Excel,Binh Ta,education,other education,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Binh Ta,education,other education,general,pay,closed,graphical,analysis and visualisation
 SPSS,Joanna Tai,education,curriculum and pedagogy,statistics,pay,closed,graphical,analysis and visualisation
 Stata,Joanna Tai,education,curriculum and pedagogy,statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Joanna Tai,education,curriculum and pedagogy,qualitative data,pay,closed,graphical,analysis and visualisation
-Excel,Joanna Tai,education,curriculum and pedagogy,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Joanna Tai,education,curriculum and pedagogy,general,pay,closed,graphical,analysis and visualisation
 netlogo,Fabian Held,mathematical sciences,statistics,statistical modelling,free,closed,graphical,analysis and visualisation
 Gephi,Fabian Held,mathematical sciences,statistics,general,free,open,graphical,visualisation
 NVivo,Kathy Radoslovich,medical and health sciences,public health and health services,qualitative data,pay,closed,graphical,analysis and visualisation
 Leximancer,Yolande McNicoll,studies in human society,political science,qualitative data,pay,closed,graphical,analysis and visualisation
-Excel,Alister Thorpe,medical and health sciences,public health and health services,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Alister Thorpe,medical and health sciences,public health and health services,general,pay,closed,graphical,analysis and visualisation
 SigmaStat,Katherine Langley,chemical sciences,medicinal and biomolecular chemistry,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Katherine Langley,chemical sciences,medicinal and biomolecular chemistry,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Katherine Langley,chemical sciences,medicinal and biomolecular chemistry,general,pay,closed,graphical,analysis and visualisation
 NCO,Mitchell Black,earth sciences,atmospheric sciences,file manipulation,free,closed,command line,analysis
 SPSS,Lizzy Lowe,biological sciences,ecology,statistics,pay,closed,graphical,analysis and visualisation
 JMP,Lizzy Lowe,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
@@ -121,19 +121,19 @@ GraphPad Prism,Sally Yunsun Kim,medical and health sciences,pharmacology and pha
 Igor Pro,Sally Yunsun Kim,medical and health sciences,pharmacology and pharmaceutical sciences,general,pay,closed,"graphical,command line",analysis and visualisation
 GraphPad Prism,Gina Kusuma,biological sciences,biochemistry and cell biology,general,pay,closed,graphical,analysis and visualisation
 Mathematica,Varsha Pilbrow,biological sciences,zoology,general,pay,,"graphical,command line",analysis and visualisation
-Excel,Celeste Coltman,medical and health sciences,human movement and sports science,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Md. Roysul Islam,biological sciences,zoology,spreadsheets,pay,closed,graphical,analysis and visualisation
-Minitab,Maria Carrillo-Rodriguez,engineering,food sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Maria Carrillo-Rodriguez,engineering,food sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,David Norrish,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Celeste Coltman,medical and health sciences,human movement and sports science,general,pay,closed,graphical,analysis and visualisation
+Excel,Md. Roysul Islam,biological sciences,zoology,general,pay,closed,graphical,analysis and visualisation
+Minitab,Maria Carrillo-Rodriguez,engineering,food sciences,general,pay,closed,graphical,analysis and visualisation
+Excel,Maria Carrillo-Rodriguez,engineering,food sciences,general,pay,closed,graphical,analysis and visualisation
+Excel,David Norrish,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
 IDL,Arna Karick,physical sciences,astronomical and space sciences,spatial data,pay,closed,command line,analysis and visualisation
 SM,Arna Karick,physical sciences,astronomical and space sciences,general,pay,closed,command line,visualisation
 IDL,Camilla Vote,environmental sciences,environmental science and management,spatial data,pay,closed,command line,analysis and visualisation
-Excel,Camilla Vote,environmental sciences,environmental science and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Camilla Vote,environmental sciences,environmental science and management,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Camilla Vote,environmental sciences,environmental science and management,spatial data,pay,closed,graphical,visualisation
 Google Earth,Camilla Vote,environmental sciences,environmental science and management,spatial data,free,closed,graphical,visualisation
 ArcGIS,Vicki Thomson,biological sciences,evolutionary biology,spatial data,pay,closed,graphical,visualisation
-Excel,Ruth MacKinnon,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Ruth MacKinnon,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
 ggplot,Michael Bane,medical and health sciences,human movement and sports science,general,free,open,command line,visualisation
 dplyr,Michael Bane,medical and health sciences,human movement and sports science,general,free,open,command line,analysis
 Shiny,Michael Bane,medical and health sciences,human movement and sports science,general,free,open,command line,visualisation
@@ -141,88 +141,88 @@ Plotly,Michael Bane,medical and health sciences,human movement and sports scienc
 Gnumetric,Raffaella Demichelis,engineering,materials engineering,general,free,open,graphical,analysis and visualisation
 gnuplot,Raffaella Demichelis,engineering,materials engineering,general,free,open,command line,visualisation
 Shiny,Garth Tarr,mathematical sciences,statistics,general,free,open,command line,visualisation
-Google Sheets,Garth Tarr,mathematical sciences,statistics,spreadsheets,free,closed,graphical,analysis and visualisation
-Excel,Scott Gleason,engineering,materials engineering,spreadsheets,pay,closed,graphical,analysis and visualisation
+Google Sheets,Garth Tarr,mathematical sciences,statistics,general,free,closed,graphical,analysis and visualisation
+Excel,Scott Gleason,engineering,materials engineering,general,pay,closed,graphical,analysis and visualisation
 Shiny,Sonia Hugh,environmental sciences,environmental science and management,general,free,open,command line,visualisation
 ArcGIS,Sonia Hugh,environmental sciences,environmental science and management,spatial data,pay,closed,graphical,visualisation
 matplotlib,Alex Norton,earth sciences,atmospheric sciences,general,free,open,command line,visualisation
 Mathematica,Tom Kelly,biological sciences,genetics,general,pay,,"graphical,command line",analysis and visualisation
 SciPy,Thomas Coudrat,chemical sciences,theoretical and computational chemistry,statistics,free,open,command line,analysis
 GraphPad Prism,Simon McKenzie,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
-Excel,Simon McKenzie,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Simon McKenzie,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 JMP,Bernie Wittwer,biological sciences,evolutionary biology,general,pay,closed,graphical,analysis and visualisation
 SPSS,Nilupa Udawata,"commerce, management, tourism and services",business and management,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Nilupa Udawata,"commerce, management, tourism and services",business and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Nilupa Udawata,"commerce, management, tourism and services",business and management,general,pay,closed,graphical,analysis and visualisation
 NVivo,Nilupa Udawata,"commerce, management, tourism and services",business and management,qualitative data,pay,closed,graphical,analysis and visualisation
 Visio,Nilupa Udawata,"commerce, management, tourism and services",business and management,general,pay,closed,graphical,visualisation
 Stata,Adrienne O'Neil,medical and health sciences,public health and health services,statistics,pay,closed,graphical,analysis and visualisation
 SPSS,Adrienne O'Neil,medical and health sciences,public health and health services,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Kevin Lau,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Kevin Lau,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Kevin Lau,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
-Excel,Erandathie Pathiraja,,"""agriculture, land and farm management""",spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Erandathie Pathiraja,,"""agriculture, land and farm management""",general,pay,closed,graphical,analysis and visualisation
 SPSS,Erandathie Pathiraja,,"""agriculture, land and farm management""",statistics,pay,closed,graphical,analysis and visualisation
-Minitab,Erandathie Pathiraja,,"""agriculture, land and farm management""",spreadsheets,pay,closed,graphical,analysis and visualisation
+Minitab,Erandathie Pathiraja,,"""agriculture, land and farm management""",general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Erandathie Pathiraja,,"""agriculture, land and farm management""",spatial data,pay,closed,graphical,visualisation
-Excel,Simone Nuessing,medical and health sciences,immunology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Simone Nuessing,medical and health sciences,immunology,general,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Simone Nuessing,medical and health sciences,immunology,general,pay,closed,graphical,analysis and visualisation
 SPSS,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,qualitative data,pay,closed,graphical,analysis and visualisation
 Visio,Munyar Nyadzayo,"commerce, management, tourism and services",marketing,general,pay,closed,graphical,visualisation
-Minitab,Naomi Davis,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Minitab,Naomi Davis,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
 PRIMER-E,Naomi Davis,biological sciences,ecology,statistics,pay,closed,graphical,analysis and visualisation
 SigmaStat,Naomi Davis,biological sciences,ecology,statistics,pay,closed,graphical,analysis and visualisation
 Stata,Laura Conway,medical and health sciences,clinical sciences,statistics,pay,closed,graphical,analysis and visualisation
-Minitab,Laura Conway,medical and health sciences,clinical sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Minitab,Laura Conway,medical and health sciences,clinical sciences,general,pay,closed,graphical,analysis and visualisation
 SPSS,Peter Goodin,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
 PRIMER-E,Peter Goodin,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
 SciPy,Peter Goodin,medical and health sciences,neurosciences,statistics,free,open,command line,analysis
 matplotlib,Peter Goodin,medical and health sciences,neurosciences,general,free,open,command line,visualisation
-GraphPad Prism,Eric Kusnadi,,"oncology and carcinogenesis,biochemistry and cell biology",general,pay,closed,graphical,analysis and visualisation
-Excel,Holly Sitters,biological sciences,ecology,spreadsheets,pay,closed,graphical,analysis and visualisation
+GraphPad Prism,Eric Kusnadi,biological sciences,biochemistry and cell biology,general,pay,closed,graphical,analysis and visualisation
+Excel,Holly Sitters,biological sciences,ecology,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Holly Sitters,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
 ggplot,Holly Sitters,biological sciences,ecology,general,free,open,command line,visualisation
 dplyr,Holly Sitters,biological sciences,ecology,general,free,open,command line,analysis
 SPSS,Victor Sojo,psychology and cognitive sciences,psychology,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Victor Sojo,psychology and cognitive sciences,psychology,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Andrew Watt,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Victor Sojo,psychology and cognitive sciences,psychology,general,pay,closed,graphical,analysis and visualisation
+Excel,Andrew Watt,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 SPSS,Andrew Watt,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Andrew Watt,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
-Excel,Na Li,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Na Li,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
 GraphPad Prism,Na Li,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
 QGIS,Andy Krause,economics,applied economics,spatial data,free,open,graphical,visualisation
 Shiny,Andy Krause,economics,applied economics,general,free,open,command line,visualisation
-Excel,Vejune Zemaityte,,"""film, television and digital media""",spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Vejune Zemaityte,,"""film, television and digital media""",general,pay,closed,graphical,analysis and visualisation
 SPSS,Vejune Zemaityte,,"""film, television and digital media""",statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Vejune Zemaityte,,"""film, television and digital media""",qualitative data,pay,closed,graphical,analysis and visualisation
 Navicat,Vejune Zemaityte,,"""film, television and digital media""",databases,pay,closed,graphical,analysis
 SQL Maestro for MySQL,Vejune Zemaityte,,"""film, television and digital media""",databases,pay,closed,graphical,analysis
-Excel,Liam Johnson,biological sciences,physiology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Liam Johnson,biological sciences,physiology,general,pay,closed,graphical,analysis and visualisation
 SPSS,Liam Johnson,biological sciences,physiology,statistics,pay,closed,graphical,analysis and visualisation
 SPSS,Sarah Beebe,biological sciences,zoology,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Sarah Beebe,biological sciences,zoology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Sarah Beebe,biological sciences,zoology,general,pay,closed,graphical,analysis and visualisation
 NVivo,Sarah Beebe,biological sciences,zoology,qualitative data,pay,closed,graphical,analysis and visualisation
 ArcGIS,Emily Johnston Flies,biological sciences,ecology,spatial data,pay,closed,graphical,visualisation
 GraphPad Prism,Sonja McKeown,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
-Excel,Sonja McKeown,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Terri Jackson,medical and health sciences,public health and health services,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Sonja McKeown,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
+Excel,Terri Jackson,medical and health sciences,public health and health services,general,pay,closed,graphical,analysis and visualisation
 SPSS,Terri Jackson,medical and health sciences,public health and health services,statistics,pay,closed,graphical,analysis and visualisation
 SAS/STAT,Terri Jackson,medical and health sciences,public health and health services,statistics,pay,closed,graphical,analysis and visualisation
 Stata,Terri Jackson,medical and health sciences,public health and health services,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Eleanor Neal,medical and health sciences,public health and health services,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Eleanor Neal,medical and health sciences,public health and health services,general,pay,closed,graphical,analysis and visualisation
 Stata,Eleanor Neal,medical and health sciences,public health and health services,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Katie Crawford,biological sciences,genetics,spreadsheets,pay,closed,graphical,analysis and visualisation
-Excel,Anna Lewis,biological sciences,zoology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Katie Crawford,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
+Excel,Anna Lewis,biological sciences,zoology,general,pay,closed,graphical,analysis and visualisation
 SAS/STAT,Anna Lewis,biological sciences,zoology,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Campbell Pryor,psychology and cognitive sciences,psychology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Campbell Pryor,psychology and cognitive sciences,psychology,general,pay,closed,graphical,analysis and visualisation
 ggplot,Campbell Pryor,psychology and cognitive sciences,psychology,general,free,open,command line,visualisation
 ggplot,Elisabeth Vogel,earth sciences,atmospheric sciences,general,free,open,command line,visualisation
 dplyr,Elisabeth Vogel,earth sciences,atmospheric sciences,general,free,open,command line,analysis
 ArcGIS,Elisabeth Vogel,earth sciences,atmospheric sciences,spatial data,pay,closed,graphical,visualisation
 NCO,Elisabeth Vogel,earth sciences,atmospheric sciences,file manipulation,free,closed,command line,analysis
 SPSS,Eloise Cameron,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Eloise Cameron,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Eloise Cameron,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 ggplot,Erika Duan,medical and health sciences,immunology,general,free,open,command line,visualisation
-Excel,Gede PW Rajeg,"language, communication and culture",linguistics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Gede PW Rajeg,"language, communication and culture",linguistics,general,pay,closed,graphical,analysis and visualisation
 SPSS,Maria Ambartsumova,"commerce, management, tourism and services",marketing,statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Maria Ambartsumova,"commerce, management, tourism and services",marketing,qualitative data,pay,closed,graphical,analysis and visualisation
 Leximancer,Maria Ambartsumova,"commerce, management, tourism and services",marketing,qualitative data,pay,closed,graphical,analysis and visualisation
@@ -233,25 +233,25 @@ Stata,Chenkai Ma,biological sciences,genetics,statistics,pay,closed,graphical,an
 GraphPad Prism,Chenkai Ma,biological sciences,genetics,general,pay,closed,graphical,analysis and visualisation
 Shiny,Shakila Khan Rumi,studies in human society,criminology,general,free,open,command line,visualisation
 Visio,Shakila Khan Rumi,studies in human society,criminology,general,pay,closed,graphical,visualisation
-Excel,Susan Wilson,economics,applied economics,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Susan Wilson,economics,applied economics,general,pay,closed,graphical,analysis and visualisation
 Access,Jane Cawson,environmental sciences,environmental science and management,databases,pay,closed,graphical,analysis
 Google Earth,Jane Cawson,environmental sciences,environmental science and management,spatial data,free,closed,graphical,visualisation
 ArcGIS,Jane Cawson,environmental sciences,environmental science and management,spatial data,pay,closed,graphical,visualisation
-Excel,Jane Cawson,environmental sciences,environmental science and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Jane Cawson,environmental sciences,environmental science and management,general,pay,closed,graphical,analysis and visualisation
 MySQL Workbench,Steve Petrie,economics,applied economics,databases,free,open,graphical,analysis
 NVIDIA DIGITS,Steve Petrie,economics,applied economics,machine learning,free,closed,graphical,analysis
-Excel,Miyuki Watanabe,medical and health sciences,clinical sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Miyuki Watanabe,medical and health sciences,clinical sciences,general,pay,closed,graphical,analysis and visualisation
 SPSS,Miyuki Watanabe,medical and health sciences,clinical sciences,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Nathaniel Swain,medical and health sciences,clinical sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Nathaniel Swain,medical and health sciences,clinical sciences,general,pay,closed,graphical,analysis and visualisation
 SPSS,Nathaniel Swain,medical and health sciences,clinical sciences,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Lucas Dent,biological sciences,biochemistry and cell biology,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Lucas Dent,biological sciences,biochemistry and cell biology,general,pay,closed,graphical,analysis and visualisation
 ArcGIS,Bonnie Wintle,environmental sciences,environmental science and management,spatial data,pay,closed,graphical,visualisation
 Netica,Bonnie Wintle,environmental sciences,environmental science and management,statistical modelling,free,closed,graphical,analysis and visualisation
 NVivo,Tony Carden,studies in human society,policy and administration,qualitative data,pay,closed,graphical,analysis and visualisation
 Leximancer,Tony Carden,studies in human society,policy and administration,qualitative data,pay,closed,graphical,analysis and visualisation
-Excel,Sasha Poquet,education,specialist studies in education,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Sasha Poquet,education,specialist studies in education,general,pay,closed,graphical,analysis and visualisation
 Gephi,Sasha Poquet,education,specialist studies in education,general,free,open,graphical,visualisation
-Excel,Promit Kumar Roy,engineering,electrical and electronic engineering,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Promit Kumar Roy,engineering,electrical and electronic engineering,general,pay,closed,graphical,analysis and visualisation
 Tableau,Michael Niemann,"language, communication and culture",linguistics,general,pay,closed,graphical,visualisation
 ggplot,Xin Li,information and computing sciences,computer software,general,free,open,command line,visualisation
 jQuery,Ned Letcher,"language, communication and culture",linguistics,web,free,open,command line,visualisation
@@ -260,27 +260,27 @@ matplotlib,Ned Letcher,"language, communication and culture",linguistics,general
 D3.js,Errol Llyod,medical and health sciences,neurosciences,general,free,open,command line,visualisation
 GraphPad Prism,Isabel Zbukvic,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 SPSS,Isabel Zbukvic,medical and health sciences,neurosciences,statistics,pay,closed,graphical,analysis and visualisation
-Excel,Isabel Zbukvic,medical and health sciences,neurosciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Isabel Zbukvic,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 Visio,Shampa Shahriyar,information and computing sciences,computer software,general,pay,closed,graphical,visualisation
 Gephi,Thanh-Binh Nguyen,information and computing sciences,information systems,general,free,open,graphical,visualisation
 NCO,Hugo Oliveira,earth sciences,oceanography,file manipulation,free,closed,command line,analysis
 IDL,Elodie Thilliez,physical sciences,astronomical and space sciences,spatial data,pay,closed,command line,analysis and visualisation
-Excel,Elodie Thilliez,physical sciences,astronomical and space sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Elodie Thilliez,physical sciences,astronomical and space sciences,general,pay,closed,graphical,analysis and visualisation
 gnuplot,Elodie Thilliez,physical sciences,astronomical and space sciences,general,free,open,command line,visualisation
 GraphPad Prism,Dulini Mendis,medical and health sciences,neurosciences,general,pay,closed,graphical,analysis and visualisation
 jQuery,Dulini Mendis,medical and health sciences,neurosciences,web,free,open,command line,visualisation
 Weka,Dulini Mendis,medical and health sciences,neurosciences,machine learning,free,open,command line,analysis
 matplotlib,Themiya Nanayakkara,physical sciences,astronomical and space sciences,general,free,open,command line,visualisation
-pandas,Themiya Nanayakkara,physical sciences,astronomical and space sciences,spreadsheets,free,open,command line,analysis and visualisation
+pandas,Themiya Nanayakkara,physical sciences,astronomical and space sciences,general,free,open,command line,analysis and visualisation
 numpy,Themiya Nanayakkara,physical sciences,astronomical and space sciences,general,free,open,command line,analysis
-Excel,Andre Stephan,built environment and design,building,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Andre Stephan,built environment and design,building,general,pay,closed,graphical,analysis and visualisation
 numpy,Andre Stephan,built environment and design,building,general,free,open,command line,analysis
 Stata,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,qualitative data,pay,closed,graphical,analysis and visualisation
 QGIS,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,spatial data,free,open,graphical,visualisation
-Excel,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,spreadsheets,pay,closed,graphical,analysis and visualisation
-pandas,Dane Vassiliadis,biological sciences,biochemistry and cell biology,spreadsheets,free,open,command line,analysis and visualisation
+Excel,Caitlin Pfeiffer,agricultural and veterinary sciences,veterinary sciences,general,pay,closed,graphical,analysis and visualisation
+pandas,Dane Vassiliadis,biological sciences,biochemistry and cell biology,general,free,open,command line,analysis and visualisation
 numpy,Dane Vassiliadis,biological sciences,biochemistry and cell biology,general,free,open,command line,analysis
 SPSS,Isra Sarfraz,"commerce, management, tourism and services",business and management,statistics,pay,closed,graphical,analysis and visualisation
 NVivo,Isra Sarfraz,"commerce, management, tourism and services",business and management,qualitative data,pay,closed,graphical,analysis and visualisation
-Excel,Isra Sarfraz,"commerce, management, tourism and services",business and management,spreadsheets,pay,closed,graphical,analysis and visualisation
+Excel,Isra Sarfraz,"commerce, management, tourism and services",business and management,general,pay,closed,graphical,analysis and visualisation

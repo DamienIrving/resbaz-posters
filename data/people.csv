@@ -1,9 +1,9 @@
-﻿name,event,career stage,self-defined field,research_group,operating system,programming_languages,general_datasci_tools,discipline_datasci_tools,support_tools
+﻿name,event,career_stage,self_defined_field,research_group,operating_system,programming_languages,general_datasci_tools,discipline_datasci_tools,support_tools
 Rita Busuttil,Melbourne 2015,postdoc,cancer genomics,oncology and carcinogenesis,,,GraphPad Prism,"Partek,IGV,ImageJ","Word,Dropbox,PowerPoint"
 Kate Giljohann,Melbourne 2015,phd,ecology,ecology,windows,R,"ArcGIS,Excel",,"RStudio,Word,Dropbox,PowerPoint,Scribus,Mendeley,Papers,Inkscape,GIMP"
 Michael Strack,Melbourne 2015,phd,microbial ecology,ecology,windows,R,Excel,GeneMapper,"Word,OneDrive,PowerPoint,Prezi,Mendeley,GIMP,OneNote,Gantt project,Asana"
 Michele Veldsman,Melbourne 2015,postdoc,neuroscience,neurosciences,"windows,osx,linux","MATLAB,Unix Shell",SPSS,"SPM,CONN,REST,BrainNet,MRIcron,FSL,MRIcroGL,MRtrix3","OpenOffice Writer,Dropbox,PowerPoint,Mendeley,Illustrator,Photoshop,GIMP,Evernote"
-Maria Doyle,Melbourne 2015,mid-career,bioinformatics cancer research,"oncology and carcinogenesis,biochemistry and cell biology",linux,"Python,R,Perl,Unix Shell",,,"Word,Dropbox,PowerPoint,EndNote,Vim,Sublime,Git"
+Maria Doyle,Melbourne 2015,mid-career,bioinformatics cancer research,biochemistry and cell biology,linux,"Python,R,Perl,Unix Shell",,,"Word,Dropbox,PowerPoint,EndNote,Vim,Sublime,Git"
 Marine Chkadua,Melbourne 2015,phd,physical anthropology,anthropology,osx,,Excel,,"Word,Dropbox,PowerPoint,EndNote"
 Nga Nguyen,Melbourne 2015,phd,environmental management,environmental science and management,windows,,"SPSS,NVivo,Excel,Visio",,"Word,Dropbox,Google Drive,PowerPoint,Prezi,EndNote,Paint.NET"
 Amy Loughman,Melbourne 2015,phd,neuropsychology,psychology,osx,R,"SPSS,Stata,Excel",,"Word,Scrivener,PowerPoint,Prezi,EndNote,Papers"
@@ -106,7 +106,7 @@ Munyar Nyadzayo,Melbourne 2016,early-career,marketing,marketing,windows,R,"SPSS,
 Naomi Davis,Melbourne 2016,early-career,ecologist,ecology,windows,,"Minitab,PRIMER-E,SigmaStat",,"EndNote,Dropbox,PowerPoint,Word,Photoshop"
 Laura Conway,Melbourne 2016,phd,speech pathology and psychology,clinical sciences,,,"Stata,Minitab",,"Scrivener,Observer XT"
 Peter Goodin,Melbourne 2016,research assistant,cognitive neuroscience,neurosciences,"linux,windows","Python,MATLAB,Unix Shell","SPSS,PRIMER-E,SciPy,matplotlib",PsychoPy,"Dropbox,GIMP"
-Eric Kusnadi,Melbourne 2016,phd,cancer biology,"oncology and carcinogenesis,biochemistry and cell biology",,,GraphPad Prism,"ImageJ,FACSDIVA,GeneGO",
+Eric Kusnadi,Melbourne 2016,phd,cancer biology,biochemistry and cell biology,,,GraphPad Prism,"ImageJ,FACSDIVA,GeneGO",
 Holly Sitters,Melbourne 2016,postdoc,ecology,ecology,,R,"Excel,ArcGIS,ggplot,dplyr",,"RStudio,R Markdown,InDesign,Word,LaTeX,Mendeley,knitr"
 Victor Sojo,Melbourne 2016,postdoc,psychology,psychology,windows,,"SPSS,Excel",AMOS,"Qualtrics,Inquisit,Word,EndNote,PowerPoint"
 Andrew Watt,Melbourne 2016,postdoc,neuroscience,neurosciences,,,"Excel,SPSS,GraphPad Prism",XLSTAT-Biomed,

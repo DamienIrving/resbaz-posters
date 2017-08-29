@@ -1,4 +1,4 @@
-﻿tool,discipline,cost,source code,user interface,usage,programming_languages,general_datasci_tools,Website,people
+﻿tool,discipline,cost,source_code,user_interface,usage,programming_languages,general_datasci_tools,website,people
 ,,,,,,,,,
 ANTs,medical image processing,free,open,graphical,analysis and visualisation,,,http://stnava.github.io/ANTs/,Bonnie Alexander
 Arlequin,genomics,free,closed,graphical and command line,analysis,"Unix Shell,R",,http://cmpg.unibe.ch/software/arlequin35/,"Jane Younger,Katie Crawford"
