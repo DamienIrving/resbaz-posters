@@ -22,7 +22,7 @@ Relevant literature:
 
 ## Methodology
 
-The ResBaz poster sessions are explained at [this post](http://melbourne.resbaz.edu.au/post/108054124634/the-resbaz-poster-session-with-a-difference).
+The ResBaz poster sessions are explained at [this post](http://melbourne.resbaz.edu.au/post/108054124634/the-resbaz-poster-session-with-a-difference). Across the Melbourne 2015-2017 and Brisbane 2016-2017 events there are about 550 posters to analyse. 
 
 Research disciplines were taken from the [Australian and New Zealand Standard Research Classification (ANZSRC), 2008](http://www.abs.gov.au/ausstats/abs@.nsf/Products/6BB427AB9696C225CA2574180004463E?opendocument).
 
