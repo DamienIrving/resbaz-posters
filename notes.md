@@ -91,7 +91,7 @@ Scope of analysis:
 | | neurosciences (14) | MATLAB; Excel, SPSS;  |
 | | public health and health services (6) | non-coders; Excel, SPSS, Stata |
 | psychology and cognitive sciences | | |
-| | psychology (10) | R, non-coders; Excel, SPSS |
+| | psychology (10) | R; Excel, SPSS |
 | engineering (10) | | MATLAB |                               
 | information and computing sciences (8) | | Javascript; Git |            
 | studies in human society (7) | | non-coders |                      
