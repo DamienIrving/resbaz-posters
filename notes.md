@@ -33,22 +33,6 @@ Scope of analysis:
 * Out: Software for physical hardware (e.g. microscopes, scanners)
 * Out: Online platforms for networking (e.g. twitter, LinkedIn, ResearchGate) or personal websites/blogging (e.g. wordpress, blogger)
 
-Things to look at:
-* The full list of tools
-* The relative popularity of the tools
-  * Split into separate research disciplines
-* Tools that cross discipline boundaries
-
-Results to produce:
-* Tool list
-* Total usage plot:
-  * For each tool category produce a bar chart with bars broken into colors for each broad discipline
-  * Produce an alternative plot scaled by number of people from each discipline (e.g. the bar chunks would represent the number of users per hypothetical sample of 100 researchers - in other words, had we sampled evenly this is what the results would look like)
-  * Perhaps some sub-disciplines are so large and/or distinct that they could form their own group on the plot? (e.g. atmospheric scientists and geologists are very different when it comes to digital tool usage and probably shouldn't be grouped as earth sciences)
-* Discipline usage plot:
-  * Same as total usage plot but for each broad discipline (i.e. bars broken down by sub-discipline)
-  * These plots could be used to inform the total usage plot (i.e. in determining whether some broad disciplines need to be broken into categories)
-
 
 ## Results
 
@@ -90,7 +74,7 @@ Results to produce:
   - PowerPoint
   - Commmunity hasn't settled on favourite mind/concept mapping
   - Evernote popular for note taking
-  - Dropbox and Google Drive most popular for file storage / sharing
+  - Dropbox and Google Drive most popular for file storage / sharing (low take-up of academic alternatives)
   
 
 #### Discipline profiles
@@ -100,31 +84,32 @@ Results to produce:
 | Discipline | Group | Common tools |
 | :--- | :--- | :--- |
 | biological sciences |  |  |
-| | genetics / biochemistry and cell biology (23) | R & Python; Lots of open, command line discipline tools |
+| | genetics (14) | R; Lots of open, discipline specific tools |
+| | biochemistry and cell biology (9) | Python, R |
 | | ecology (10) | R; Excel, ArcGIS; GIMP |
 | | zoology (7) | R |
 | medical and health sciences | | |
 | | neurosciences (14) | MATLAB; Excel, SPSS;  |
 | | public health and health services (6) | non-coders; Excel, SPSS, Stata |
 | psychology and cognitive sciences | | |
-| | psychology (10) | R, non-coders; Excel, SPSS |
+| | psychology (10) | R; Excel, SPSS |
 | engineering (10) | | MATLAB |                               
-| information and computing sciences | | |            
-| studies in human society | | |                      
+| information and computing sciences (8) | | Javascript; Git |            
+| studies in human society (7) | | non-coders |                      
 | physical sciences | | |
 | | astronomical and space sciences (6) | Python; Lots of open discipline tools; LaTeX |
-| language, communication and culture | | |           
+| language, communication and culture (6) | | Python |           
 | environmental sciences | | |
-| | environmental science and management | |
+| | environmental science and management (6) | R, Python; Excel, ArcGIS |
 | earth sciences | | |
 | | atmospheric sciences / oceanography (6) | Python, Unix Shell; NCO; CDO; Git, LaTeX |
 | economics (5) | | Spread. |                                    
-| mathematical sciences | | |                        
-| history and archaeology | | |                      
-| commerce, management, tourism and services | | |    
-| built environment and design | | |                   
-| agricultural and veterinary sciences | | |           
-| education | | |                                      
+| mathematical sciences (5) | | R; LaTeX |                        
+| history and archaeology (4) | | non-coders |                      
+| commerce, management, tourism and services (4) | | R, non-coders; NVivo, SPSS, AMOS |    
+| built environment and design (3) | |  |                   
+| agricultural and veterinary sciences (2) | | |           
+| education (3) | | |                                      
 | chemical sciences | | |                              
 | studies in creative arts and writing | | |           
 | law and legal studies  | | |                         
