@@ -1,0 +1,138 @@
+# DEMOGRAPHICS 
+
+Total people: 14 
+
+early-career 1
+phd 8
+postdoc 3
+research assistant 2
+coders: 10
+non-coders: 4 
+
+# PROGRAMMING LANGUAGES 
+
+R             9
+Unix Shell    5
+Python        4 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## general
+Excel             7
+GraphPad Prism    4
+Mathematica       1 
+
+## statistics
+Stata    1
+SPSS     1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+## bioinformatics
+Bioconductor    1 
+
+## biological image processing
+BEDOPS    1 
+
+## biomedical
+Galaxy    1 
+
+## genomics
+IGV                        3
+bedtools                   2
+MEME                       2
+Artemis                    2
+Samtools                   2
+adegenet                   1
+PopART                     1
+caret                      1
+Trimmomatic                1
+VMD                        1
+VCFtools                   1
+PGD Spider                 1
+Karyostudio                1
+Mauve                      1
+Ikaros                     1
+DnaSP                      1
+FreeBayes                  1
+Contiguity                 1
+Easyfig                    1
+MACS                       1
+Arlequin                   1
+BRIG                       1
+BCFtools                   1
+Genome Analysis Toolkit    1 
+
+## medical image processing
+ImageJ      4
+itk-SNAP    1 
+
+## phylogenetics
+EvolView    1 
+
+## protein sequencing
+Clustal      1
+TopHat       1
+Cufflinks    1
+HMMER        1
+BioEdit      1
+BWA          1
+Subread      1
+MEGA         1 
+
+# SUPPORT TOOLS 
+
+## 3D design: general
+Blender     1
+FreeCAD     1
+OpenSCAD    1 
+
+## code development: editors
+Sublime         2
+TextWrangler    1
+Vim             1
+Notepad++       1 
+
+## code development: interactive development environments
+RStudio             3
+Jupyter notebook    1 
+
+## file management: storage/sharing
+Dropbox         4
+Google Drive    1 
+
+## file management: version control
+Git       3
+GitHub    2 
+
+## information management: concept/mind mapping
+MindMup    1 
+
+## information management: note taking
+Evernote    1 
+
+## information management: reference management
+EndNote     6
+Mendeley    2
+Papers      1 
+
+## information management: time management
+Time Out    1 
+
+## research presentation: document editing
+Word     6
+LaTeX    1 
+
+## research presentation: graphics editing
+GIMP           4
+Photoshop      3
+Illustrator    2
+Inkscape       2
+Aperture       1 
+
+## research presentation: slides
+PowerPoint    6
+Prezi         1
+Slidify       1
+Keynote       1 
+

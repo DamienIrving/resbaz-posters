@@ -1,0 +1,102 @@
+# DEMOGRAPHICS 
+
+Total people: 9 
+
+masters 2
+mid-career 1
+phd 5
+research assistant 1
+coders: 7
+non-coders: 2 
+
+# PROGRAMMING LANGUAGES 
+
+Python           7
+R                6
+Unix Shell       3
+HTML             2
+CSS              2
+BigDataScript    1
+MySQL            1
+Perl             1 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## general
+GraphPad Prism    2
+Excel             1
+numpy             1
+pandas            1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+## bioinformatics
+Bioconductor    1
+biopypthon      1 
+
+## flow cytometry
+FACSDIVA    2 
+
+## genomics
+Samtools     1
+Cytoscape    1
+VCFtools     1
+GeneGO       1
+Stacks       1 
+
+## medical image processing
+ImageJ    2 
+
+## protein sequencing
+Bowtie    2
+TopHat    1 
+
+# SUPPORT TOOLS 
+
+## code development: editors
+Atom        3
+Vim         3
+Sublime     3
+LiClipse    1 
+
+## code development: interactive development environments
+RStudio    2
+PyCharm    1 
+
+## file management: backup
+MS SyncToy    1 
+
+## file management: storage/sharing
+Dropbox         3
+Google Drive    1 
+
+## file management: version control
+Git       3
+GitHub    1 
+
+## information management: note taking
+Evernote    2
+OneNote     1
+Pocket      1 
+
+## information management: reference management
+EndNote     3
+Mendeley    1
+Zotero      1 
+
+## research presentation: document conversion
+Pandoc    1 
+
+## research presentation: document editing
+Word         4
+LaTeX        2
+Scrivener    1
+Markdown     1 
+
+## research presentation: graphics editing
+Photoshop      2
+Illustrator    1 
+
+## research presentation: slides
+PowerPoint    3 
+

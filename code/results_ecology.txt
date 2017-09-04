@@ -1,0 +1,136 @@
+# DEMOGRAPHICS 
+
+Total people: 12 
+
+early-career 1
+masters 3
+phd 7
+postdoc 1
+coders: 10
+non-coders: 2 
+
+# PROGRAMMING LANGUAGES 
+
+R              10
+AppleScript     1
+MATLAB          1 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## general
+Excel      7
+ggplot     2
+Minitab    1
+dplyr      1
+JMP        1 
+
+## spatial data
+ArcGIS          8
+Google Earth    1
+QGIS            1 
+
+## statistical modelling
+Netica    1 
+
+## statistics
+PRIMER-E     2
+SigmaStat    1
+SPSS         1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+## genomics
+Arlequin      1
+Bayescan      1
+PGD Spider    1
+GeneMapper    1
+Structure     1 
+
+## medical image processing
+ImageJ    1 
+
+## phylogenetics
+Beast2    1 
+
+## protein sequencing
+MEGA    1 
+
+# SUPPORT TOOLS 
+
+## code development: interactive development environments
+RStudio    7 
+
+## data collection: video editing
+iMovie                1
+Stop Motion Studio    1 
+
+## file management: organisation
+Hazel    1 
+
+## file management: search
+Alfred    1 
+
+## file management: storage/sharing
+Dropbox         8
+Google Drive    4
+OneDrive        2 
+
+## file management: version control
+Git            3
+Tower          1
+TortoiseGit    1
+GitHub         1 
+
+## information management: note taking
+Evernote    3
+OneNote     2
+Byword      1 
+
+## information management: online information
+Feedly    1 
+
+## information management: pdf reading/annotation
+Skim          1
+GoodReader    1 
+
+## information management: project management
+Asana            1
+Gantt project    1 
+
+## information management: reference management
+Mendeley    6
+EndNote     3
+Papers      2
+ReadCube    1 
+
+## information management: time management
+Handle         1
+Rescue time    1
+Eggscellent    1
+Tomighty       1 
+
+## research presentation: document editing
+Word             8
+R Markdown       2
+LaTeX            2
+Scribus          2
+Foxit PDF        1
+MultiMarkdown    1
+knitr            1
+Marked2          1
+TeXPad           1
+Markdown         1
+Google Docs      1
+Scrivener        1 
+
+## research presentation: graphics editing
+GIMP         6
+Photoshop    3
+Inkscape     2 
+
+## research presentation: slides
+PowerPoint    9
+Keynote       1
+InDesign      1
+Prezi         1 
+

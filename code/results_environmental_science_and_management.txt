@@ -1,0 +1,94 @@
+# DEMOGRAPHICS 
+
+Total people: 6 
+
+early-career 1
+mid-career 2
+phd 1
+postdoc 2
+coders: 5
+non-coders: 1 
+
+# PROGRAMMING LANGUAGES 
+
+Python          3
+R               3
+Unix Shell      1
+Visual Basic    1
+MATLAB          1
+MySQL           1
+Fortran         1 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## databases
+Access    1 
+
+## file manipulation
+NCO    1 
+
+## general
+Excel    4
+Shiny    1
+Visio    1 
+
+## qualitative data
+NVivo    1 
+
+## spatial data
+ArcGIS          5
+Google Earth    3
+IDL             1 
+
+## statistical modelling
+Netica    1 
+
+## statistics
+SPSS    1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+## geographic image processing
+ENVI    1 
+
+# SUPPORT TOOLS 
+
+## code development: editors
+Vim          1
+Notepad++    1 
+
+## code development: interactive development environments
+IDLE       1
+RStudio    1 
+
+## file management: storage/sharing
+Google Drive    2
+Dropbox         2
+Gcloud          1
+OneDrive        1 
+
+## file management: version control
+Git       2
+GitHub    2 
+
+## information management: concept/mind mapping
+Rationale    1 
+
+## information management: reference management
+EndNote    4 
+
+## research presentation: document editing
+Word         3
+Adobe PDF    1
+LaTeX        1
+Markdown     1 
+
+## research presentation: graphics editing
+Illustrator    2
+Paint.NET      1
+GIMP           1 
+
+## research presentation: slides
+PowerPoint    3
+Prezi         2 
+

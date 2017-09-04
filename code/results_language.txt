@@ -1,0 +1,98 @@
+# DEMOGRAPHICS 
+
+Total people: 6 
+
+phd 5
+postdoc 1
+coders: 5
+non-coders: 1 
+
+# PROGRAMMING LANGUAGES 
+
+Python        3
+Javascript    2
+HTML          2
+Unix Shell    2
+R             2
+C / C++       2
+SQL           1
+Perl          1
+CSS           1 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## general
+Tableau       1
+matplotlib    1
+Plotly        1
+Excel         1 
+
+## web
+jQuery    1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+## computational linguistics
+NLTK     1
+spaCy    1 
+
+## medical image processing
+ImageJ      1
+EdgeTrak    1 
+
+## phonetics
+emuR     1
+Praat    1 
+
+# SUPPORT TOOLS 
+
+## code development: editors
+Notepad++       2
+Emacs           2
+TextWrangler    1
+JEdit           1 
+
+## code development: interactive development environments
+RStudio             1
+Jupyter notebook    1 
+
+## data collection: video editing
+MPEG streamclip        1
+Adobe After Effects    1
+WIPster                1
+Adobe Premier          1 
+
+## file management: storage/sharing
+Dropbox         2
+Google Drive    1
+OneDrive        1 
+
+## file management: version control
+Subversion    3
+Git           1 
+
+## information management: note taking
+Evernote    1 
+
+## information management: reference management
+Zotero    3
+Bibtex    2
+Jabref    1 
+
+## research presentation: document editing
+Word           3
+LaTeX          3
+Google Docs    2
+Scrivener      1 
+
+## research presentation: graphics editing
+Xfig         1
+Photoshop    1
+Brat         1
+Inkscape     1 
+
+## research presentation: slides
+PowerPoint    4
+Prezi         1
+Beamer        1 
+

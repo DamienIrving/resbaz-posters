@@ -1,0 +1,89 @@
+# DEMOGRAPHICS 
+
+Total people: 5 
+
+early-career 1
+masters 1
+mid-career 1
+phd 1
+postdoc 1
+coders: 5
+non-coders: 0 
+
+# PROGRAMMING LANGUAGES 
+
+R             4
+C / C++       2
+HTML          2
+MATLAB        2
+Python        2
+Javascript    1
+Unix Shell    1
+CSS           1 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## general
+Excel            1
+Shiny            1
+Mathematica      1
+Google Sheets    1
+Gephi            1 
+
+## spatial data
+QGIS            1
+SAGA            1
+Google Earth    1 
+
+## statistical modelling
+netlogo    1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+# SUPPORT TOOLS 
+
+## code development: editors
+Vim          1
+Notepad++    1 
+
+## code development: interactive development environments
+RStudio             2
+Jupyter notebook    1 
+
+## file management: backup
+MS SyncToy    1 
+
+## file management: storage/sharing
+Dropbox    1 
+
+## file management: version control
+GitHub       1
+Git          1
+Bitbucket    1 
+
+## information management: reference management
+Mendeley    1
+Papers      1
+BibDesk     1
+EndNote     1 
+
+## research presentation: document editing
+LaTeX          4
+Word           2
+TeXMaker       1
+Authorea       1
+TeXPad         1
+Google Docs    1
+WinEdt         1
+TeXShop        1 
+
+## research presentation: graphics editing
+GIMP          1
+Inkscape      1
+Pixelmator    1 
+
+## research presentation: slides
+PowerPoint        1
+Beamer            1
+LaTeX Powerdot    1 
+

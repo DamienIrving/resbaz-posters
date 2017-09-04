@@ -1,0 +1,88 @@
+# DEMOGRAPHICS 
+
+Total people: 7 
+
+masters 1
+mid-career 1
+phd 4
+postdoc 1
+coders: 6
+non-coders: 1 
+
+# PROGRAMMING LANGUAGES 
+
+R         6
+MATLAB    2 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## general
+Excel          3
+Mathematica    1
+SigmaPlot      1 
+
+## qualitative data
+NVivo    1 
+
+## spatial data
+ArcGIS    2 
+
+## statistical modelling
+netlogo    1 
+
+## statistics
+SPSS        2
+SAS/STAT    1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+## geographic image processing
+LAStools    1 
+
+## medical image processing
+ImageJ    3 
+
+## morphometrics
+morpho-tools.net    1 
+
+## phylogenetics
+TNT    1 
+
+# SUPPORT TOOLS 
+
+## 3D design: general
+Meshmixer           1
+Geomagic Qualify    1
+SketchUp            1 
+
+## code development: editors
+Sublime    1 
+
+## code development: interactive development environments
+RStudio    2 
+
+## data collection: sound
+Raven    1 
+
+## file management: storage/sharing
+Google Drive    1
+Dropbox         1 
+
+## file management: version control
+Git    1 
+
+## information management: reference management
+EndNote    5 
+
+## research presentation: document editing
+Word    4 
+
+## research presentation: graphics editing
+Photoshop      3
+Inkscape       1
+Illustrator    1
+SigmaScan      1 
+
+## research presentation: slides
+PowerPoint    5 
+

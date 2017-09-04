@@ -1,0 +1,78 @@
+# DEMOGRAPHICS 
+
+Total people: 7 
+
+masters 1
+phd 5
+research assistant 1
+coders: 2
+non-coders: 5 
+
+# PROGRAMMING LANGUAGES 
+
+PostgreSQL    1
+MySQL         1
+R             1 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## general
+Excel      2
+Shiny      1
+Visio      1
+Tableau    1
+Gephi      1 
+
+## qualitative data
+NVivo         3
+Leximancer    2 
+
+## spatial data
+TileMill    1
+QGIS        1
+ArcGIS      1
+CARTO       1 
+
+## statistics
+SPSS    1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+# SUPPORT TOOLS 
+
+## code development: interactive development environments
+RStudio    1 
+
+## data collection: surveys
+Google Forms    1
+Qualtrics       1 
+
+## file management: storage/sharing
+Dropbox         6
+Google Drive    3 
+
+## file management: version control
+GitHub    1
+Git       1 
+
+## information management: note taking
+Evernote                     3
+Dragon Speech Recognition    2 
+
+## information management: reference management
+EndNote     4
+Mendeley    1 
+
+## research presentation: document editing
+Word     5
+LaTeX    1 
+
+## research presentation: graphics editing
+GIMP               1
+Google Drawings    1
+Piktochart         1
+Illustrator        1 
+
+## research presentation: slides
+PowerPoint    6 
+

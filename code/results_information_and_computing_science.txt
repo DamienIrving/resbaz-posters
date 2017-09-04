@@ -1,0 +1,100 @@
+# DEMOGRAPHICS 
+
+Total people: 8 
+
+phd 8
+coders: 7
+non-coders: 1 
+
+# PROGRAMMING LANGUAGES 
+
+Javascript    4
+Python        3
+MATLAB        2
+R             2
+C / C++       2
+Clojure       1
+HTML          1
+Unix Shell    1 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## general
+ggplot           1
+Gephi            1
+Excel            1
+D3.js            1
+Minitab          1
+Google Sheets    1
+Visio            1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+## network analysis
+igraph     1
+Statnet    1 
+
+## text mining
+tm    1 
+
+# SUPPORT TOOLS 
+
+## code development: editors
+Sublime      3
+Notepad++    1
+GEdit        1 
+
+## code development: interactive development environments
+Visual Studio    2
+Mars Eclipse     1 
+
+## file management: backup
+Time machine    1 
+
+## file management: storage/sharing
+Dropbox    4 
+
+## file management: version control
+Git          5
+GitHub       4
+Mercurial    1 
+
+## information management: concept/mind mapping
+FreeMind     1
+Xmind        1
+CmapTools    1 
+
+## information management: note taking
+Evernote    1
+DayOne      1 
+
+## information management: project management
+Trello        1
+Wunderlist    1 
+
+## information management: reference management
+Mendeley    2
+Papers      2 
+
+## research presentation: document editing
+LaTeX          3
+Scrivener      2
+Google Docs    2
+TeXWorks       1
+WinEdt         1
+LyX            1
+TeXMaker       1
+Word           1 
+
+## research presentation: graphics editing
+Photoshop       2
+Adobe Kuler     2
+Inkscape        1
+Noun Project    1
+Omnigaffle      1 
+
+## research presentation: slides
+PowerPoint                          2
+Beamer                              1
+Open Office Impress Presentation    1 
+

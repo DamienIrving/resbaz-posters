@@ -1,0 +1,53 @@
+# DEMOGRAPHICS 
+
+Total people: 4 
+
+phd 4
+coders: 0
+non-coders: 4 
+
+# PROGRAMMING LANGUAGES 
+
+Series([], ) 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## qualitative data
+Diogenes    1 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+# SUPPORT TOOLS 
+
+## 3D design: general
+AutoCAD    1 
+
+## file management: storage/sharing
+Google Drive    1
+Dropbox         1 
+
+## information management: finding data
+Diogenes        1
+Trove           1
+Trismegistos    1 
+
+## information management: online information
+Padlet    1 
+
+## information management: reference management
+EndNote    1
+Zotero     1 
+
+## research presentation: document editing
+Word                 2
+Google Docs          2
+Scrivener            2
+OpenOffice Writer    1 
+
+## research presentation: graphics editing
+GIMP         1
+Photoshop    1 
+
+## research presentation: slides
+PowerPoint    3 
+
