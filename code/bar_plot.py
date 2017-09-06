@@ -6,13 +6,28 @@ import seaborn as sns
 sns.set(style="white", context="talk")
 
 
+
+def parse_line(line):
+    """Parse a line from input file."""
+    
+    components = line.split()
+    freq = int(components[-1])
+    label = " ".join(components[0:-1])
+
+    return (label, freq)
+
+
 def main(inargs):
 
-    assert len(inargs.labels) == len(inargs.frequencies)
-
     # Read data into dataframe
-    labels = [x.replace('_', ' ') for x in inargs.labels]
-    data = list(zip(labels, inargs.frequencies))
+    if inargs.infile:
+        data = [parse_line(line) for line in open(inargs.infile)]
+        
+    else:
+        assert len(inargs.labels) == len(inargs.frequencies)
+        labels = [x.replace('_', ' ') for x in inargs.labels]
+        data = list(zip(labels, inargs.frequencies))
+    
     headers = ['label', 'frequency']
     df = pd.DataFrame.from_records(data, columns=headers)
     
@@ -48,9 +63,12 @@ author:
     
     parser.add_argument("outfile", type=str, help="Output file")                                     
 
-    parser.add_argument("--labels", type=str, nargs='*', required=True,
+    parser.add_argument("--infile", type=str, default=None, 
+                        help="Can give a file with tool /space freq on each line")
+
+    parser.add_argument("--labels", type=str, nargs='*',
                         help="bar labels (will appear top to bottom")
-    parser.add_argument("--frequencies", type=int, nargs='*', required=True,
+    parser.add_argument("--frequencies", type=int, nargs='*',
                         help="frequencies")
     
     parser.add_argument("--palette", type=str, choices=('sequential', 'qualitative'), default='qualitative',
