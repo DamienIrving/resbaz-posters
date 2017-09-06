@@ -1,0 +1,520 @@
+# DEMOGRAPHICS 
+
+Total people: 173 
+
+early-career 7
+honours 1
+masters 13
+mid-career 17
+phd 109
+postdoc 19
+research assistant 6
+senior-career 1
+coders: 116
+non-coders: 57 
+
+# PROGRAMMING LANGUAGES 
+
+R                67
+Python           45
+MATLAB           30
+Unix Shell       28
+C / C++          12
+HTML             11
+Javascript       10
+CSS               7
+MySQL             7
+Fortran           5
+SQLite            2
+Make              2
+Perl              2
+PostgreSQL        1
+Windows Shell     1
+BigDataScript     1
+Octave            1
+SQL               1
+Visual Basic      1
+PHP               1
+AppleScript       1
+Clojure           1 
+
+# GENERAL DATA SCIENCE TOOLS 
+
+## databases
+Access                   3
+SQL Maestro for MySQL    1
+Navicat                  1
+MySQL Workbench          1 
+
+## file manipulation
+NCO    6 
+
+## general
+Excel             70
+GraphPad Prism    19
+ggplot             7
+Visio              6
+Minitab            5
+Shiny              5
+Gephi              4
+matplotlib         4
+dplyr              3
+numpy              3
+Mathematica        3
+Google Sheets      2
+JMP                2
+Tableau            2
+pandas             2
+Plotly             2
+gnuplot            2
+D3.js              2
+xarray             1
+SM                 1
+SigmaPlot          1
+Origin             1
+Igor Pro           1
+Gnumetric          1 
+
+## machine learning
+Weka             1
+NVIDIA DIGITS    1 
+
+## qualitative data
+NVivo         14
+Leximancer     3
+Diogenes       1 
+
+## spatial data
+ArcGIS          19
+Google Earth     5
+QGIS             5
+IDL              3
+TileMill         1
+CARTO            1
+cartopy          1
+SAGA             1 
+
+## statistical modelling
+netlogo        2
+Netica         2
+Latent GOLD    1 
+
+## statistics
+SPSS         39
+Stata        11
+SAS/STAT      4
+PRIMER-E      3
+SigmaStat     2
+SciPy         2 
+
+## web
+jQuery    2 
+
+# DISCIPLINE DATA SCIENCE TOOLS 
+
+## astronomy
+IRAF            2
+TOPCAT          2
+SAOImage DS9    1
+Sextractor      1
+S2PLOT          1
+Swarp           1
+astropy         1 
+
+## bioinformatics
+Bioconductor    2
+biopypthon      1 
+
+## biological image processing
+BEDOPS          1
+Quantity One    1 
+
+## biomedical
+Galaxy           1
+XLSTAT-Biomed    1 
+
+## chemistry
+DS Visualizer      1
+FINDSYM            1
+moldraw            1
+ChemOffice         1
+GDIS               1
+RDKit              1
+Jmol               1
+Aspen Plus         1
+OpenEye toolkit    1
+Autodock           1 
+
+## climate
+CDO     4
+NCL     1
+iris    1 
+
+## computational linguistics
+NLTK     1
+spaCy    1 
+
+## economics
+EViews    1 
+
+## epidemiology
+EpiData    1 
+
+## flow cytometry
+FACSDIVA    2
+FlowJo      1 
+
+## genomics
+IGV                        4
+Samtools                   3
+PGD Spider                 2
+Arlequin                   2
+VCFtools                   2
+bedtools                   2
+MEME                       2
+Artemis                    2
+VMD                        2
+Cytoscape                  1
+BRIG                       1
+adegenet                   1
+Karyostudio                1
+Structure                  1
+Bayescan                   1
+GeneGO                     1
+Contiguity                 1
+Degust                     1
+Trimmomatic                1
+caret                      1
+plink                      1
+FreeBayes                  1
+BCFtools                   1
+Genome Analysis Toolkit    1
+Easyfig                    1
+PopART                     1
+FASTLINK                   1
+GeneMapper                 1
+Stacks                     1
+Mauve                      1
+DnaSP                      1
+Partek                     1
+Ikaros                     1
+MACS                       1
+GeneHunter                 1 
+
+## geographic image processing
+LAStools    1
+ENVI        1 
+
+## medical image processing
+ImageJ           20
+FSL               4
+Freesurfer        4
+MRtrix3           3
+SPM               2
+itk-SNAP          2
+ANTs              1
+BrainNet          1
+REST              1
+CONN              1
+MRIcron           1
+Brain Voyager     1
+EdgeTrak          1
+iso2mesh          1
+MRIcroGL          1
+MAGeTBrain        1 
+
+## meta-analysis
+Comprehensive Meta-Analysis    1
+RevMan                         1 
+
+## morphometrics
+morpho-tools.net    1 
+
+## network analysis
+Statnet    2
+Pajek      2
+igraph     2 
+
+## phonetics
+Praat    1
+emuR     1 
+
+## phylogenetics
+Beast2      2
+TNT         1
+EvolView    1 
+
+## protein sequencing
+Bowtie       2
+TopHat       2
+MEGA         2
+HMMER        1
+Cufflinks    1
+Subread      1
+BLAST        1
+Clustal      1
+BioEdit      1
+BWA          1
+Mutalin      1 
+
+## psychology
+PsychoPy    2
+ePrime      2 
+
+## risk analysis
+@Risk    1 
+
+## social network analysis
+UCINET    1 
+
+## social sciences
+PanelWhiz    1 
+
+## structural equation modeling
+AMOS    4 
+
+## text mining
+tm    1 
+
+# SUPPORT TOOLS 
+
+## 3D design: general
+SketchUp             2
+Rhino                2
+AutoCAD              2
+FreeCAD              1
+Mimics / 3-matic     1
+OpenSCAD             1
+Simpleware           1
+Geomagic studio      1
+Blender              1
+Autodesk Inventor    1
+REVIT                1
+Geomagic Qualify     1
+Meshmixer            1
+Abaqus               1
+Solidworks           1 
+
+## 3D design: molecular visualisation
+Molsoft ICM-Browser    1
+PyMOL                  1 
+
+## code development: editors
+Sublime         16
+Notepad++       11
+Vim             10
+TextWrangler     6
+Atom             4
+Emacs            3
+Nedit            3
+GEdit            2
+JEdit            1
+Kate             1
+LiveCode         1
+LiClipse         1 
+
+## code development: interactive development environments
+RStudio             30
+Jupyter notebook     9
+PyCharm              4
+Visual Studio        3
+Spyder               2
+Mars Eclipse         1
+IDLE                 1 
+
+## computing platform: general
+Nectar Research Cloud    1 
+
+## data collection: audio editing/transcribing
+Express Scribe    1
+Audacity          1 
+
+## data collection: behavioural observation
+Observer XT    1 
+
+## data collection: sound
+Raven    1 
+
+## data collection: surveys
+REDCap           3
+Google Forms     3
+Survey Monkey    2
+Qualtrics        2
+Inquisit         2
+Limesurvey       1 
+
+## data collection: video editing
+VLC                    3
+Adobe Premier          2
+WIPster                1
+MPEG streamclip        1
+PowerDirector          1
+Stop Motion Studio     1
+Adobe After Effects    1
+CamStudio              1
+iMovie                 1 
+
+## file management: backup
+MS SyncToy      2
+Time machine    1 
+
+## file management: big files
+ZFS    1 
+
+## file management: organisation
+Hazel    1 
+
+## file management: search
+Alfred    1 
+
+## file management: storage/sharing
+Dropbox         68
+Google Drive    33
+OneDrive         5
+CloudStor        2
+Backblaze        1
+Gcloud           1
+WeTransfer       1
+ownCloud         1
+SpiderOak        1 
+
+## file management: version control
+Git            40
+GitHub         27
+Bitbucket       7
+Subversion      3
+Sourcetree      2
+Mercurial       1
+Tower           1
+TortoiseGit     1 
+
+## information management: concept/mind mapping
+CmapTools    2
+FreeMind     2
+MindMup      2
+Xmind        1
+Coggle       1
+Rationale    1 
+
+## information management: finding data
+Trismegistos    1
+Trove           1
+Diogenes        1 
+
+## information management: note taking
+Evernote                     25
+OneNote                       7
+Dragon Speech Recognition     2
+DayOne                        1
+Pocket                        1
+Audio Memos                   1
+Byword                        1
+GoodNotes                     1
+Simplenote                    1 
+
+## information management: online information
+Feedly    2
+Padlet    1 
+
+## information management: pdf reading/annotation
+GoodReader           1
+Skim                 1
+Master PDF Editor    1
+Adobe Acrobat        1 
+
+## information management: project management
+Asana            3
+Gantter          1
+Gantt project    1
+Wunderlist       1
+Pomodone         1
+Trello           1
+Todoist          1 
+
+## information management: reference management
+EndNote              63
+Mendeley             28
+Papers               12
+Zotero                8
+Bibtex                6
+ReadCube              3
+BibDesk               3
+Jabref                2
+citethisforme.com     1
+RefWorks              1
+Qiqqa                 1 
+
+## information management: time management
+Google Calendar    1
+Tomighty           1
+Rescue time        1
+Time Out           1
+Eggscellent        1
+Handle             1 
+
+## research presentation: document conversion
+Pandoc    1 
+
+## research presentation: document editing
+Word                 87
+LaTeX                36
+Google Docs          13
+Scrivener            12
+OpenOffice Writer     9
+Markdown              6
+TeXWorks              4
+Authorea              4
+Scribus               3
+knitr                 3
+R Markdown            2
+TeXPad                2
+TEXnicCenter          2
+WinEdt                2
+LyX                   2
+TeXMaker              2
+MacDown               1
+TeXShop               1
+Adobe PDF             1
+Marked2               1
+Pages                 1
+Foxit PDF             1
+MultiMarkdown         1 
+
+## research presentation: graphics editing
+Photoshop          32
+Illustrator        22
+GIMP               22
+Inkscape           11
+Adobe Kuler         2
+Paint.NET           2
+Piktochart          1
+Xfig                1
+IrfanView           1
+Aperture            1
+Brat                1
+Google Drawings     1
+Omnigaffle          1
+SigmaScan           1
+Pixelmator          1
+CorrelDraw          1
+Noun Project        1
+Canva               1 
+
+## research presentation: slides
+PowerPoint                          96
+Prezi                               11
+Keynote                              8
+Beamer                               7
+Open Office Impress Presentation     3
+InDesign                             2
+Slidify                              1
+R presentations                      1
+Haiku Deck                           1
+LaTeX Powerdot                       1
+Google Slides                        1 
+
+## research presentation: web hosting
+XAMPP                    1
+bitnami LAMP             1
+Google Cloud Platform    1 
+
