@@ -19,16 +19,15 @@ and discussion/exploration of their limitations,
 which leads into an introduction to more advanced options (e.g. dataframe contructs in R or Python)
 for overcoming those limitations
 (e.g. see the [spreadsheet lesson for ecologists](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)).
-This might be a good approach for Research Platform Services,
-possibly integrating with spreadsheet courses that the library offers.
+This might be a good approach for Research Platform Services.
 
 **3. There are a small number of highly popular tools that do not appear in the training catalogue**
 
 ArcGIS, SPSS and NVivo are the most glaring omissions from our current course offerings.
 The Data Carpentry approach could be taken to teaching these tools also:
 * An introduction to ArcGIS best practices and limitations could lead into an introduction to the Python, R or MATLAB libraries used for working with maps and geographic information
-* An introduction to SPSS best practices and limitations could lead into an introduction to the Python, R or MATLAB libraries used for research statistics
-* An introduction to NVivo best practices and limitations could lead into our existing course on using the NLTK Python library for analysing text
+* An introduction to SPSS best practices and limitations (perhaps in partnership with the Maths and Stats Department, who offer SPSS courses) could lead into an introduction to the Python, R or MATLAB libraries used for research statistics
+* An introduction to NVivo best practices and limitations (perhaps in partnership with the library, who offer NVivo courses) could lead into our existing course on using the NLTK Python library for analysing text
 
 **4. An outreach officer (with broad, generic data science skills) could be employed to explore the needs of research faculties/disciplines that have had little engagement with Research Platform Services**
 
