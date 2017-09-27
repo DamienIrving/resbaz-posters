@@ -27,7 +27,7 @@ possibly integrating with spreadsheet courses that the library offers.
 ArcGIS, SPSS and NVivo are the most glaring omissions from our current course offerings.
 The Data Carpentry approach could be taken to teaching these tools also:
 * An introduction to ArcGIS best practices and limitations could lead into an introduction to the Python, R or MATLAB libraries used for working with maps and geographic information
-* An introduction to SPSS best practices and limitations could lead into an introuction to the Python, R or MATLAB libraries used for research statistics
+* An introduction to SPSS best practices and limitations could lead into an introduction to the Python, R or MATLAB libraries used for research statistics
 * An introduction to NVivo best practices and limitations could lead into our existing course on using the NLTK Python library for analysing text
 
 **4. An outreach officer (with broad, generic data science skills) could be employed to explore the needs of research faculties/disciplines that have had little engagement with Research Platform Services**
