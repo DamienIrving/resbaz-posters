@@ -26,7 +26,10 @@ Finally, the tables in `data/derived/` are used, in conjunction with the `code/s
 The research disciplines listed in `data/anzsrc_research_groups.csv` come from the
 [Australian and New Zealand Standard Research Classification (ANZSRC), 2008 ](http://www.abs.gov.au/ausstats/abs@.nsf/Products/6BB427AB9696C225CA2574180004463E?opendocument) 
 
-
+A larger survey of tools used for research discovery, analysis, writing, publication, outreach and assessment
+has been compiled by the [Innovations in Scolarly Communications](https://101innovations.wordpress.com/survey-2015-2016/) project.
+This poster analysis (and any survey designed from the findings) could drill deeper into analysis realm
+(i.e. more detailed information on the tools being used at a finer discipline-scale).
 
 
 
